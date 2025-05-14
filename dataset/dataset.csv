@@ -1,0 +1,1001 @@
+Household_ID,State,Rural_Urban,Household_Size,Monthly_Income,Education_Level,Employment_Status,Food_Expenditure,Housing_Expenditure,Transport_Expenditure,Healthcare_Expenditure,Other_Expenditures,Total_Expenditure,MPCE,Age_Household_Head,Gender_Household_Head,Electricity_Access,Internet_Access,Cooking_Fuel_Type,Water_Source,Sanitation_Facility,Vehicle_Ownership,Loan_Repayment,Savings,Mobile_Phones_Owned,TV_Ownership,Computer_Ownership,Internet_Data_Usage_GB,Type_of_Employment,Agricultural_Land_Owned,Financial_Aid_Received,Type_of_House,Debt_Amount,Insurance_Coverage
+H00001,Gujarat,Urban,8,67946,Higher Secondary,Employed,5907,6296,1367,11692,3758,29020,3627.5,57,Female,Yes,No,LPG,Other,No,0,11750,9880,0,Yes,No,97,Unemployed,6,No,Temporary Shelter,479580,No
+H00002,Tamil Nadu,Rural,3,26727,Postgraduate,Unemployed,2807,15745,8710,3545,5311,36118,12039.333333333334,32,Female,Yes,No,Wood,Other,No,0,12703,22806,3,Yes,No,145,Unemployed,7,Yes,Own House,454887,Yes
+H00003,West Bengal,Rural,8,73056,Postgraduate,Self-Employed,26762,6730,864,2686,7197,44239,5529.875,44,Male,No,No,Wood,River,No,2,16688,43016,2,No,Yes,465,Government,3,No,Rented House,14284,No
+H00004,Gujarat,Rural,5,8081,Secondary,Employed,16031,14921,7967,761,16275,55955,11191.0,40,Female,Yes,No,Other,Other,Yes,0,8043,10067,1,No,Yes,261,Unemployed,0,No,Own House,60526,Yes
+H00005,Uttar Pradesh,Rural,1,39196,Secondary,Self-Employed,6827,33894,7071,4181,11539,63512,63512.0,45,Female,No,Yes,Wood,Other,Yes,0,4908,30956,3,No,Yes,435,Government,1,Yes,Temporary Shelter,396639,Yes
+H00006,Rajasthan,Rural,7,41735,Secondary,Self-Employed,15699,6602,1079,6461,1939,31780,4540.0,69,Female,No,No,Other,Other,Yes,1,10627,37730,1,Yes,No,39,Self-Employed,3,No,Temporary Shelter,28577,No
+H00007,West Bengal,Urban,5,85102,Postgraduate,Unemployed,6524,18575,8174,1937,12134,47344,9468.8,79,Male,No,No,Wood,Other,No,1,2804,9279,3,No,No,192,Private,6,No,Temporary Shelter,121867,Yes
+H00008,West Bengal,Rural,6,84578,Higher Secondary,Employed,17193,20023,9237,9296,555,56304,9384.0,50,Female,Yes,No,LPG,Piped Water,Yes,2,10176,38723,4,Yes,Yes,238,Unemployed,1,No,Own House,261079,Yes
+H00009,Gujarat,Urban,6,30498,Graduate,Unemployed,27883,16997,6968,3754,605,56207,9367.833333333334,47,Female,Yes,No,Wood,River,Yes,2,3936,17687,1,No,Yes,41,Private,5,No,Temporary Shelter,380391,Yes
+H00010,Maharashtra,Urban,8,81865,Graduate,Employed,18223,18750,4650,12882,3701,58206,7275.75,42,Male,Yes,Yes,LPG,Well,No,2,17096,23833,1,Yes,Yes,221,Unemployed,1,No,Rented House,321044,Yes
+H00011,Uttar Pradesh,Rural,9,36656,Primary,Unemployed,20668,23837,3539,10118,15684,73846,8205.111111111111,55,Female,Yes,Yes,Electricity,Other,Yes,2,9873,22870,1,No,No,195,Unemployed,6,No,Rented House,346750,No
+H00012,Gujarat,Rural,2,72695,Graduate,Self-Employed,7313,15997,4637,11315,1169,40431,20215.5,76,Male,Yes,Yes,Wood,Piped Water,Yes,1,11390,33987,0,Yes,No,287,Government,1,No,Temporary Shelter,461084,Yes
+H00013,Uttar Pradesh,Urban,9,42900,Graduate,Employed,15598,24067,952,11923,13163,65703,7300.333333333333,66,Male,Yes,No,Wood,River,No,0,8366,4075,2,No,Yes,9,Unemployed,2,Yes,Rented House,268210,No
+H00014,Uttar Pradesh,Rural,9,89899,Secondary,Self-Employed,15058,21923,7037,12298,1466,57782,6420.222222222223,36,Female,Yes,No,Wood,Well,No,1,19589,13019,1,Yes,Yes,234,Self-Employed,8,No,Own House,214648,Yes
+H00015,Rajasthan,Rural,7,52701,Secondary,Self-Employed,19141,9876,1881,14204,17191,62293,8899.0,25,Female,Yes,Yes,LPG,River,No,2,14614,9702,1,No,Yes,324,Private,3,No,Own House,252539,No
+H00016,West Bengal,Urban,1,24033,Postgraduate,Unemployed,6887,3887,8654,9326,19022,47776,47776.0,66,Male,Yes,Yes,Wood,Piped Water,No,2,6506,45563,0,Yes,No,264,Unemployed,4,No,Temporary Shelter,366486,Yes
+H00017,Tamil Nadu,Urban,7,15805,Primary,Employed,5854,37854,1967,13589,12156,71420,10202.857142857143,33,Female,Yes,No,Wood,Piped Water,No,1,18156,34160,0,Yes,Yes,68,Private,8,No,Rented House,451104,Yes
+H00018,Rajasthan,Rural,5,40851,No Schooling,Self-Employed,14458,37948,3238,7295,16393,79332,15866.4,27,Female,No,Yes,Other,Piped Water,No,1,17458,42254,4,Yes,Yes,444,Private,6,No,Rented House,8583,No
+H00019,Rajasthan,Urban,6,31832,Primary,Unemployed,28782,3841,8072,13923,13589,68207,11367.833333333334,75,Male,Yes,No,Electricity,Other,No,2,8783,10240,3,Yes,Yes,138,Private,7,No,Temporary Shelter,300201,No
+H00020,Uttar Pradesh,Rural,7,68437,Primary,Employed,16536,29756,9908,8466,16993,81659,11665.57142857143,50,Male,Yes,No,LPG,Piped Water,No,0,11170,21270,1,No,No,354,Unemployed,2,Yes,Own House,153676,Yes
+H00021,Karnataka,Rural,5,18944,Higher Secondary,Employed,5558,7040,7247,494,4132,24471,4894.2,33,Female,Yes,No,Other,Well,No,2,14609,28930,3,No,No,218,Government,3,No,Temporary Shelter,288708,Yes
+H00022,West Bengal,Rural,7,24873,Postgraduate,Self-Employed,11772,11304,1380,8412,6184,39052,5578.857142857143,66,Male,No,No,LPG,Other,Yes,1,7322,44640,0,No,Yes,195,Private,6,No,Rented House,323573,Yes
+H00023,Maharashtra,Urban,9,45372,Higher Secondary,Employed,19345,31341,3649,11634,13766,79735,8859.444444444445,75,Female,Yes,No,Other,River,No,2,12174,6690,0,Yes,No,73,Private,3,Yes,Rented House,360744,Yes
+H00024,Rajasthan,Urban,3,94464,Primary,Self-Employed,22231,5758,8776,9430,18799,64994,21664.666666666668,40,Female,Yes,No,Electricity,Well,No,2,16208,46845,4,No,Yes,102,Unemployed,1,Yes,Temporary Shelter,88393,Yes
+H00025,Tamil Nadu,Urban,8,20379,Primary,Employed,25110,18010,8392,5530,17440,74482,9310.25,48,Female,No,Yes,Other,Other,Yes,0,2410,30709,2,Yes,Yes,224,Unemployed,9,No,Own House,377918,No
+H00026,Karnataka,Urban,2,41751,Primary,Unemployed,5575,32658,4644,4855,604,48336,24168.0,74,Female,Yes,Yes,LPG,Piped Water,No,2,13636,17501,0,No,Yes,122,Self-Employed,5,No,Own House,28941,No
+H00027,Karnataka,Urban,7,94822,Graduate,Self-Employed,27451,38782,1668,1309,2547,71757,10251.0,38,Male,No,Yes,Wood,River,Yes,2,9039,27829,1,Yes,Yes,101,Self-Employed,8,No,Temporary Shelter,448727,Yes
+H00028,Maharashtra,Rural,2,10110,Higher Secondary,Self-Employed,4418,2375,3629,13660,17029,41111,20555.5,27,Female,No,No,Wood,Piped Water,Yes,2,14990,38044,4,No,No,263,Government,1,Yes,Rented House,300106,No
+H00029,Rajasthan,Rural,4,59341,Primary,Employed,6198,34949,4145,3971,17757,67020,16755.0,58,Male,No,Yes,Electricity,Well,No,1,6441,45267,2,Yes,Yes,432,Government,0,Yes,Own House,169645,No
+H00030,Tamil Nadu,Rural,7,17087,Secondary,Employed,3001,23092,3026,8763,17182,55064,7866.285714285715,57,Female,No,No,LPG,Well,Yes,1,8685,28745,4,Yes,Yes,407,Government,7,No,Temporary Shelter,383554,Yes
+H00031,West Bengal,Rural,3,28762,Postgraduate,Self-Employed,23628,1490,4016,6323,9337,44794,14931.333333333334,74,Female,Yes,No,LPG,Other,No,0,13778,29147,0,No,No,486,Government,0,No,Rented House,418908,No
+H00032,Delhi,Urban,2,87617,Postgraduate,Employed,29960,4729,3867,7847,15907,62310,31155.0,48,Male,No,No,LPG,Well,No,2,13191,22660,2,No,Yes,160,Private,0,Yes,Own House,58420,Yes
+H00033,Tamil Nadu,Rural,7,14596,Secondary,Unemployed,9119,6974,7838,13305,6882,44118,6302.571428571428,33,Female,No,No,Electricity,River,Yes,1,9732,6747,3,No,No,232,Unemployed,2,Yes,Own House,82415,No
+H00034,Maharashtra,Urban,1,23313,Postgraduate,Employed,22450,20680,4055,1374,19395,67954,67954.0,37,Male,Yes,Yes,Wood,Other,Yes,0,3956,21206,2,Yes,Yes,490,Self-Employed,4,Yes,Temporary Shelter,166835,No
+H00035,Karnataka,Rural,8,71549,Graduate,Unemployed,21229,19324,5611,1364,1283,48811,6101.375,26,Male,Yes,Yes,Other,River,Yes,2,6553,6115,1,Yes,Yes,274,Private,8,Yes,Rented House,344157,No
+H00036,West Bengal,Urban,3,28705,Graduate,Unemployed,11673,32334,7252,9484,870,61613,20537.666666666668,31,Female,Yes,Yes,Electricity,Piped Water,No,0,19478,21606,3,Yes,Yes,257,Unemployed,9,No,Own House,176752,No
+H00037,Tamil Nadu,Urban,2,72364,No Schooling,Unemployed,29877,22398,945,9675,16408,79303,39651.5,72,Female,No,No,Other,River,No,0,2365,48713,3,No,Yes,310,Unemployed,1,Yes,Temporary Shelter,119012,No
+H00038,Delhi,Rural,3,78445,No Schooling,Unemployed,27233,35650,6864,10403,986,81136,27045.333333333332,45,Female,Yes,Yes,Wood,River,Yes,0,6668,24167,1,Yes,No,138,Private,0,Yes,Own House,137465,Yes
+H00039,Delhi,Rural,5,83645,No Schooling,Unemployed,7316,22292,4126,9237,15000,57971,11594.2,43,Female,No,Yes,Electricity,Well,No,0,5000,2156,3,No,Yes,226,Private,0,No,Rented House,120198,No
+H00040,Uttar Pradesh,Rural,8,7023,Postgraduate,Employed,18244,36755,4516,10383,3696,73594,9199.25,49,Male,No,Yes,Wood,Piped Water,No,0,19731,31819,0,Yes,No,272,Self-Employed,7,Yes,Own House,33488,Yes
+H00041,Uttar Pradesh,Rural,7,64796,Graduate,Unemployed,29356,39353,4375,8912,10052,92048,13149.714285714286,71,Female,Yes,No,Other,Well,Yes,0,3675,29428,2,No,No,425,Government,9,No,Rented House,152531,No
+H00042,Gujarat,Urban,7,85073,Graduate,Employed,18806,4159,5997,4666,2761,36389,5198.428571428572,46,Female,Yes,Yes,LPG,Piped Water,Yes,0,12907,12276,2,Yes,No,316,Government,9,Yes,Own House,497845,No
+H00043,Maharashtra,Rural,7,97197,Graduate,Unemployed,25099,33626,6738,5738,11313,82514,11787.714285714286,35,Female,Yes,No,LPG,Piped Water,Yes,2,17336,42871,1,Yes,Yes,386,Self-Employed,9,No,Own House,405770,No
+H00044,Rajasthan,Rural,8,69429,Secondary,Self-Employed,13873,30351,761,12588,9648,67221,8402.625,57,Female,Yes,Yes,Other,River,Yes,2,19684,31985,0,No,No,85,Self-Employed,1,Yes,Temporary Shelter,168939,Yes
+H00045,Tamil Nadu,Urban,1,66627,Graduate,Unemployed,6266,38298,5492,13148,9072,72276,72276.0,56,Female,Yes,No,LPG,Well,Yes,0,19563,21369,3,Yes,No,290,Government,8,No,Own House,209176,No
+H00046,Tamil Nadu,Rural,4,38848,Secondary,Self-Employed,9549,18065,4525,14169,15508,61816,15454.0,45,Male,Yes,Yes,Other,River,Yes,2,15136,46615,2,Yes,No,468,Private,8,No,Rented House,102330,No
+H00047,Rajasthan,Rural,6,42804,No Schooling,Unemployed,24700,22638,8783,7311,13585,77017,12836.166666666666,63,Female,No,Yes,Electricity,River,Yes,0,11155,3214,2,No,Yes,216,Government,1,Yes,Temporary Shelter,176087,Yes
+H00048,Gujarat,Rural,9,20379,No Schooling,Unemployed,21094,2073,4722,8634,17122,53645,5960.555555555556,44,Male,No,Yes,Electricity,River,Yes,2,12219,13542,2,Yes,Yes,358,Unemployed,2,No,Rented House,267201,Yes
+H00049,Karnataka,Rural,2,64664,Postgraduate,Unemployed,27028,19771,4675,3000,7343,61817,30908.5,32,Female,Yes,No,Electricity,Piped Water,Yes,1,3247,40251,2,No,No,65,Unemployed,1,No,Rented House,252570,Yes
+H00050,Karnataka,Rural,1,32766,No Schooling,Self-Employed,12589,36461,9674,4807,1605,65136,65136.0,66,Female,No,Yes,LPG,Well,Yes,0,4415,1729,4,No,No,256,Self-Employed,5,Yes,Temporary Shelter,83026,No
+H00051,Gujarat,Urban,2,73099,Postgraduate,Self-Employed,26453,30320,3943,11288,18270,90274,45137.0,61,Female,No,Yes,Wood,Well,No,1,19741,18027,1,Yes,Yes,134,Government,6,No,Rented House,5305,No
+H00052,Karnataka,Rural,7,41060,Primary,Unemployed,28551,5340,5511,10994,10941,61337,8762.42857142857,33,Male,No,No,LPG,River,No,0,6472,31417,3,Yes,No,403,Government,5,No,Own House,323420,No
+H00053,Uttar Pradesh,Rural,3,99733,Primary,Employed,3657,35924,1193,7462,10219,58455,19485.0,49,Female,No,No,LPG,Piped Water,Yes,0,4848,23996,3,Yes,No,426,Unemployed,2,Yes,Temporary Shelter,425956,No
+H00054,Tamil Nadu,Rural,2,74122,Higher Secondary,Unemployed,20925,17184,8847,10665,18551,76172,38086.0,49,Male,No,No,Wood,Well,No,1,1037,28255,1,No,No,374,Government,2,Yes,Own House,241290,Yes
+H00055,Gujarat,Rural,7,21087,Postgraduate,Self-Employed,8763,3580,2312,1741,3191,19587,2798.1428571428573,57,Male,No,No,Wood,Other,No,1,15634,18388,0,Yes,Yes,389,Self-Employed,1,No,Own House,417334,Yes
+H00056,Tamil Nadu,Rural,2,53868,Higher Secondary,Unemployed,21459,29967,6224,14749,12364,84763,42381.5,26,Female,Yes,Yes,Wood,Well,No,1,8262,21515,1,No,No,54,Self-Employed,1,No,Rented House,399890,No
+H00057,Rajasthan,Urban,3,28225,Higher Secondary,Self-Employed,5164,3159,1907,2965,2496,15691,5230.333333333333,43,Male,Yes,Yes,Wood,River,No,0,11066,36185,2,Yes,No,355,Unemployed,4,No,Rented House,173403,Yes
+H00058,Delhi,Rural,7,11643,Primary,Self-Employed,29542,14900,8532,10506,1925,65405,9343.57142857143,70,Female,Yes,No,LPG,Other,No,1,15554,11351,2,Yes,Yes,242,Government,7,No,Own House,90534,Yes
+H00059,Uttar Pradesh,Urban,4,98059,Postgraduate,Self-Employed,20437,12440,9908,4691,16878,64354,16088.5,44,Female,No,Yes,Other,Piped Water,No,1,7008,36984,1,No,No,251,Government,5,No,Temporary Shelter,146388,Yes
+H00060,West Bengal,Urban,1,41727,Primary,Unemployed,10479,15678,1910,13099,7349,48515,48515.0,66,Male,Yes,No,Electricity,Other,Yes,2,15263,25674,1,Yes,Yes,20,Unemployed,8,Yes,Own House,147289,No
+H00061,Uttar Pradesh,Rural,5,16005,Higher Secondary,Self-Employed,7737,13021,3997,3283,3747,31785,6357.0,65,Female,Yes,Yes,Other,Other,Yes,2,16238,9723,3,Yes,Yes,306,Private,4,No,Own House,460757,Yes
+H00062,Gujarat,Rural,9,70697,Postgraduate,Self-Employed,21601,7772,4872,5556,19476,59277,6586.333333333333,66,Female,Yes,No,LPG,River,No,1,5642,21036,3,Yes,Yes,429,Private,9,Yes,Rented House,111045,No
+H00063,West Bengal,Rural,8,21029,Higher Secondary,Unemployed,19831,2627,7894,2057,1990,34399,4299.875,53,Male,No,Yes,Wood,Well,No,1,16489,6223,4,Yes,No,162,Government,3,Yes,Rented House,407818,No
+H00064,Delhi,Rural,9,19226,Graduate,Self-Employed,8009,9219,1051,969,18108,37356,4150.666666666667,30,Male,Yes,No,Electricity,Piped Water,Yes,1,17153,3161,4,Yes,No,355,Self-Employed,8,Yes,Own House,258554,No
+H00065,Gujarat,Urban,9,68646,Postgraduate,Unemployed,18991,24464,9868,1622,19471,74416,8268.444444444445,41,Male,No,No,Electricity,Other,No,1,19324,40957,2,No,No,263,Private,9,Yes,Own House,349325,Yes
+H00066,Maharashtra,Rural,7,65603,Postgraduate,Self-Employed,6552,31232,4832,8798,19948,71362,10194.57142857143,49,Male,Yes,Yes,Other,River,No,2,14531,36599,4,Yes,No,497,Government,4,No,Rented House,373051,Yes
+H00067,Tamil Nadu,Rural,4,33731,Higher Secondary,Employed,20148,9488,1497,3172,14810,49115,12278.75,62,Male,Yes,Yes,LPG,Well,No,0,10384,39195,4,No,No,67,Private,0,No,Own House,13987,Yes
+H00068,Delhi,Rural,5,73926,Graduate,Employed,11417,35949,4576,2072,17716,71730,14346.0,28,Male,Yes,Yes,LPG,Other,No,1,16336,28551,0,Yes,No,106,Unemployed,4,No,Rented House,49915,Yes
+H00069,Tamil Nadu,Rural,1,10997,Secondary,Self-Employed,27811,19981,6599,5799,15901,76091,76091.0,54,Female,No,No,LPG,River,No,1,13661,16461,1,Yes,No,399,Private,4,Yes,Own House,13543,No
+H00070,Karnataka,Rural,1,60506,Primary,Employed,11221,1901,6055,11086,13384,43647,43647.0,44,Male,No,Yes,Electricity,River,Yes,2,11687,16007,3,No,No,66,Private,4,Yes,Temporary Shelter,290088,No
+H00071,Maharashtra,Rural,3,83229,Higher Secondary,Unemployed,4671,23444,4552,2469,19324,54460,18153.333333333332,27,Male,No,No,Other,River,Yes,1,13404,34914,4,Yes,Yes,198,Unemployed,1,No,Temporary Shelter,189313,No
+H00072,Maharashtra,Urban,8,54815,Postgraduate,Employed,8519,19061,5803,5475,5295,44153,5519.125,47,Female,No,Yes,Electricity,Piped Water,No,1,4355,19705,3,Yes,No,191,Self-Employed,5,Yes,Own House,140216,Yes
+H00073,Delhi,Urban,2,47092,Primary,Self-Employed,5962,3881,8618,4949,2146,25556,12778.0,75,Female,No,Yes,Electricity,Well,Yes,2,933,32356,4,No,No,1,Government,4,No,Rented House,371562,Yes
+H00074,Maharashtra,Rural,4,67539,Primary,Self-Employed,14734,30863,6602,6771,16642,75612,18903.0,42,Male,Yes,No,Wood,Other,No,1,8766,11432,4,No,Yes,256,Self-Employed,1,Yes,Own House,38459,Yes
+H00075,West Bengal,Rural,2,71077,Primary,Unemployed,15122,6622,5990,9573,14806,52113,26056.5,50,Male,Yes,No,Other,Well,No,1,5906,37932,2,Yes,No,441,Self-Employed,9,Yes,Own House,170899,No
+H00076,Maharashtra,Rural,5,26817,Secondary,Self-Employed,21561,2378,9064,5272,17324,55599,11119.8,60,Female,No,Yes,Wood,Well,No,2,12572,29576,0,No,Yes,0,Private,7,Yes,Rented House,30741,No
+H00077,Tamil Nadu,Urban,9,42861,No Schooling,Unemployed,5722,18632,6116,9831,6456,46757,5195.222222222223,32,Male,No,No,LPG,Other,No,0,12279,9545,1,No,No,357,Government,5,Yes,Own House,201087,Yes
+H00078,Tamil Nadu,Rural,1,18428,Higher Secondary,Employed,6906,29311,2748,11445,14428,64838,64838.0,41,Male,Yes,No,Electricity,Well,No,1,10723,33590,1,No,No,114,Private,9,Yes,Rented House,126077,No
+H00079,Gujarat,Urban,5,48934,No Schooling,Employed,9263,6650,1348,14906,10221,42388,8477.6,55,Female,No,Yes,Other,Piped Water,No,1,10611,29867,2,No,Yes,390,Unemployed,2,Yes,Own House,462950,No
+H00080,Tamil Nadu,Rural,9,15258,No Schooling,Unemployed,15699,8036,6854,5663,11657,47909,5323.222222222223,61,Male,Yes,No,LPG,Other,No,0,8261,46157,2,Yes,Yes,87,Self-Employed,8,Yes,Rented House,74627,Yes
+H00081,Gujarat,Rural,1,62775,No Schooling,Unemployed,23438,23499,9195,11725,2867,70724,70724.0,69,Female,No,Yes,Other,Other,No,2,4474,15310,1,Yes,No,196,Self-Employed,3,No,Own House,249783,Yes
+H00082,Tamil Nadu,Rural,9,86580,Primary,Self-Employed,28051,38016,8570,7650,7196,89483,9942.555555555555,57,Male,Yes,Yes,Electricity,River,No,0,16638,24259,1,No,Yes,468,Unemployed,2,No,Temporary Shelter,375516,No
+H00083,West Bengal,Rural,8,99947,Graduate,Employed,13088,5603,9394,11289,5690,45064,5633.0,51,Female,No,No,Other,Well,Yes,1,4787,7664,0,Yes,No,91,Government,6,Yes,Rented House,331885,Yes
+H00084,Rajasthan,Urban,4,10469,Primary,Unemployed,2808,28773,4125,11295,5163,52164,13041.0,69,Female,No,Yes,LPG,Other,No,0,13575,41143,4,No,No,273,Self-Employed,7,Yes,Temporary Shelter,69177,No
+H00085,Gujarat,Urban,5,33854,Primary,Employed,11170,20937,814,8620,7562,49103,9820.6,28,Female,Yes,No,Wood,Other,Yes,2,7862,21319,0,Yes,No,343,Self-Employed,6,No,Rented House,3543,Yes
+H00086,Uttar Pradesh,Rural,5,11256,Postgraduate,Unemployed,18260,13632,2876,4159,4831,43758,8751.6,46,Male,Yes,Yes,Electricity,Piped Water,Yes,1,10956,28046,1,Yes,No,159,Government,0,Yes,Rented House,136663,No
+H00087,Karnataka,Rural,6,81256,Postgraduate,Employed,29039,31607,9732,14815,19918,105111,17518.5,50,Female,No,No,Wood,River,No,2,10663,36687,4,No,No,172,Private,0,No,Rented House,241209,Yes
+H00088,Delhi,Urban,7,38937,No Schooling,Self-Employed,19109,27337,4878,10285,12380,73989,10569.857142857143,56,Male,No,No,Electricity,Other,Yes,2,16120,3464,1,No,No,32,Unemployed,4,No,Rented House,488093,Yes
+H00089,Tamil Nadu,Urban,8,6651,Primary,Employed,12693,1220,8949,1513,16746,41121,5140.125,48,Female,Yes,No,LPG,Piped Water,No,0,3742,4418,0,Yes,Yes,457,Government,7,No,Own House,318539,Yes
+H00090,Maharashtra,Urban,8,55288,No Schooling,Employed,29938,5818,1074,8047,3762,48639,6079.875,70,Female,No,No,Electricity,Other,No,0,2035,11579,0,Yes,Yes,72,Unemployed,9,No,Own House,191506,No
+H00091,Rajasthan,Urban,2,89730,Postgraduate,Employed,9701,8349,6085,1270,13820,39225,19612.5,59,Female,Yes,No,Wood,Other,No,2,1967,7498,0,Yes,Yes,432,Unemployed,2,No,Rented House,291199,No
+H00092,Tamil Nadu,Rural,9,30051,Graduate,Employed,19600,6618,5992,9366,18991,60567,6729.666666666667,61,Male,Yes,Yes,Electricity,Other,No,2,1852,2552,4,No,No,416,Self-Employed,7,Yes,Own House,268260,Yes
+H00093,Maharashtra,Urban,7,32386,Higher Secondary,Employed,22435,28464,9449,10130,7536,78014,11144.857142857143,56,Male,No,Yes,LPG,Piped Water,Yes,1,19567,21772,3,Yes,Yes,480,Government,2,Yes,Rented House,317629,No
+H00094,Karnataka,Rural,4,80054,No Schooling,Self-Employed,20581,38344,3310,3485,19631,85351,21337.75,31,Female,Yes,No,Electricity,Well,Yes,2,10547,33293,3,No,No,454,Unemployed,3,No,Rented House,459513,No
+H00095,Karnataka,Urban,4,21184,Graduate,Unemployed,16191,19255,8634,9149,5177,58406,14601.5,57,Male,Yes,Yes,Wood,Other,No,2,6618,13965,1,No,Yes,195,Private,9,Yes,Temporary Shelter,133479,Yes
+H00096,Karnataka,Urban,8,38787,Higher Secondary,Employed,21190,25299,9796,3295,8472,68052,8506.5,55,Male,No,No,LPG,Other,Yes,0,13859,25445,4,No,No,283,Unemployed,6,No,Rented House,162666,Yes
+H00097,Maharashtra,Urban,4,26621,Secondary,Self-Employed,27354,2462,6170,520,15829,52335,13083.75,79,Male,Yes,No,Wood,Well,Yes,2,8303,46375,2,Yes,No,86,Self-Employed,2,Yes,Rented House,66421,Yes
+H00098,Tamil Nadu,Urban,6,80564,No Schooling,Employed,19356,16905,8215,2521,4764,51761,8626.833333333334,36,Female,Yes,Yes,Electricity,Other,Yes,2,11350,20459,3,No,No,308,Private,3,Yes,Own House,228803,No
+H00099,Karnataka,Urban,5,82984,No Schooling,Employed,29386,25920,7067,755,3633,66761,13352.2,35,Male,Yes,Yes,Other,River,No,0,16566,8899,4,Yes,No,223,Private,7,Yes,Rented House,297555,Yes
+H00100,West Bengal,Rural,3,64792,Secondary,Unemployed,24018,17252,3959,5139,12112,62480,20826.666666666668,48,Female,Yes,No,Wood,Other,Yes,1,164,23153,4,No,No,43,Government,3,Yes,Rented House,486571,No
+H00101,Gujarat,Rural,2,50253,Secondary,Employed,15704,35836,6617,5632,18349,82138,41069.0,32,Female,No,No,Electricity,River,Yes,0,6958,34992,3,Yes,Yes,335,Private,8,Yes,Temporary Shelter,386259,No
+H00102,Maharashtra,Urban,9,39051,No Schooling,Self-Employed,25867,6753,4492,1586,19095,57793,6421.444444444444,56,Female,Yes,No,Other,Well,Yes,0,2137,17784,4,Yes,No,493,Government,3,Yes,Own House,207733,No
+H00103,Maharashtra,Urban,9,54811,Secondary,Self-Employed,4123,15175,8337,4963,14658,47256,5250.666666666667,62,Male,No,No,Other,Piped Water,No,2,10215,5115,4,No,Yes,438,Government,3,Yes,Own House,218102,Yes
+H00104,Tamil Nadu,Rural,1,35447,Primary,Unemployed,27174,7191,703,11439,10235,56742,56742.0,46,Female,Yes,No,LPG,Well,Yes,2,16838,31765,3,No,No,137,Private,4,Yes,Temporary Shelter,99772,Yes
+H00105,Maharashtra,Urban,3,88930,Higher Secondary,Employed,13533,18898,3275,10819,2189,48714,16238.0,58,Male,No,No,Other,Other,Yes,1,18669,8757,0,Yes,No,269,Government,0,No,Rented House,186516,No
+H00106,Maharashtra,Urban,8,35254,Higher Secondary,Self-Employed,18608,19982,2492,7054,10263,58399,7299.875,43,Male,Yes,Yes,Wood,River,No,2,16925,22051,1,Yes,No,358,Government,6,No,Temporary Shelter,352265,No
+H00107,Karnataka,Rural,6,89045,Higher Secondary,Employed,16448,15622,2743,14430,8227,57470,9578.333333333334,76,Female,No,No,Wood,Piped Water,Yes,1,6033,32163,2,No,Yes,35,Private,8,Yes,Own House,218653,Yes
+H00108,Tamil Nadu,Urban,5,62418,Primary,Employed,16586,2001,8998,10396,8264,46245,9249.0,44,Female,Yes,No,Other,Other,No,1,2665,32843,1,No,No,33,Self-Employed,8,Yes,Temporary Shelter,385815,Yes
+H00109,Karnataka,Urban,5,19472,Secondary,Employed,27416,24283,2187,10322,13503,77711,15542.2,38,Female,Yes,Yes,Electricity,Piped Water,No,1,13129,26621,0,Yes,Yes,87,Unemployed,0,Yes,Own House,219055,Yes
+H00110,Gujarat,Rural,6,8471,Graduate,Unemployed,3814,22435,4609,7837,1318,40013,6668.833333333333,57,Male,Yes,No,Wood,Piped Water,No,1,12125,10831,0,Yes,No,145,Government,5,No,Temporary Shelter,373814,Yes
+H00111,Rajasthan,Rural,7,13329,Secondary,Employed,15001,28223,2360,5041,14939,65564,9366.285714285714,34,Male,Yes,No,Wood,Other,No,2,6189,18844,4,No,Yes,15,Government,2,Yes,Rented House,498535,Yes
+H00112,Gujarat,Rural,1,39865,No Schooling,Self-Employed,19490,38244,5676,13162,15577,92149,92149.0,40,Female,No,Yes,LPG,Well,No,0,13708,18523,1,Yes,Yes,232,Private,3,Yes,Rented House,157310,Yes
+H00113,Rajasthan,Urban,9,51850,Postgraduate,Employed,18508,31024,1222,10555,5021,66330,7370.0,28,Female,No,No,Electricity,Other,No,0,18072,49176,0,No,Yes,420,Unemployed,7,No,Own House,104627,Yes
+H00114,Karnataka,Rural,3,59220,Higher Secondary,Self-Employed,21630,31734,9471,13553,1624,78012,26004.0,51,Male,Yes,Yes,Other,Other,Yes,2,5095,17668,1,No,No,40,Unemployed,3,No,Temporary Shelter,172775,Yes
+H00115,Gujarat,Rural,4,98808,Secondary,Employed,15380,1515,9220,4067,6160,36342,9085.5,52,Male,No,No,Electricity,Well,No,2,14409,47511,0,No,No,254,Government,7,No,Own House,166268,Yes
+H00116,Tamil Nadu,Rural,1,11397,Graduate,Self-Employed,17406,2191,5393,10818,6141,41949,41949.0,67,Female,Yes,Yes,LPG,River,Yes,1,7583,4034,2,No,Yes,280,Private,3,Yes,Rented House,208293,No
+H00117,Delhi,Rural,3,40525,No Schooling,Self-Employed,4931,33264,843,3993,18013,61044,20348.0,40,Male,Yes,Yes,LPG,Other,Yes,2,1637,11509,0,Yes,No,125,Self-Employed,8,No,Own House,274882,Yes
+H00118,Karnataka,Rural,2,58072,Primary,Employed,15567,7297,5898,7573,2202,38537,19268.5,76,Male,No,Yes,Electricity,Piped Water,No,0,14670,31510,1,No,No,7,Unemployed,5,Yes,Rented House,114183,Yes
+H00119,Rajasthan,Rural,2,95106,Primary,Employed,16038,28856,8900,2713,18885,75392,37696.0,57,Male,No,No,LPG,Other,Yes,2,5966,30908,4,No,No,471,Self-Employed,0,No,Own House,277916,No
+H00120,West Bengal,Urban,1,88820,Graduate,Self-Employed,14317,9334,5236,4003,11639,44529,44529.0,72,Male,No,No,LPG,Other,Yes,2,4670,8272,1,Yes,Yes,467,Private,9,Yes,Temporary Shelter,327414,Yes
+H00121,Rajasthan,Urban,8,89530,No Schooling,Unemployed,4971,25162,3906,2527,16202,52768,6596.0,43,Male,Yes,Yes,LPG,Piped Water,Yes,1,5203,27458,3,Yes,Yes,367,Self-Employed,1,Yes,Rented House,469385,Yes
+H00122,West Bengal,Rural,3,28284,Higher Secondary,Employed,4017,7008,1419,9009,7023,28476,9492.0,45,Male,Yes,Yes,Electricity,Well,No,1,18274,877,1,No,No,349,Private,6,Yes,Own House,416708,No
+H00123,Maharashtra,Rural,3,66330,Secondary,Unemployed,25799,8987,6319,2365,12897,56367,18789.0,46,Female,No,No,LPG,River,Yes,1,19589,19863,2,No,Yes,339,Government,9,No,Rented House,317123,Yes
+H00124,Gujarat,Rural,6,88369,No Schooling,Employed,4415,31966,2544,3508,8611,51044,8507.333333333334,33,Male,Yes,No,Other,River,Yes,1,8669,48773,2,No,No,401,Self-Employed,6,Yes,Temporary Shelter,248240,No
+H00125,West Bengal,Urban,8,30122,Primary,Employed,21480,4332,918,6652,2901,36283,4535.375,33,Female,No,No,Other,Piped Water,No,0,14968,35286,2,No,No,323,Government,2,Yes,Rented House,181410,No
+H00126,Rajasthan,Urban,9,75553,Graduate,Employed,3609,1787,2249,8267,9981,25893,2877.0,33,Female,No,No,Wood,Well,Yes,2,2366,31270,0,No,Yes,175,Government,0,Yes,Temporary Shelter,113585,Yes
+H00127,Maharashtra,Urban,9,86906,Graduate,Employed,2717,39990,7878,7842,10567,68994,7666.0,51,Male,No,No,Other,Other,Yes,2,18910,20561,2,No,Yes,227,Private,7,No,Rented House,457767,No
+H00128,Delhi,Urban,4,99788,Secondary,Unemployed,21945,10873,1599,14635,13876,62928,15732.0,41,Female,No,Yes,Wood,Other,Yes,1,366,45322,1,Yes,No,453,Self-Employed,9,Yes,Temporary Shelter,252669,No
+H00129,Tamil Nadu,Urban,5,67812,Graduate,Employed,27592,18006,3892,6604,14324,70418,14083.6,68,Female,No,No,Electricity,Other,No,0,15647,2539,4,Yes,No,322,Unemployed,9,Yes,Rented House,430071,No
+H00130,Tamil Nadu,Urban,2,12999,Graduate,Self-Employed,14662,21225,3272,1192,13944,54295,27147.5,69,Female,No,Yes,LPG,Other,Yes,0,9907,7904,2,No,No,401,Self-Employed,6,Yes,Temporary Shelter,399444,No
+H00131,Tamil Nadu,Urban,9,27436,No Schooling,Self-Employed,8782,37444,7284,5624,13379,72513,8057.0,32,Male,Yes,No,Other,Other,Yes,2,6606,45891,1,Yes,Yes,366,Unemployed,9,Yes,Own House,199439,Yes
+H00132,West Bengal,Urban,8,47963,Higher Secondary,Unemployed,28536,36340,2045,9769,16612,93302,11662.75,40,Female,Yes,Yes,Wood,Piped Water,No,1,12,47694,0,Yes,Yes,487,Government,7,No,Own House,151117,No
+H00133,Delhi,Urban,3,7096,Secondary,Employed,3048,6033,1570,4581,1039,16271,5423.666666666667,42,Male,No,Yes,Electricity,Other,No,2,19623,13312,0,No,No,17,Government,0,Yes,Rented House,214740,No
+H00134,West Bengal,Rural,9,30279,No Schooling,Self-Employed,27933,8788,7022,14863,11474,70080,7786.666666666667,57,Female,No,No,Wood,Other,No,2,2317,21753,4,Yes,No,55,Private,2,No,Temporary Shelter,207663,Yes
+H00135,Gujarat,Rural,3,31201,Higher Secondary,Unemployed,13618,16689,2350,3374,14346,50377,16792.333333333332,25,Female,No,Yes,LPG,Well,Yes,0,15429,22071,4,Yes,Yes,406,Unemployed,1,No,Own House,24318,No
+H00136,West Bengal,Rural,9,24715,No Schooling,Employed,10307,22598,5553,14598,6115,59171,6574.555555555556,36,Female,Yes,Yes,Other,Other,No,0,7485,2089,1,No,No,34,Self-Employed,0,Yes,Rented House,320602,Yes
+H00137,Delhi,Rural,2,34309,Postgraduate,Self-Employed,28671,38480,3439,4982,16516,92088,46044.0,30,Female,No,Yes,Electricity,River,No,2,16759,7968,4,No,Yes,389,Private,4,No,Own House,407011,No
+H00138,Delhi,Urban,9,20078,No Schooling,Self-Employed,9905,30703,7694,9697,3456,61455,6828.333333333333,65,Male,No,Yes,Wood,Piped Water,No,1,256,42126,4,No,Yes,117,Private,2,No,Temporary Shelter,368000,Yes
+H00139,Gujarat,Urban,8,61614,Graduate,Unemployed,11993,1066,6351,5760,8577,33747,4218.375,79,Female,No,No,Electricity,Piped Water,Yes,1,16833,33812,0,Yes,No,281,Private,9,No,Rented House,85184,No
+H00140,Delhi,Rural,9,10105,Higher Secondary,Employed,12338,8533,7173,7660,4222,39926,4436.222222222223,29,Female,Yes,Yes,Wood,Piped Water,No,2,15903,24704,1,No,No,253,Self-Employed,7,Yes,Temporary Shelter,447740,Yes
+H00141,Rajasthan,Urban,5,99848,Secondary,Employed,7578,16103,1178,13225,12559,50643,10128.6,40,Male,No,No,Wood,River,No,2,3212,22235,4,Yes,Yes,212,Private,5,No,Temporary Shelter,128789,No
+H00142,Delhi,Rural,2,7839,Secondary,Self-Employed,15834,5616,1488,3278,5587,31803,15901.5,42,Male,Yes,Yes,LPG,Other,No,1,6175,30644,1,No,No,60,Self-Employed,9,No,Temporary Shelter,480910,Yes
+H00143,Tamil Nadu,Urban,8,73920,Higher Secondary,Self-Employed,20004,39498,2002,11078,10838,83420,10427.5,73,Male,Yes,No,LPG,Piped Water,No,1,13571,38018,2,No,Yes,87,Private,8,Yes,Own House,21747,Yes
+H00144,Rajasthan,Rural,6,48619,Graduate,Self-Employed,8548,12772,2289,3183,2670,29462,4910.333333333333,42,Female,No,No,Wood,River,No,1,16087,30947,0,No,Yes,270,Unemployed,8,Yes,Rented House,253651,Yes
+H00145,Rajasthan,Urban,8,47821,Primary,Employed,9381,24849,5781,7459,3891,51361,6420.125,25,Male,Yes,No,Other,Well,Yes,2,7446,43874,0,No,Yes,346,Government,5,No,Temporary Shelter,219842,Yes
+H00146,Gujarat,Urban,5,18493,No Schooling,Unemployed,23164,13940,5527,6254,7442,56327,11265.4,43,Male,Yes,Yes,Electricity,Other,Yes,0,17692,10780,0,Yes,No,31,Unemployed,1,No,Own House,178445,Yes
+H00147,Uttar Pradesh,Rural,2,22069,Graduate,Unemployed,29526,17932,1925,14382,18500,82265,41132.5,78,Male,Yes,No,Electricity,River,No,1,14877,48072,3,Yes,No,395,Unemployed,8,No,Temporary Shelter,162632,No
+H00148,Uttar Pradesh,Urban,6,12531,Postgraduate,Employed,22176,30769,7154,2723,14306,77128,12854.666666666666,32,Male,No,No,LPG,Other,No,1,12943,30183,1,No,No,132,Private,1,Yes,Own House,11282,No
+H00149,Delhi,Rural,5,42051,Higher Secondary,Unemployed,4941,25648,2940,11974,15292,60795,12159.0,27,Male,Yes,Yes,Other,Well,No,1,10306,34533,2,Yes,Yes,63,Unemployed,2,No,Rented House,427047,Yes
+H00150,Rajasthan,Rural,5,12736,No Schooling,Self-Employed,7695,33966,7356,9877,13309,72203,14440.6,49,Male,No,No,Wood,River,Yes,2,4016,45679,4,No,Yes,198,Unemployed,5,Yes,Rented House,63073,Yes
+H00151,Uttar Pradesh,Rural,1,12710,Secondary,Unemployed,8401,28777,7867,10492,15355,70892,70892.0,29,Female,No,Yes,LPG,Other,Yes,0,5912,26409,2,No,Yes,255,Unemployed,1,No,Rented House,154115,No
+H00152,Uttar Pradesh,Rural,2,72155,Primary,Unemployed,17179,33567,9970,4781,9608,75105,37552.5,79,Male,No,Yes,Wood,River,Yes,0,442,41819,1,Yes,Yes,341,Private,4,No,Rented House,242720,No
+H00153,Delhi,Urban,8,18975,Postgraduate,Unemployed,16456,18174,3094,12107,6958,56789,7098.625,64,Female,Yes,No,Wood,Piped Water,Yes,1,2944,10449,0,Yes,No,154,Self-Employed,1,Yes,Temporary Shelter,458538,Yes
+H00154,Uttar Pradesh,Urban,3,67424,Secondary,Self-Employed,15097,14798,5189,5809,3256,44149,14716.333333333334,43,Male,No,Yes,LPG,Other,No,2,3936,9643,3,No,No,462,Government,3,No,Own House,315044,No
+H00155,West Bengal,Urban,3,50603,Higher Secondary,Employed,27553,18558,2936,2201,7353,58601,19533.666666666668,42,Male,Yes,Yes,Other,River,No,0,398,9560,1,No,No,230,Government,2,Yes,Rented House,283073,Yes
+H00156,Maharashtra,Rural,8,28252,No Schooling,Self-Employed,8197,1178,6017,1587,8209,25188,3148.5,74,Male,Yes,Yes,Electricity,Piped Water,No,2,15696,34653,1,No,Yes,300,Self-Employed,4,No,Temporary Shelter,35500,Yes
+H00157,Gujarat,Urban,8,85797,Higher Secondary,Employed,29642,21470,9719,11575,18820,91226,11403.25,77,Female,Yes,No,LPG,Well,No,0,2995,28625,4,Yes,Yes,34,Self-Employed,5,Yes,Rented House,264016,Yes
+H00158,Maharashtra,Rural,2,6431,No Schooling,Employed,7450,18118,6810,6752,19975,59105,29552.5,55,Male,Yes,Yes,Other,Other,Yes,1,6329,6048,2,No,No,25,Unemployed,6,Yes,Rented House,168560,No
+H00159,Delhi,Urban,8,79603,Graduate,Employed,27359,23616,4039,1230,13347,69591,8698.875,57,Male,No,Yes,Wood,Other,No,2,2216,14598,2,No,Yes,22,Government,9,No,Rented House,329649,Yes
+H00160,Tamil Nadu,Urban,1,42481,Primary,Unemployed,26816,1798,3983,10157,17852,60606,60606.0,71,Male,No,Yes,LPG,Well,Yes,1,18091,19091,4,No,No,140,Self-Employed,7,Yes,Own House,287604,No
+H00161,Gujarat,Urban,6,97573,Graduate,Unemployed,24258,8601,7871,13155,7797,61682,10280.333333333334,42,Male,Yes,No,Electricity,Piped Water,Yes,0,11523,25074,3,No,Yes,473,Unemployed,8,No,Own House,12155,No
+H00162,Delhi,Rural,8,14557,Graduate,Employed,19937,26363,2741,1420,16756,67217,8402.125,63,Female,No,Yes,Electricity,Well,No,0,2568,35498,0,No,Yes,386,Government,3,Yes,Own House,405086,No
+H00163,Rajasthan,Urban,3,79971,Higher Secondary,Employed,19396,3795,6878,13322,3703,47094,15698.0,40,Female,No,No,Wood,Other,Yes,1,160,7760,0,No,Yes,284,Private,3,Yes,Rented House,377150,No
+H00164,Tamil Nadu,Urban,8,5162,Primary,Unemployed,10378,32926,3265,13363,6999,66931,8366.375,40,Female,No,Yes,LPG,River,Yes,0,15648,26345,3,Yes,Yes,449,Private,6,Yes,Temporary Shelter,356072,Yes
+H00165,Maharashtra,Rural,1,39742,No Schooling,Self-Employed,3881,38356,9865,12198,5673,69973,69973.0,71,Female,Yes,No,Electricity,Piped Water,No,1,8067,338,4,No,Yes,319,Government,9,No,Temporary Shelter,134789,Yes
+H00166,Delhi,Urban,9,24675,No Schooling,Employed,8799,8297,5411,10806,17773,51086,5676.222222222223,62,Female,No,No,LPG,Piped Water,Yes,1,3904,20020,1,No,No,155,Government,9,Yes,Temporary Shelter,126075,No
+H00167,Rajasthan,Rural,9,78997,Postgraduate,Self-Employed,16597,4084,903,13489,12150,47223,5247.0,65,Male,Yes,No,Electricity,Piped Water,Yes,1,3573,46759,2,Yes,No,470,Private,8,Yes,Rented House,132446,Yes
+H00168,Gujarat,Urban,5,22015,Secondary,Unemployed,15675,31329,3882,12737,9673,73296,14659.2,31,Male,No,Yes,Wood,Well,No,0,1825,9438,1,Yes,No,419,Private,1,Yes,Own House,152898,No
+H00169,Gujarat,Rural,4,55057,Postgraduate,Employed,6586,12110,4663,6235,7882,37476,9369.0,38,Male,Yes,Yes,Wood,Well,Yes,2,13786,42617,2,No,Yes,112,Government,5,No,Temporary Shelter,467431,Yes
+H00170,Karnataka,Rural,6,37591,Postgraduate,Self-Employed,27006,1731,8130,10010,1301,48178,8029.666666666667,67,Female,Yes,Yes,LPG,River,Yes,1,9815,10449,1,Yes,No,389,Unemployed,9,No,Rented House,377282,Yes
+H00171,Rajasthan,Urban,7,98583,No Schooling,Self-Employed,10430,2129,587,9655,8734,31535,4505.0,77,Male,Yes,No,Other,River,No,2,13794,46450,4,No,No,138,Self-Employed,9,Yes,Rented House,144499,Yes
+H00172,West Bengal,Rural,5,14833,Higher Secondary,Self-Employed,24831,29022,9850,6723,14397,84823,16964.6,72,Female,No,Yes,Other,Piped Water,Yes,0,1176,11743,4,Yes,Yes,421,Self-Employed,7,Yes,Temporary Shelter,64442,Yes
+H00173,Uttar Pradesh,Rural,9,12896,Graduate,Unemployed,4345,2605,6316,8274,15697,37237,4137.444444444444,49,Male,Yes,Yes,Wood,River,No,0,19604,28374,3,Yes,Yes,373,Government,4,No,Temporary Shelter,482316,Yes
+H00174,Tamil Nadu,Rural,3,37972,Graduate,Unemployed,18459,12970,5970,9263,10469,57131,19043.666666666668,56,Female,No,No,Electricity,Well,Yes,2,7820,45113,1,No,No,417,Self-Employed,4,Yes,Rented House,427924,Yes
+H00175,Rajasthan,Rural,7,54733,Graduate,Self-Employed,11548,30265,6776,1034,3701,53324,7617.714285714285,62,Male,Yes,Yes,Other,River,Yes,1,16514,40767,1,Yes,No,208,Private,7,Yes,Temporary Shelter,362815,No
+H00176,Karnataka,Rural,5,46800,Primary,Self-Employed,7877,33330,6239,11214,17233,75893,15178.6,46,Male,No,Yes,Wood,Well,No,0,19946,40013,3,No,No,322,Private,0,Yes,Rented House,155343,Yes
+H00177,Uttar Pradesh,Rural,7,10347,No Schooling,Unemployed,8785,3933,4773,9310,10472,37273,5324.714285714285,40,Male,Yes,No,Electricity,River,No,1,1499,38729,3,Yes,No,363,Self-Employed,5,Yes,Temporary Shelter,194644,Yes
+H00178,Uttar Pradesh,Urban,2,64063,Higher Secondary,Self-Employed,17833,16187,7023,1924,1083,44050,22025.0,76,Male,No,No,Electricity,Other,Yes,1,7626,45919,4,No,No,429,Government,9,Yes,Own House,278775,Yes
+H00179,Delhi,Rural,4,7643,Primary,Self-Employed,6922,26791,5503,6798,13219,59233,14808.25,53,Female,Yes,Yes,Other,Well,No,2,16137,16732,4,Yes,Yes,481,Private,8,Yes,Rented House,19887,No
+H00180,Uttar Pradesh,Rural,2,45785,Secondary,Unemployed,26474,25900,8538,2613,3877,67402,33701.0,40,Male,Yes,No,Wood,Other,Yes,0,19172,27244,1,No,No,85,Unemployed,5,No,Own House,25259,Yes
+H00181,West Bengal,Urban,7,23681,Higher Secondary,Self-Employed,20714,6074,7106,9705,15355,58954,8422.0,36,Male,Yes,Yes,Electricity,Well,No,2,3708,12421,4,No,No,284,Unemployed,6,Yes,Temporary Shelter,97932,Yes
+H00182,Gujarat,Urban,2,55026,Postgraduate,Self-Employed,6686,27426,2564,6193,3901,46770,23385.0,41,Male,No,Yes,Electricity,River,Yes,0,1769,37191,4,No,No,59,Private,3,Yes,Rented House,57987,Yes
+H00183,Karnataka,Urban,1,20892,Higher Secondary,Self-Employed,16407,1893,5815,4698,14136,42949,42949.0,61,Female,Yes,Yes,LPG,Other,Yes,2,9510,29356,1,No,No,53,Private,9,No,Temporary Shelter,180702,No
+H00184,Uttar Pradesh,Urban,9,52299,Higher Secondary,Unemployed,20286,35158,817,2305,16238,74804,8311.555555555555,51,Male,Yes,Yes,LPG,River,Yes,0,14226,23585,3,Yes,No,92,Self-Employed,0,No,Rented House,281288,Yes
+H00185,Delhi,Urban,1,22073,Graduate,Self-Employed,14205,20773,2002,2768,7272,47020,47020.0,49,Male,Yes,Yes,Other,Well,Yes,0,15634,2960,1,No,No,324,Government,8,No,Temporary Shelter,209263,No
+H00186,West Bengal,Urban,8,35682,Higher Secondary,Unemployed,23054,5239,6630,13815,10631,59369,7421.125,37,Male,Yes,No,LPG,Other,Yes,0,6731,49975,0,Yes,Yes,457,Self-Employed,5,No,Own House,237344,No
+H00187,Maharashtra,Urban,2,19289,Postgraduate,Unemployed,25527,21863,7919,9530,1288,66127,33063.5,32,Male,No,No,Wood,Piped Water,No,1,10965,15019,1,Yes,Yes,457,Government,2,Yes,Own House,442276,Yes
+H00188,Gujarat,Rural,8,12927,Postgraduate,Employed,15179,4432,2542,409,16684,39246,4905.75,29,Male,Yes,Yes,Other,River,No,1,19428,33437,0,No,Yes,372,Unemployed,3,No,Temporary Shelter,186164,Yes
+H00189,Gujarat,Rural,3,53330,No Schooling,Employed,20443,36139,5098,9456,3389,74525,24841.666666666668,36,Female,Yes,No,Other,Well,Yes,2,375,8511,1,No,No,264,Unemployed,9,Yes,Own House,151908,No
+H00190,Karnataka,Urban,6,71707,Higher Secondary,Self-Employed,18524,2515,618,5111,10069,36837,6139.5,65,Female,No,No,LPG,Other,Yes,2,15517,9686,0,Yes,No,381,Government,5,No,Own House,244119,No
+H00191,Gujarat,Rural,3,82454,Graduate,Unemployed,20173,32670,1209,2420,10641,67113,22371.0,27,Female,No,Yes,Electricity,River,No,0,19420,24412,0,Yes,Yes,212,Self-Employed,5,No,Temporary Shelter,460120,Yes
+H00192,Uttar Pradesh,Rural,7,70428,Higher Secondary,Employed,2016,15605,4057,433,12434,34545,4935.0,59,Male,No,No,Wood,Other,No,0,6218,23155,1,Yes,No,332,Private,8,No,Rented House,231602,Yes
+H00193,Delhi,Rural,9,55601,Secondary,Self-Employed,15374,6586,3750,992,10269,36971,4107.888888888889,57,Female,Yes,No,Wood,River,No,1,17124,34990,4,No,No,9,Government,3,Yes,Temporary Shelter,306600,No
+H00194,Gujarat,Urban,2,82465,Secondary,Employed,18848,36685,8561,14395,8112,86601,43300.5,46,Male,No,Yes,Wood,River,No,1,8495,28907,2,No,No,357,Self-Employed,4,No,Rented House,167452,No
+H00195,Gujarat,Urban,5,7539,Graduate,Employed,22855,32186,9109,14101,19376,97627,19525.4,74,Male,No,Yes,Other,River,No,1,1085,20484,4,Yes,Yes,202,Unemployed,4,No,Own House,120250,No
+H00196,Maharashtra,Rural,6,27669,No Schooling,Unemployed,20211,27928,3103,3310,16705,71257,11876.166666666666,68,Male,No,Yes,Wood,Other,Yes,2,13073,47277,0,Yes,Yes,195,Private,2,No,Own House,339879,No
+H00197,Maharashtra,Urban,4,75968,No Schooling,Unemployed,29604,33728,1601,2366,14434,81733,20433.25,33,Male,Yes,Yes,Electricity,Other,Yes,1,11371,29025,1,Yes,Yes,57,Unemployed,1,Yes,Own House,273713,Yes
+H00198,Tamil Nadu,Rural,4,25644,Postgraduate,Employed,27095,18551,4921,8726,10595,69888,17472.0,65,Female,Yes,Yes,Electricity,River,No,2,17594,3189,1,No,No,493,Government,7,Yes,Own House,387438,No
+H00199,West Bengal,Rural,4,23745,Postgraduate,Employed,7956,22493,8357,9751,4740,53297,13324.25,42,Female,Yes,Yes,LPG,Piped Water,No,1,11226,14342,1,Yes,Yes,255,Unemployed,9,No,Own House,230435,Yes
+H00200,Uttar Pradesh,Rural,2,33228,Primary,Unemployed,18473,21711,8677,14127,19206,82194,41097.0,74,Female,No,Yes,Wood,Piped Water,No,1,19503,40078,1,Yes,Yes,222,Unemployed,8,Yes,Rented House,424398,No
+H00201,Gujarat,Rural,4,39521,Graduate,Self-Employed,6815,21039,6582,5393,11248,51077,12769.25,53,Male,Yes,No,Other,Piped Water,No,0,10046,16533,2,Yes,Yes,368,Government,9,No,Rented House,471867,No
+H00202,Rajasthan,Urban,1,31928,Higher Secondary,Unemployed,21235,37561,7158,1414,5798,73166,73166.0,63,Female,No,Yes,LPG,Well,No,2,16651,33382,3,Yes,No,179,Private,8,Yes,Rented House,152721,Yes
+H00203,Gujarat,Urban,6,23322,Graduate,Employed,4843,10947,2761,4619,2361,25531,4255.166666666667,51,Female,No,No,Electricity,Piped Water,No,1,19158,11083,0,No,Yes,417,Government,4,No,Temporary Shelter,345875,Yes
+H00204,Delhi,Urban,1,62714,Primary,Self-Employed,28460,33335,8521,7514,14642,92472,92472.0,60,Male,No,No,Wood,Other,No,0,11041,43838,2,Yes,Yes,361,Self-Employed,8,Yes,Own House,358276,Yes
+H00205,Tamil Nadu,Rural,6,92896,Postgraduate,Employed,17972,16859,1008,14278,7820,57937,9656.166666666666,69,Female,Yes,Yes,Electricity,Piped Water,No,2,4349,43678,4,No,No,34,Government,3,No,Own House,100497,Yes
+H00206,West Bengal,Urban,1,67292,Graduate,Self-Employed,27501,24122,2879,8675,11867,75044,75044.0,41,Male,No,No,LPG,Other,No,2,4965,42897,3,No,Yes,358,Government,1,Yes,Own House,289147,No
+H00207,Rajasthan,Rural,6,34055,Graduate,Employed,24927,2577,9379,412,17982,55277,9212.833333333334,58,Female,No,No,Electricity,Well,Yes,1,13492,4771,3,Yes,No,102,Private,2,Yes,Temporary Shelter,409767,Yes
+H00208,Tamil Nadu,Urban,8,47891,Postgraduate,Self-Employed,24285,29350,5252,1858,5747,66492,8311.5,70,Female,Yes,No,Wood,Other,No,2,13336,24233,1,No,No,160,Self-Employed,0,No,Temporary Shelter,114432,Yes
+H00209,Karnataka,Rural,2,86912,Primary,Self-Employed,19353,34798,9984,12470,2234,78839,39419.5,27,Female,No,Yes,Wood,Other,No,0,19843,43309,2,Yes,Yes,199,Unemployed,4,No,Temporary Shelter,154898,Yes
+H00210,West Bengal,Rural,2,11588,Postgraduate,Employed,3094,32898,5995,14229,5163,61379,30689.5,29,Male,No,No,LPG,Other,Yes,0,17373,514,4,Yes,Yes,159,Unemployed,0,Yes,Own House,364630,No
+H00211,Gujarat,Rural,4,95536,No Schooling,Self-Employed,8124,16881,3709,5224,6409,40347,10086.75,38,Female,No,No,Wood,Piped Water,Yes,2,12684,47961,1,Yes,Yes,182,Unemployed,0,No,Rented House,155801,No
+H00212,Gujarat,Urban,3,11304,Higher Secondary,Unemployed,25731,11785,7898,13239,13318,71971,23990.333333333332,27,Female,Yes,Yes,Electricity,River,Yes,0,17321,21342,1,Yes,No,352,Unemployed,6,No,Temporary Shelter,444912,Yes
+H00213,West Bengal,Urban,4,12345,Postgraduate,Employed,21579,7691,7243,9809,17564,63886,15971.5,47,Female,No,No,Electricity,Other,No,2,6654,35284,0,Yes,Yes,135,Private,1,No,Temporary Shelter,397084,No
+H00214,Gujarat,Urban,7,34300,Primary,Unemployed,3404,18297,6148,10778,8663,47290,6755.714285714285,63,Female,Yes,No,Other,Piped Water,No,0,7342,38479,3,No,Yes,429,Self-Employed,7,No,Rented House,41274,No
+H00215,Uttar Pradesh,Urban,1,29259,Secondary,Employed,29940,7358,5671,6117,18954,68040,68040.0,54,Male,Yes,No,Other,Piped Water,No,2,2358,15331,4,No,Yes,397,Private,5,Yes,Temporary Shelter,38718,Yes
+H00216,West Bengal,Rural,6,96006,No Schooling,Self-Employed,25324,20581,8390,5341,13858,73494,12249.0,74,Male,No,No,Other,Piped Water,No,2,19729,21949,3,Yes,No,225,Government,3,No,Rented House,425569,No
+H00217,Tamil Nadu,Urban,3,93553,Secondary,Self-Employed,22674,2462,824,1994,7168,35122,11707.333333333334,69,Female,No,No,Electricity,River,Yes,2,6360,41263,2,No,No,391,Self-Employed,8,Yes,Own House,41682,Yes
+H00218,West Bengal,Urban,7,20352,Postgraduate,Self-Employed,5982,16511,4057,6188,13516,46254,6607.714285714285,47,Female,No,Yes,Electricity,River,No,0,3743,31776,0,Yes,No,242,Self-Employed,9,Yes,Rented House,30653,Yes
+H00219,Rajasthan,Rural,2,38365,No Schooling,Employed,14515,11570,4087,8496,8501,47169,23584.5,51,Female,No,No,LPG,River,No,2,7159,22156,1,No,Yes,105,Unemployed,7,No,Rented House,257583,Yes
+H00220,Gujarat,Rural,2,24446,Higher Secondary,Unemployed,17790,16474,651,13977,10421,59313,29656.5,78,Male,Yes,Yes,Other,River,Yes,2,518,41128,0,No,Yes,70,Unemployed,9,No,Own House,145213,No
+H00221,Uttar Pradesh,Rural,4,7336,Postgraduate,Unemployed,14205,8037,1454,5778,2691,32165,8041.25,34,Female,Yes,No,Electricity,Well,No,1,16652,20047,1,Yes,No,76,Unemployed,2,Yes,Temporary Shelter,404753,Yes
+H00222,Uttar Pradesh,Urban,1,67032,Higher Secondary,Employed,23939,29129,4854,5751,9359,73032,73032.0,49,Female,No,Yes,LPG,River,No,1,12925,45516,0,No,Yes,53,Unemployed,2,No,Own House,30401,No
+H00223,Karnataka,Rural,3,80415,Graduate,Employed,26338,14386,7660,13257,9372,71013,23671.0,37,Male,Yes,Yes,Electricity,River,No,2,14810,26140,1,No,Yes,276,Government,3,No,Temporary Shelter,158459,No
+H00224,Tamil Nadu,Rural,9,12521,Secondary,Unemployed,14748,7221,9883,12285,19730,63867,7096.333333333333,40,Male,No,Yes,LPG,River,No,1,16239,46210,3,No,No,110,Unemployed,8,Yes,Temporary Shelter,81690,No
+H00225,Maharashtra,Rural,7,76707,No Schooling,Unemployed,23097,24474,1187,4045,19347,72150,10307.142857142857,65,Male,No,No,Other,Other,Yes,2,5475,47078,3,Yes,No,223,Private,8,Yes,Rented House,362757,No
+H00226,Maharashtra,Urban,7,28481,Higher Secondary,Unemployed,5092,22045,9001,12082,5422,53642,7663.142857142857,58,Female,No,No,Other,Other,Yes,1,4185,25382,3,No,No,74,Self-Employed,4,Yes,Own House,137702,Yes
+H00227,West Bengal,Rural,4,23474,Primary,Unemployed,22543,26783,3627,7106,4892,64951,16237.75,79,Male,No,No,Other,River,Yes,0,5161,26301,3,No,Yes,13,Government,8,No,Rented House,436677,Yes
+H00228,Karnataka,Urban,2,51760,Higher Secondary,Employed,24692,5922,7263,14447,14041,66365,33182.5,61,Male,Yes,No,Electricity,Well,Yes,0,9580,6933,0,No,Yes,458,Government,5,No,Own House,473530,No
+H00229,Delhi,Urban,4,60718,Primary,Employed,28650,23706,3895,14515,19881,90647,22661.75,46,Female,Yes,No,Electricity,Other,No,2,9886,4852,1,No,Yes,257,Self-Employed,7,Yes,Own House,306437,Yes
+H00230,West Bengal,Rural,6,49629,Postgraduate,Self-Employed,25862,33479,9505,11684,15515,96045,16007.5,41,Male,No,Yes,LPG,Piped Water,No,2,11465,24607,3,No,No,481,Self-Employed,7,Yes,Rented House,416286,No
+H00231,Karnataka,Rural,3,50232,No Schooling,Unemployed,26860,6178,1345,578,3727,38688,12896.0,47,Female,No,Yes,Wood,Other,No,0,11221,20269,0,No,No,188,Self-Employed,9,No,Temporary Shelter,275560,No
+H00232,Tamil Nadu,Urban,1,91544,Higher Secondary,Self-Employed,15971,31022,1664,3493,2524,54674,54674.0,78,Female,Yes,Yes,Wood,Piped Water,Yes,0,2335,44846,1,No,Yes,363,Government,6,No,Temporary Shelter,116711,Yes
+H00233,Tamil Nadu,Rural,8,72169,Higher Secondary,Employed,16616,16240,6404,3529,17213,60002,7500.25,60,Male,Yes,No,Other,Other,Yes,1,3674,41595,0,No,No,238,Private,3,No,Own House,377181,No
+H00234,Tamil Nadu,Rural,5,55669,No Schooling,Employed,6933,27220,5860,5008,2986,48007,9601.4,73,Female,Yes,No,Wood,River,Yes,2,4576,25030,3,No,No,400,Private,3,Yes,Temporary Shelter,353079,Yes
+H00235,Tamil Nadu,Urban,5,83021,Higher Secondary,Self-Employed,6926,37736,854,11830,1655,59001,11800.2,33,Male,No,Yes,Other,Other,No,0,14972,5123,2,Yes,Yes,333,Self-Employed,5,No,Rented House,401845,No
+H00236,Tamil Nadu,Urban,4,74184,Primary,Unemployed,27763,3716,2372,8137,10582,52570,13142.5,76,Male,Yes,No,LPG,River,No,0,500,1082,0,No,No,472,Government,8,No,Rented House,456660,No
+H00237,Karnataka,Rural,6,52945,Higher Secondary,Unemployed,5969,17574,2524,13860,4977,44904,7484.0,26,Male,No,No,Wood,River,Yes,2,8083,14405,3,No,Yes,303,Unemployed,6,Yes,Rented House,270504,No
+H00238,Karnataka,Urban,3,18140,Secondary,Unemployed,4965,18719,3317,424,19069,46494,15498.0,56,Female,No,Yes,Wood,Other,Yes,1,8294,16246,4,No,No,90,Government,4,No,Own House,12011,No
+H00239,Uttar Pradesh,Rural,9,88457,Postgraduate,Unemployed,6319,9181,4332,14225,7586,41643,4627.0,74,Male,Yes,Yes,Other,Piped Water,No,1,15720,11301,1,No,Yes,391,Self-Employed,4,Yes,Own House,40721,Yes
+H00240,Rajasthan,Rural,5,19357,Graduate,Self-Employed,10975,21213,8757,937,2817,44699,8939.8,77,Female,No,No,LPG,Piped Water,No,1,5543,17010,3,No,No,183,Government,7,No,Temporary Shelter,257366,No
+H00241,Maharashtra,Rural,3,73673,Primary,Self-Employed,9108,7380,3081,435,4121,24125,8041.666666666667,46,Female,Yes,No,Wood,Other,No,1,19130,23131,4,Yes,Yes,16,Government,5,Yes,Rented House,298213,No
+H00242,Gujarat,Urban,1,70633,Secondary,Employed,11141,1615,9822,12670,4991,40239,40239.0,67,Female,No,Yes,Wood,River,Yes,0,3276,23736,0,Yes,No,452,Government,0,Yes,Rented House,315414,Yes
+H00243,Tamil Nadu,Rural,6,81943,Postgraduate,Unemployed,22323,1463,2986,911,16416,44099,7349.833333333333,37,Male,No,No,Wood,Piped Water,Yes,2,19469,17414,0,Yes,No,11,Unemployed,0,Yes,Own House,11227,No
+H00244,Delhi,Rural,2,83258,No Schooling,Unemployed,18428,32973,9526,6188,15748,82863,41431.5,32,Female,No,Yes,LPG,Well,Yes,2,6613,27432,4,Yes,No,165,Self-Employed,8,No,Own House,39587,No
+H00245,Gujarat,Rural,3,17924,Primary,Unemployed,3810,10158,8918,14979,3011,40876,13625.333333333334,25,Female,No,Yes,LPG,River,Yes,0,11729,18430,4,No,No,145,Self-Employed,7,No,Own House,61720,No
+H00246,Karnataka,Urban,1,74286,Graduate,Self-Employed,22950,21651,2943,2088,10046,59678,59678.0,41,Male,No,Yes,Wood,Other,No,0,1327,15465,1,No,No,281,Self-Employed,5,No,Rented House,437766,No
+H00247,Delhi,Urban,9,98269,Postgraduate,Unemployed,12273,4158,9419,13110,16112,55072,6119.111111111111,36,Male,No,No,Other,River,No,0,7772,43601,0,No,Yes,478,Private,0,No,Rented House,330449,No
+H00248,Delhi,Urban,8,79071,Graduate,Self-Employed,11021,21008,1536,7373,8348,49286,6160.75,28,Female,Yes,Yes,Other,Well,No,2,10666,10208,4,Yes,Yes,36,Private,1,Yes,Temporary Shelter,338172,No
+H00249,Delhi,Urban,2,62326,No Schooling,Unemployed,20293,5938,9184,1459,14774,51648,25824.0,77,Female,Yes,Yes,Wood,Well,Yes,2,16289,3460,2,Yes,Yes,69,Self-Employed,9,No,Rented House,315795,Yes
+H00250,Uttar Pradesh,Urban,8,95023,No Schooling,Unemployed,8364,39185,7935,5446,18177,79107,9888.375,37,Male,No,No,LPG,Piped Water,No,2,18946,42653,2,Yes,No,168,Government,2,No,Temporary Shelter,313476,No
+H00251,Karnataka,Rural,9,35651,Primary,Employed,4581,23388,2048,7471,2965,40453,4494.777777777777,55,Female,Yes,Yes,Wood,Well,No,1,19701,40980,4,Yes,Yes,334,Government,9,Yes,Temporary Shelter,199953,Yes
+H00252,Delhi,Urban,1,75202,Higher Secondary,Unemployed,2691,9881,9835,948,16804,40159,40159.0,65,Female,No,No,LPG,River,No,0,18820,48884,1,No,No,169,Self-Employed,2,Yes,Rented House,330345,No
+H00253,Tamil Nadu,Urban,5,53777,No Schooling,Unemployed,2931,6603,5565,12378,16169,43646,8729.2,31,Female,Yes,No,Wood,Piped Water,No,0,5769,3725,0,No,No,496,Unemployed,1,Yes,Temporary Shelter,418023,Yes
+H00254,West Bengal,Urban,8,21994,Postgraduate,Employed,15128,35980,6996,3751,11794,73649,9206.125,47,Female,Yes,No,LPG,Well,No,0,13663,38337,2,Yes,Yes,252,Unemployed,1,Yes,Temporary Shelter,305696,Yes
+H00255,Delhi,Rural,2,72263,Higher Secondary,Self-Employed,26294,23504,6683,14690,3675,74846,37423.0,48,Male,No,Yes,Electricity,Piped Water,Yes,2,5918,1323,4,No,Yes,345,Government,5,No,Own House,208974,Yes
+H00256,Uttar Pradesh,Urban,4,64634,Secondary,Self-Employed,16226,17766,4457,6600,8349,53398,13349.5,29,Female,Yes,Yes,Other,Piped Water,No,0,17473,39978,4,Yes,No,498,Government,6,Yes,Rented House,123938,Yes
+H00257,Gujarat,Urban,7,15800,Graduate,Unemployed,15861,29386,3907,14770,12973,76897,10985.285714285714,29,Male,No,No,Electricity,Other,No,0,4555,9257,3,Yes,No,459,Private,3,No,Temporary Shelter,117230,No
+H00258,Karnataka,Rural,3,42823,Higher Secondary,Self-Employed,17475,12695,1139,6843,9925,48077,16025.666666666666,41,Female,Yes,No,Other,Piped Water,Yes,1,2394,46119,4,Yes,Yes,296,Unemployed,0,No,Temporary Shelter,468077,No
+H00259,Rajasthan,Urban,5,68878,Graduate,Unemployed,24766,18796,672,14824,12722,71780,14356.0,54,Male,No,No,LPG,Piped Water,Yes,2,666,37860,1,Yes,Yes,430,Government,5,Yes,Temporary Shelter,464192,No
+H00260,Uttar Pradesh,Rural,8,23708,Higher Secondary,Employed,5406,15559,6166,8901,8944,44976,5622.0,33,Female,Yes,Yes,Electricity,Well,No,0,12355,13746,2,No,No,141,Government,6,Yes,Rented House,93758,Yes
+H00261,Delhi,Rural,3,17819,Secondary,Employed,10339,39914,4854,14063,8710,77880,25960.0,30,Male,No,No,Other,River,No,2,2234,44738,3,No,No,384,Self-Employed,3,Yes,Own House,319444,Yes
+H00262,Karnataka,Rural,4,79905,No Schooling,Unemployed,19416,34139,4459,2023,3259,63296,15824.0,49,Female,Yes,No,Wood,River,No,2,6335,29124,2,Yes,Yes,272,Private,5,Yes,Own House,289095,Yes
+H00263,West Bengal,Rural,9,68870,Secondary,Employed,19695,39333,9208,7052,16591,91879,10208.777777777777,43,Male,No,No,LPG,Well,No,2,17620,4887,2,Yes,No,224,Unemployed,8,Yes,Rented House,498630,Yes
+H00264,Delhi,Rural,7,14283,No Schooling,Employed,10579,9802,9214,13272,502,43369,6195.571428571428,40,Female,Yes,Yes,LPG,River,Yes,1,18007,23302,1,No,No,182,Unemployed,3,No,Rented House,282408,Yes
+H00265,Uttar Pradesh,Urban,1,35573,No Schooling,Unemployed,5121,9307,3386,11333,18143,47290,47290.0,45,Female,No,No,Wood,Piped Water,No,2,17758,44008,4,No,Yes,220,Private,9,Yes,Rented House,19121,Yes
+H00266,Maharashtra,Rural,4,83707,Graduate,Unemployed,20257,34214,2664,14833,8690,80658,20164.5,26,Male,Yes,Yes,Wood,Other,Yes,2,11503,36167,1,Yes,Yes,52,Government,3,No,Rented House,346495,Yes
+H00267,Tamil Nadu,Rural,4,35933,Postgraduate,Employed,27491,35159,4445,7977,15748,90820,22705.0,34,Male,No,Yes,Other,Piped Water,No,2,6359,9460,4,Yes,No,117,Unemployed,9,Yes,Own House,312683,No
+H00268,Rajasthan,Urban,9,10774,Secondary,Self-Employed,28454,12516,5735,4432,6273,57410,6378.888888888889,40,Male,Yes,No,LPG,Piped Water,No,0,16560,32792,3,Yes,No,364,Unemployed,4,No,Temporary Shelter,161383,Yes
+H00269,Gujarat,Rural,6,77055,Higher Secondary,Self-Employed,25165,30086,8246,6719,13286,83502,13917.0,61,Male,No,No,Other,Other,No,1,13876,39319,1,Yes,Yes,158,Unemployed,2,No,Temporary Shelter,173469,No
+H00270,Uttar Pradesh,Urban,9,15983,Secondary,Unemployed,17946,31480,3090,10526,19452,82494,9166.0,39,Male,No,No,Wood,Well,Yes,0,2928,13041,1,Yes,No,445,Self-Employed,9,No,Rented House,150821,No
+H00271,Karnataka,Urban,6,23133,Graduate,Unemployed,5748,39737,8254,1977,15537,71253,11875.5,37,Female,No,Yes,LPG,Piped Water,No,1,7617,16093,0,No,Yes,135,Private,1,Yes,Rented House,29218,Yes
+H00272,Rajasthan,Urban,6,19939,No Schooling,Self-Employed,2277,10265,5434,1422,2385,21783,3630.5,37,Male,No,Yes,Wood,Piped Water,No,1,7614,14720,1,No,No,413,Unemployed,8,Yes,Temporary Shelter,474285,Yes
+H00273,Rajasthan,Rural,5,5781,Graduate,Employed,28553,6454,4576,7830,7560,54973,10994.6,56,Male,Yes,Yes,Other,Well,Yes,2,4274,20293,0,Yes,Yes,76,Private,0,Yes,Own House,444807,Yes
+H00274,Rajasthan,Rural,5,61700,Primary,Self-Employed,20243,36918,5685,14972,16831,94649,18929.8,69,Female,Yes,No,Other,Piped Water,No,2,4971,21348,4,Yes,No,335,Government,4,No,Rented House,175205,Yes
+H00275,Delhi,Rural,2,32624,Primary,Self-Employed,29612,27181,1593,13821,8344,80551,40275.5,71,Male,Yes,Yes,Other,Piped Water,Yes,0,8389,45952,4,Yes,No,449,Private,4,No,Rented House,307011,No
+H00276,Tamil Nadu,Urban,8,11823,Higher Secondary,Self-Employed,13563,16386,4380,12059,13950,60338,7542.25,70,Male,No,No,LPG,River,No,1,17352,5127,4,Yes,No,44,Self-Employed,7,Yes,Own House,1316,Yes
+H00277,Delhi,Rural,8,23489,Graduate,Self-Employed,24313,38425,7059,1977,9991,81765,10220.625,32,Male,No,No,Wood,Well,Yes,2,19539,4360,0,No,Yes,17,Self-Employed,5,Yes,Own House,37972,No
+H00278,Karnataka,Rural,1,44961,Higher Secondary,Unemployed,8792,25327,3285,9696,19222,66322,66322.0,67,Female,No,No,Wood,Piped Water,Yes,2,2504,37696,4,No,Yes,354,Private,5,No,Own House,349068,Yes
+H00279,Delhi,Rural,8,34118,Higher Secondary,Unemployed,23097,22181,6565,7690,9768,69301,8662.625,42,Male,No,Yes,Other,Piped Water,Yes,2,6006,41640,2,Yes,Yes,428,Self-Employed,5,No,Rented House,472264,No
+H00280,Maharashtra,Urban,5,86816,Primary,Employed,15918,22452,7039,5059,9639,60107,12021.4,60,Female,No,Yes,Other,Other,No,2,7943,9112,1,No,No,402,Unemployed,3,Yes,Own House,197292,No
+H00281,Tamil Nadu,Urban,2,27263,Higher Secondary,Employed,12374,39248,2074,9093,7291,70080,35040.0,50,Female,Yes,Yes,Other,Other,Yes,0,17653,25923,0,Yes,No,204,Self-Employed,0,Yes,Rented House,354844,No
+H00282,Tamil Nadu,Rural,2,18565,Primary,Employed,6675,34751,6176,8318,7671,63591,31795.5,34,Male,Yes,No,Other,Other,Yes,0,17748,8415,4,Yes,Yes,498,Government,2,Yes,Rented House,497960,No
+H00283,Karnataka,Rural,6,25354,No Schooling,Employed,3170,22991,8560,3189,19615,57525,9587.5,55,Female,Yes,Yes,Electricity,Piped Water,No,2,923,47127,2,No,Yes,323,Private,9,No,Own House,129079,No
+H00284,Gujarat,Rural,9,47951,Graduate,Self-Employed,10681,10916,4490,8543,17753,52383,5820.333333333333,57,Male,No,Yes,Electricity,Piped Water,Yes,2,16854,12731,1,Yes,No,82,Private,5,No,Temporary Shelter,208343,Yes
+H00285,Maharashtra,Rural,1,96179,Higher Secondary,Unemployed,12717,11143,5710,1525,593,31688,31688.0,53,Male,No,No,Electricity,Other,No,2,10246,18358,1,No,No,49,Government,4,Yes,Own House,232463,Yes
+H00286,Uttar Pradesh,Urban,6,28648,Primary,Unemployed,27758,26855,5345,9693,3487,73138,12189.666666666666,29,Male,No,No,Other,River,No,2,12475,25199,4,Yes,No,280,Government,9,Yes,Temporary Shelter,173707,Yes
+H00287,Delhi,Urban,9,55729,Secondary,Employed,14450,16581,9785,12114,13347,66277,7364.111111111111,37,Male,No,Yes,Other,River,Yes,2,19338,35991,2,Yes,No,165,Government,0,Yes,Own House,182337,No
+H00288,West Bengal,Urban,8,46971,Higher Secondary,Employed,12680,2907,1689,10103,10467,37846,4730.75,25,Male,No,No,Wood,River,Yes,1,17532,37092,0,Yes,Yes,242,Government,4,Yes,Own House,181181,Yes
+H00289,Delhi,Urban,6,23658,Postgraduate,Self-Employed,12068,30424,3189,5327,16718,67726,11287.666666666666,47,Female,No,Yes,LPG,River,No,1,3086,31476,4,Yes,Yes,376,Unemployed,1,Yes,Rented House,366226,No
+H00290,Rajasthan,Rural,3,26253,No Schooling,Self-Employed,23692,24308,4595,9198,10952,72745,24248.333333333332,64,Female,No,No,Wood,Well,Yes,1,14860,11077,1,No,No,478,Self-Employed,0,No,Rented House,179869,No
+H00291,Delhi,Rural,8,69166,No Schooling,Employed,4462,37942,2375,12722,9127,66628,8328.5,27,Female,Yes,No,Electricity,Other,Yes,1,17013,26794,1,Yes,No,163,Self-Employed,3,Yes,Rented House,401295,Yes
+H00292,Uttar Pradesh,Rural,9,53563,Secondary,Unemployed,15650,27957,8268,2922,5447,60244,6693.777777777777,27,Female,Yes,Yes,Wood,Piped Water,Yes,2,7407,47476,1,No,No,323,Unemployed,5,No,Rented House,60887,No
+H00293,Delhi,Urban,1,31390,Primary,Unemployed,28206,26464,3906,4856,7151,70583,70583.0,31,Male,No,No,Other,Other,Yes,1,774,34078,4,No,Yes,55,Government,6,No,Rented House,153484,Yes
+H00294,Maharashtra,Rural,9,93664,Higher Secondary,Unemployed,2287,24649,4432,1525,3644,36537,4059.6666666666665,60,Male,No,No,Electricity,River,No,1,8709,9318,3,Yes,Yes,38,Private,8,No,Rented House,298006,No
+H00295,Maharashtra,Urban,6,56578,Primary,Employed,24337,28125,8740,4333,16960,82495,13749.166666666666,59,Female,No,No,Electricity,Piped Water,No,0,16311,21888,3,No,No,318,Private,4,No,Rented House,389821,Yes
+H00296,Tamil Nadu,Urban,6,84025,No Schooling,Unemployed,22666,35758,5908,9551,9459,83342,13890.333333333334,39,Male,Yes,Yes,LPG,Well,Yes,1,1343,20601,3,Yes,No,127,Private,7,No,Temporary Shelter,215799,No
+H00297,Karnataka,Rural,4,37658,Primary,Self-Employed,20291,6596,4361,3069,8797,43114,10778.5,64,Female,Yes,No,LPG,Other,No,1,10161,12553,2,No,No,390,Government,7,No,Temporary Shelter,145893,Yes
+H00298,Gujarat,Rural,1,11852,No Schooling,Self-Employed,3161,17374,7906,12908,7194,48543,48543.0,27,Female,No,No,Electricity,Piped Water,Yes,2,11419,38297,4,No,No,121,Unemployed,8,No,Rented House,335262,Yes
+H00299,West Bengal,Rural,8,99986,Primary,Employed,18513,4775,3333,1442,16335,44398,5549.75,53,Female,Yes,Yes,Electricity,Piped Water,Yes,1,7797,15310,1,Yes,No,246,Unemployed,2,No,Temporary Shelter,74548,No
+H00300,Rajasthan,Urban,2,7551,Secondary,Self-Employed,24721,28388,5785,8739,19757,87390,43695.0,54,Female,Yes,Yes,Wood,River,Yes,1,19283,8789,2,Yes,No,185,Unemployed,2,Yes,Own House,164727,No
+H00301,Delhi,Rural,1,76947,Graduate,Employed,4363,22029,8145,2031,3846,40414,40414.0,63,Male,Yes,No,Electricity,River,Yes,2,934,45589,3,No,Yes,207,Self-Employed,8,Yes,Temporary Shelter,437904,No
+H00302,Delhi,Urban,2,66001,Secondary,Unemployed,26535,19445,9523,1769,11840,69112,34556.0,42,Male,No,No,Other,Other,No,1,1986,27481,0,Yes,Yes,314,Self-Employed,6,Yes,Rented House,104319,Yes
+H00303,Uttar Pradesh,Rural,1,54159,Secondary,Unemployed,7983,15645,5277,12327,744,41976,41976.0,35,Female,Yes,No,Wood,Well,Yes,2,14016,29608,2,Yes,Yes,303,Self-Employed,3,Yes,Temporary Shelter,185648,Yes
+H00304,Karnataka,Urban,1,56707,Graduate,Unemployed,18527,32105,3235,7446,3125,64438,64438.0,67,Female,Yes,Yes,Other,Piped Water,No,1,5465,42753,2,No,No,388,Self-Employed,0,Yes,Own House,260272,No
+H00305,Maharashtra,Urban,9,38243,Graduate,Self-Employed,10207,14668,8773,2118,4349,40115,4457.222222222223,73,Female,No,No,Other,River,Yes,0,9966,21242,4,No,No,238,Private,6,No,Temporary Shelter,80066,Yes
+H00306,West Bengal,Rural,1,26800,Higher Secondary,Employed,25853,16960,8778,6616,10097,68304,68304.0,62,Female,No,Yes,Other,Other,No,0,15721,41050,2,Yes,No,214,Private,9,No,Rented House,479129,Yes
+H00307,Tamil Nadu,Urban,4,80939,Higher Secondary,Unemployed,16758,12357,6868,3432,8237,47652,11913.0,64,Female,Yes,Yes,Electricity,River,No,1,1505,9016,4,No,Yes,291,Unemployed,5,No,Own House,445452,No
+H00308,Maharashtra,Urban,6,62828,Secondary,Employed,2244,38203,1321,3958,14524,60250,10041.666666666666,25,Male,No,No,LPG,Other,No,0,5363,475,0,Yes,No,223,Self-Employed,2,No,Own House,246635,Yes
+H00309,Rajasthan,Rural,7,12239,Secondary,Unemployed,19310,16804,8025,6197,12500,62836,8976.57142857143,53,Female,Yes,No,LPG,River,No,2,15940,31549,1,Yes,Yes,87,Unemployed,4,No,Temporary Shelter,307365,Yes
+H00310,Karnataka,Urban,2,11710,No Schooling,Self-Employed,5178,15626,662,2555,8833,32854,16427.0,34,Female,Yes,Yes,Other,Well,Yes,1,10846,23897,1,No,No,24,Government,2,Yes,Own House,349333,Yes
+H00311,Rajasthan,Rural,6,26384,No Schooling,Self-Employed,4176,29132,8277,9789,17776,69150,11525.0,52,Male,No,No,Electricity,Piped Water,No,2,1010,20882,3,Yes,No,428,Self-Employed,7,Yes,Own House,105812,No
+H00312,Gujarat,Urban,7,26038,Higher Secondary,Employed,7002,8951,2432,11172,7810,37367,5338.142857142857,55,Male,No,No,Wood,River,Yes,0,14924,27128,3,No,No,219,Self-Employed,4,No,Own House,216988,Yes
+H00313,Tamil Nadu,Rural,2,45846,Postgraduate,Self-Employed,2886,7449,4035,2024,2899,19293,9646.5,43,Male,Yes,Yes,Other,Piped Water,No,2,13482,20343,0,Yes,Yes,274,Unemployed,9,Yes,Rented House,459308,No
+H00314,Gujarat,Rural,2,92983,Postgraduate,Self-Employed,26916,20065,6456,10883,5140,69460,34730.0,27,Male,No,No,Wood,Other,No,0,19861,29479,1,Yes,Yes,134,Unemployed,9,Yes,Own House,185517,Yes
+H00315,Uttar Pradesh,Urban,7,72821,Higher Secondary,Employed,28627,36967,3946,7480,19844,96864,13837.714285714286,60,Male,No,Yes,Wood,Well,No,0,9369,37880,3,Yes,Yes,491,Government,5,Yes,Temporary Shelter,92326,Yes
+H00316,Rajasthan,Urban,1,42991,No Schooling,Unemployed,21782,10130,3290,4260,10891,50353,50353.0,67,Male,Yes,No,Electricity,Piped Water,Yes,0,3857,30840,2,No,No,441,Unemployed,1,Yes,Temporary Shelter,139972,Yes
+H00317,Uttar Pradesh,Urban,8,84057,No Schooling,Self-Employed,15721,24824,3207,5524,18353,67629,8453.625,39,Male,Yes,Yes,Electricity,River,No,2,9864,49508,4,No,Yes,232,Self-Employed,7,Yes,Own House,426701,Yes
+H00318,Delhi,Urban,3,11971,Postgraduate,Employed,14142,37993,8459,604,11392,72590,24196.666666666668,57,Male,Yes,Yes,LPG,Piped Water,Yes,0,10120,20084,3,Yes,No,464,Private,8,No,Temporary Shelter,233041,Yes
+H00319,Gujarat,Urban,6,34139,Primary,Self-Employed,26881,32875,4433,1921,11697,77807,12967.833333333334,65,Male,Yes,No,LPG,Piped Water,Yes,1,11370,150,0,No,No,65,Government,2,Yes,Own House,13891,No
+H00320,Karnataka,Rural,9,90445,Primary,Self-Employed,27483,7054,3885,5516,13550,57488,6387.555555555556,67,Female,Yes,Yes,Electricity,Other,Yes,0,2553,6690,1,No,Yes,79,Government,5,Yes,Temporary Shelter,370784,Yes
+H00321,Rajasthan,Urban,6,82067,No Schooling,Self-Employed,4654,35273,7136,11217,3874,62154,10359.0,75,Male,Yes,Yes,Other,Well,No,1,15489,40305,0,Yes,Yes,422,Self-Employed,5,No,Own House,146086,Yes
+H00322,West Bengal,Rural,9,85257,Primary,Self-Employed,13984,11832,1422,4045,13411,44694,4966.0,69,Female,No,No,LPG,Well,No,1,4389,15262,4,No,No,254,Private,1,No,Own House,334227,Yes
+H00323,Tamil Nadu,Rural,7,89742,Graduate,Employed,25776,30670,8589,4410,9347,78792,11256.0,50,Female,No,No,Wood,Piped Water,No,1,16935,49846,4,No,No,124,Unemployed,9,No,Own House,300108,Yes
+H00324,Maharashtra,Urban,9,42711,Higher Secondary,Employed,19755,23852,1064,11584,15285,71540,7948.888888888889,40,Female,Yes,No,Other,Piped Water,No,1,11089,13205,0,No,No,145,Unemployed,7,No,Rented House,444387,No
+H00325,Karnataka,Rural,2,11530,Higher Secondary,Employed,9135,24620,3758,14164,11460,63137,31568.5,60,Female,No,Yes,Wood,Other,No,2,9231,37599,3,Yes,No,102,Private,4,No,Temporary Shelter,488684,Yes
+H00326,Karnataka,Rural,8,16116,No Schooling,Self-Employed,2320,29307,3000,264,14035,48926,6115.75,57,Female,No,Yes,Electricity,Piped Water,No,1,3051,36741,3,Yes,Yes,384,Private,7,No,Own House,44739,Yes
+H00327,Uttar Pradesh,Rural,8,70794,Secondary,Self-Employed,6654,2551,5066,9691,8734,32696,4087.0,44,Female,Yes,Yes,Wood,Other,No,0,5322,11728,1,No,Yes,446,Self-Employed,7,No,Rented House,379015,Yes
+H00328,Gujarat,Rural,2,5282,Postgraduate,Self-Employed,23684,28812,9679,13312,11003,86490,43245.0,37,Female,No,No,Other,Well,Yes,1,11789,42132,1,Yes,Yes,386,Unemployed,2,No,Rented House,347943,Yes
+H00329,Rajasthan,Urban,4,84473,No Schooling,Employed,25145,14799,7381,6582,5622,59529,14882.25,57,Female,No,Yes,Electricity,Well,No,0,2555,38616,2,No,No,382,Self-Employed,4,Yes,Own House,215928,No
+H00330,Rajasthan,Rural,7,6898,Primary,Self-Employed,25238,27312,4136,14837,10352,81875,11696.42857142857,29,Male,Yes,Yes,Other,Other,Yes,2,17473,21721,2,Yes,No,276,Unemployed,6,No,Own House,244592,No
+H00331,Delhi,Urban,4,9135,Postgraduate,Unemployed,23889,2449,6530,9807,5887,48562,12140.5,61,Female,No,No,Wood,Piped Water,Yes,1,12767,1576,1,No,No,381,Unemployed,4,No,Own House,174446,Yes
+H00332,Delhi,Urban,4,11629,Secondary,Self-Employed,18131,25426,723,11985,8131,64396,16099.0,38,Female,No,Yes,Other,Well,No,0,458,40900,2,Yes,Yes,123,Private,5,Yes,Own House,39459,Yes
+H00333,Tamil Nadu,Rural,6,90120,Primary,Unemployed,27707,36427,6797,1168,7726,79825,13304.166666666666,51,Female,Yes,No,Electricity,River,No,2,15701,35888,0,No,No,413,Self-Employed,1,No,Own House,269189,Yes
+H00334,Uttar Pradesh,Urban,6,94087,Graduate,Self-Employed,12770,32551,850,568,5608,52347,8724.5,47,Female,No,No,Wood,Other,Yes,2,16066,24537,3,Yes,No,266,Private,7,No,Temporary Shelter,305399,Yes
+H00335,Karnataka,Urban,3,70031,Primary,Employed,8553,25277,7814,8624,19108,69376,23125.333333333332,38,Male,No,No,Wood,Well,Yes,0,4721,26340,2,No,Yes,277,Self-Employed,4,No,Own House,51965,Yes
+H00336,Rajasthan,Urban,9,38380,Graduate,Self-Employed,22426,36489,2428,2442,2610,66395,7377.222222222223,64,Female,No,Yes,LPG,Well,No,1,12446,45552,2,Yes,Yes,110,Unemployed,5,No,Own House,263381,No
+H00337,West Bengal,Rural,2,22071,Postgraduate,Unemployed,13559,10637,8243,5202,1457,39098,19549.0,28,Male,Yes,Yes,LPG,Well,Yes,2,6304,11022,0,Yes,No,380,Government,0,Yes,Temporary Shelter,392955,No
+H00338,Uttar Pradesh,Urban,6,25074,Graduate,Unemployed,11009,36693,9040,3283,7646,67671,11278.5,63,Male,Yes,Yes,Other,River,Yes,0,13565,48254,4,Yes,Yes,312,Government,9,Yes,Rented House,52195,Yes
+H00339,Tamil Nadu,Urban,7,95724,Postgraduate,Self-Employed,15482,10824,5232,8273,1060,40871,5838.714285714285,76,Female,No,No,LPG,River,Yes,1,10199,8166,1,No,No,88,Self-Employed,1,No,Temporary Shelter,497992,Yes
+H00340,Tamil Nadu,Urban,9,72843,Postgraduate,Unemployed,9498,27950,1517,9312,1812,50089,5565.444444444444,43,Female,No,No,LPG,River,Yes,2,1920,12189,0,No,Yes,386,Self-Employed,3,Yes,Rented House,379919,Yes
+H00341,Uttar Pradesh,Rural,3,44901,Postgraduate,Unemployed,8636,24488,2726,9080,18705,63635,21211.666666666668,71,Male,Yes,No,LPG,Piped Water,No,0,13227,32700,4,No,No,157,Private,8,Yes,Rented House,36326,No
+H00342,Tamil Nadu,Urban,3,16205,Postgraduate,Employed,9362,1215,7706,12664,12095,43042,14347.333333333334,78,Female,Yes,Yes,LPG,Other,No,2,7694,46276,0,Yes,Yes,215,Unemployed,5,Yes,Temporary Shelter,136365,Yes
+H00343,Uttar Pradesh,Rural,7,60661,Postgraduate,Self-Employed,18395,12523,7670,14752,5874,59214,8459.142857142857,28,Female,No,Yes,Electricity,Piped Water,Yes,2,6298,8267,3,No,Yes,383,Government,7,Yes,Own House,25274,Yes
+H00344,Maharashtra,Rural,4,10906,Primary,Self-Employed,18578,11364,6707,13522,3151,53322,13330.5,54,Male,Yes,Yes,Electricity,River,Yes,0,6629,12916,0,Yes,Yes,300,Private,1,Yes,Rented House,412453,No
+H00345,Uttar Pradesh,Rural,8,7591,Postgraduate,Self-Employed,4537,4153,2919,1669,10506,23784,2973.0,43,Male,No,Yes,LPG,Other,Yes,2,12719,21264,0,Yes,Yes,35,Self-Employed,9,Yes,Own House,356064,No
+H00346,Gujarat,Rural,7,67987,Primary,Unemployed,21226,24834,6740,4925,10433,68158,9736.857142857143,55,Female,No,Yes,Other,Piped Water,No,0,5146,20529,3,Yes,No,86,Unemployed,4,No,Temporary Shelter,358673,Yes
+H00347,Uttar Pradesh,Rural,5,68370,Postgraduate,Self-Employed,17216,35474,2393,4459,16672,76214,15242.8,55,Female,Yes,No,Electricity,Piped Water,No,1,17387,35101,1,No,No,117,Private,0,No,Rented House,471563,Yes
+H00348,Tamil Nadu,Rural,7,85685,Graduate,Self-Employed,20613,35335,5822,3822,3377,68969,9852.714285714286,33,Female,Yes,Yes,LPG,Piped Water,Yes,0,19467,31515,4,Yes,Yes,327,Private,3,Yes,Own House,149301,Yes
+H00349,Rajasthan,Urban,3,59400,Postgraduate,Employed,5009,11400,8218,10492,4583,39702,13234.0,77,Male,No,No,Electricity,River,Yes,1,10306,8217,2,No,No,447,Self-Employed,9,Yes,Rented House,497882,Yes
+H00350,Gujarat,Rural,2,30150,Secondary,Employed,26368,11345,7378,10657,1245,56993,28496.5,37,Female,No,No,Wood,Well,Yes,2,2589,47418,1,No,Yes,181,Unemployed,0,Yes,Rented House,78847,No
+H00351,Tamil Nadu,Urban,6,36852,Postgraduate,Employed,16209,34896,1625,12181,9249,74160,12360.0,38,Male,Yes,Yes,Electricity,Other,No,0,4310,6459,0,Yes,Yes,67,Government,8,No,Temporary Shelter,257966,No
+H00352,Delhi,Urban,2,47870,Postgraduate,Unemployed,17675,20894,3617,1023,17825,61034,30517.0,79,Male,No,No,Electricity,River,Yes,0,2241,14464,2,No,No,433,Private,1,No,Own House,481792,Yes
+H00353,Delhi,Rural,3,57756,Graduate,Self-Employed,17029,29899,4661,3631,19180,74400,24800.0,70,Female,Yes,Yes,Other,Other,Yes,0,13601,37065,3,Yes,No,358,Self-Employed,6,No,Own House,318862,No
+H00354,Rajasthan,Urban,6,61481,Higher Secondary,Employed,4077,29229,4542,6728,17823,62399,10399.833333333334,78,Male,Yes,Yes,Electricity,River,Yes,0,7711,28894,1,Yes,No,490,Private,2,No,Rented House,330862,Yes
+H00355,Rajasthan,Urban,5,6283,Graduate,Employed,15907,6583,4933,4351,18494,50268,10053.6,34,Female,Yes,No,Other,Piped Water,Yes,1,938,10393,4,No,No,158,Self-Employed,1,No,Own House,49615,No
+H00356,Gujarat,Urban,8,38691,Secondary,Employed,26229,5897,9138,4413,2225,47902,5987.75,72,Female,Yes,Yes,Wood,Piped Water,Yes,1,4301,9432,1,Yes,No,284,Self-Employed,3,No,Rented House,118548,Yes
+H00357,Maharashtra,Urban,9,6125,Higher Secondary,Self-Employed,5867,7001,3158,7620,12713,36359,4039.8888888888887,55,Male,Yes,Yes,LPG,Well,No,2,3970,715,1,Yes,No,442,Self-Employed,6,Yes,Temporary Shelter,71296,Yes
+H00358,Rajasthan,Rural,3,72065,No Schooling,Self-Employed,18152,5567,3983,9189,10028,46919,15639.666666666666,61,Female,No,No,Other,Well,No,2,3999,45712,2,Yes,No,163,Unemployed,6,No,Temporary Shelter,334940,No
+H00359,Delhi,Urban,3,31170,No Schooling,Self-Employed,6873,10271,3444,979,14662,36229,12076.333333333334,47,Male,Yes,No,Electricity,Other,No,2,3408,12501,3,No,Yes,460,Government,8,No,Own House,491970,No
+H00360,Uttar Pradesh,Rural,3,13438,Secondary,Unemployed,10635,12703,7710,11242,9353,51643,17214.333333333332,51,Male,Yes,No,Electricity,Well,Yes,2,13807,42036,3,No,No,360,Unemployed,2,No,Temporary Shelter,243083,No
+H00361,Tamil Nadu,Urban,6,25095,Graduate,Unemployed,2297,14329,8153,3092,7687,35558,5926.333333333333,30,Female,Yes,No,Other,Well,No,0,8962,29472,1,No,Yes,72,Government,6,Yes,Temporary Shelter,395131,No
+H00362,Delhi,Urban,1,21154,Primary,Employed,15095,36509,9287,5734,532,67157,67157.0,50,Female,Yes,No,Wood,Other,Yes,1,16632,42376,3,Yes,No,118,Self-Employed,5,No,Own House,336795,No
+H00363,Delhi,Rural,7,13004,Secondary,Self-Employed,24240,7256,2486,10285,15393,59660,8522.857142857143,26,Female,Yes,No,LPG,River,No,1,13385,48422,2,Yes,No,340,Government,9,Yes,Rented House,445990,Yes
+H00364,Maharashtra,Urban,1,14752,Higher Secondary,Employed,11036,1228,1574,3506,14908,32252,32252.0,69,Female,Yes,Yes,Electricity,Well,No,1,5950,2439,2,No,Yes,498,Unemployed,6,Yes,Temporary Shelter,7076,Yes
+H00365,Gujarat,Urban,5,60426,Higher Secondary,Self-Employed,3015,25746,4805,3102,15660,52328,10465.6,37,Male,Yes,Yes,Wood,River,Yes,1,2926,16346,4,No,Yes,194,Private,6,No,Own House,342494,No
+H00366,Gujarat,Urban,8,31819,Postgraduate,Self-Employed,3384,17678,3507,13195,3914,41678,5209.75,75,Male,No,Yes,LPG,Piped Water,Yes,2,7975,8209,3,No,Yes,88,Unemployed,9,No,Own House,426299,Yes
+H00367,Karnataka,Rural,4,97051,No Schooling,Self-Employed,27973,38052,1469,13591,18040,99125,24781.25,74,Male,No,No,LPG,Well,Yes,0,6966,23858,4,No,Yes,344,Unemployed,4,No,Own House,316062,Yes
+H00368,Maharashtra,Urban,5,29217,Higher Secondary,Unemployed,10745,24185,9272,3918,12620,60740,12148.0,43,Female,No,Yes,Electricity,Piped Water,No,1,9133,23191,0,No,No,75,Unemployed,8,Yes,Temporary Shelter,398009,Yes
+H00369,Uttar Pradesh,Rural,4,93708,Secondary,Unemployed,20734,34686,3324,221,2043,61008,15252.0,25,Male,No,No,Other,Piped Water,Yes,0,6587,43156,2,Yes,No,220,Unemployed,6,No,Temporary Shelter,259040,Yes
+H00370,Gujarat,Urban,4,37994,Higher Secondary,Self-Employed,19653,12445,1711,1700,771,36280,9070.0,64,Male,Yes,Yes,Electricity,River,No,0,5091,13417,1,No,Yes,138,Unemployed,6,Yes,Rented House,312672,No
+H00371,Tamil Nadu,Rural,8,20036,Secondary,Employed,3260,34266,729,9234,5795,53284,6660.5,56,Female,No,No,Electricity,Other,No,0,8985,16862,2,Yes,Yes,371,Government,2,Yes,Rented House,379647,Yes
+H00372,Rajasthan,Rural,2,82275,Primary,Self-Employed,9701,3809,4784,10152,15463,43909,21954.5,46,Female,Yes,Yes,Electricity,Well,No,0,17061,3565,0,Yes,No,394,Government,0,No,Rented House,66798,Yes
+H00373,Maharashtra,Urban,1,54416,Postgraduate,Self-Employed,26760,38729,3685,3841,12080,85095,85095.0,72,Female,No,No,Wood,River,Yes,1,1561,25722,1,Yes,No,240,Private,4,No,Rented House,9319,Yes
+H00374,Rajasthan,Urban,3,14587,No Schooling,Employed,22947,37547,1001,5412,19593,86500,28833.333333333332,53,Male,No,No,Other,Other,Yes,1,8644,6900,3,Yes,Yes,153,Unemployed,7,No,Rented House,406410,Yes
+H00375,Delhi,Rural,9,5645,Higher Secondary,Self-Employed,25281,35886,548,391,13097,75203,8355.888888888889,26,Female,Yes,No,Wood,Piped Water,Yes,1,14785,49361,3,No,No,52,Unemployed,4,Yes,Rented House,412525,No
+H00376,Tamil Nadu,Rural,4,35930,Secondary,Employed,28986,7391,4066,13506,12545,66494,16623.5,64,Male,Yes,No,Electricity,Well,No,2,3656,35639,2,Yes,No,141,Private,9,No,Own House,189468,Yes
+H00377,Tamil Nadu,Urban,5,86835,Graduate,Unemployed,24056,1145,3555,13614,14103,56473,11294.6,62,Male,No,Yes,Other,Piped Water,No,1,16139,36751,1,No,Yes,319,Private,2,Yes,Rented House,225368,Yes
+H00378,Delhi,Rural,2,35090,No Schooling,Unemployed,12401,14929,9380,8787,10437,55934,27967.0,72,Male,No,Yes,LPG,Piped Water,Yes,2,209,2700,1,Yes,Yes,463,Self-Employed,8,No,Temporary Shelter,289142,Yes
+H00379,Maharashtra,Urban,4,92489,Primary,Employed,17519,25326,886,7374,15330,66435,16608.75,79,Male,No,No,Other,Well,No,2,4983,5618,4,No,Yes,393,Private,1,Yes,Rented House,3468,No
+H00380,Delhi,Urban,2,57142,Secondary,Unemployed,23977,30991,1469,5314,7222,68973,34486.5,35,Male,No,No,Electricity,Other,No,2,7141,19727,0,No,Yes,30,Private,2,No,Temporary Shelter,112178,No
+H00381,Rajasthan,Urban,2,31475,Postgraduate,Unemployed,13864,38333,9697,4862,8701,75457,37728.5,41,Female,Yes,No,Other,Other,No,1,10118,29469,3,Yes,No,222,Private,3,No,Rented House,143723,Yes
+H00382,Karnataka,Urban,4,23888,Postgraduate,Employed,17681,17576,6320,4526,4644,50747,12686.75,79,Male,No,Yes,LPG,Well,Yes,1,16261,31545,2,No,Yes,291,Self-Employed,9,Yes,Own House,413621,Yes
+H00383,Tamil Nadu,Rural,6,48732,Primary,Unemployed,24539,29464,3552,9265,6106,72926,12154.333333333334,75,Female,No,No,LPG,Well,No,1,3966,16789,1,Yes,No,265,Government,0,Yes,Own House,145554,No
+H00384,West Bengal,Urban,7,86623,Primary,Self-Employed,7543,9243,7897,11013,7266,42962,6137.428571428572,67,Male,No,No,Other,River,No,2,10069,16023,3,No,No,281,Self-Employed,3,No,Temporary Shelter,266553,Yes
+H00385,West Bengal,Rural,3,51305,Postgraduate,Self-Employed,25624,32601,2802,4535,17614,83176,27725.333333333332,32,Male,No,Yes,LPG,River,Yes,2,8818,38569,2,Yes,No,275,Government,3,Yes,Rented House,66083,No
+H00386,Rajasthan,Urban,3,51037,Higher Secondary,Employed,23067,3410,2783,8481,16428,54169,18056.333333333332,46,Female,No,No,Wood,Piped Water,Yes,0,10918,30503,3,Yes,No,380,Private,8,Yes,Own House,234267,Yes
+H00387,Uttar Pradesh,Rural,6,14346,Higher Secondary,Unemployed,20265,2820,4866,10671,2148,40770,6795.0,28,Male,Yes,No,Other,Well,Yes,2,9650,1058,2,No,Yes,43,Self-Employed,7,Yes,Own House,85443,Yes
+H00388,Gujarat,Urban,3,5587,Secondary,Self-Employed,14488,36289,622,8848,2630,62877,20959.0,35,Male,Yes,Yes,LPG,Other,Yes,2,19208,40463,3,No,No,61,Self-Employed,1,Yes,Rented House,285570,No
+H00389,Delhi,Rural,2,17763,Graduate,Self-Employed,27097,39650,7299,10672,14892,99610,49805.0,32,Female,Yes,No,LPG,Piped Water,Yes,1,1250,3638,4,Yes,Yes,200,Government,6,No,Temporary Shelter,370169,Yes
+H00390,Delhi,Rural,8,64165,Secondary,Unemployed,12079,35635,9972,12841,11088,81615,10201.875,33,Female,Yes,No,Other,Piped Water,Yes,0,4758,23504,0,Yes,No,334,Self-Employed,5,Yes,Temporary Shelter,316901,Yes
+H00391,Uttar Pradesh,Urban,5,74615,Graduate,Unemployed,12744,8465,4227,9396,4866,39698,7939.6,50,Male,Yes,Yes,Wood,Piped Water,No,0,4363,10083,3,No,Yes,8,Self-Employed,6,No,Temporary Shelter,145508,Yes
+H00392,Uttar Pradesh,Urban,1,41116,Primary,Self-Employed,5809,33439,8950,13844,2006,64048,64048.0,26,Male,No,No,Other,Piped Water,No,0,2163,35471,0,Yes,No,70,Unemployed,3,No,Own House,278634,No
+H00393,Rajasthan,Urban,3,90751,No Schooling,Self-Employed,24191,28314,9639,12926,19042,94112,31370.666666666668,40,Male,Yes,Yes,LPG,Other,No,1,9815,24742,3,Yes,No,89,Government,4,No,Rented House,52136,No
+H00394,Rajasthan,Urban,8,96353,Secondary,Employed,23267,20583,5458,5694,19800,74802,9350.25,55,Female,Yes,No,Other,Piped Water,No,0,1853,13567,1,Yes,Yes,23,Self-Employed,5,Yes,Own House,160034,Yes
+H00395,Uttar Pradesh,Rural,4,95301,Secondary,Employed,9206,28155,1024,8736,15722,62843,15710.75,30,Male,No,No,LPG,Well,Yes,0,17137,305,4,No,Yes,139,Self-Employed,8,No,Own House,496988,Yes
+H00396,Tamil Nadu,Urban,7,30556,Graduate,Self-Employed,22539,39871,9579,2911,12863,87763,12537.57142857143,77,Female,Yes,No,Electricity,River,No,1,1868,27509,4,Yes,Yes,315,Private,1,No,Own House,422504,Yes
+H00397,Rajasthan,Rural,2,64042,Primary,Employed,23057,13197,8899,7795,12295,65243,32621.5,45,Female,Yes,No,Other,Other,Yes,0,16565,12542,0,Yes,Yes,339,Unemployed,8,No,Own House,284380,Yes
+H00398,Karnataka,Rural,7,23099,Primary,Self-Employed,15746,30511,648,13144,10358,70407,10058.142857142857,50,Male,Yes,No,Other,Well,Yes,2,17897,26390,1,No,No,375,Unemployed,9,No,Rented House,145995,No
+H00399,Rajasthan,Urban,5,50096,Graduate,Self-Employed,17995,16424,8501,6473,13116,62509,12501.8,43,Female,Yes,Yes,LPG,Well,No,2,15568,26208,2,Yes,No,77,Private,0,No,Own House,460002,No
+H00400,Delhi,Rural,5,76986,Primary,Employed,18035,1240,937,6484,4636,31332,6266.4,52,Male,No,No,LPG,Well,No,2,9094,5791,4,Yes,No,213,Private,3,Yes,Own House,186963,No
+H00401,Rajasthan,Rural,6,18230,Postgraduate,Employed,13671,5631,4249,10854,13978,48383,8063.833333333333,32,Male,No,No,LPG,River,Yes,2,19728,39009,1,Yes,No,15,Private,4,No,Temporary Shelter,406480,Yes
+H00402,Tamil Nadu,Rural,9,34009,Higher Secondary,Unemployed,15210,10599,8686,9508,11661,55664,6184.888888888889,38,Female,Yes,Yes,LPG,River,Yes,2,5238,19604,1,Yes,No,28,Private,8,Yes,Own House,329291,Yes
+H00403,Uttar Pradesh,Rural,6,75969,Postgraduate,Unemployed,19793,25658,4953,9017,3189,62610,10435.0,48,Female,No,Yes,Other,River,Yes,2,7089,30262,0,No,Yes,415,Unemployed,5,No,Rented House,270072,No
+H00404,Delhi,Urban,8,38866,No Schooling,Unemployed,28270,38845,5836,12771,3310,89032,11129.0,72,Female,Yes,No,LPG,Well,Yes,2,18940,39596,1,Yes,Yes,466,Self-Employed,3,No,Own House,165630,Yes
+H00405,Rajasthan,Urban,7,89246,Secondary,Self-Employed,7197,33574,5051,10371,12163,68356,9765.142857142857,68,Female,No,Yes,Other,River,No,2,5280,38898,1,Yes,No,374,Self-Employed,1,Yes,Rented House,318513,Yes
+H00406,Tamil Nadu,Urban,9,81975,No Schooling,Employed,17553,37536,3323,4194,6652,69258,7695.333333333333,61,Female,No,No,Wood,Piped Water,Yes,2,4244,49430,2,Yes,Yes,290,Private,4,Yes,Rented House,328547,No
+H00407,Karnataka,Urban,4,46855,Secondary,Self-Employed,9452,8995,6228,1878,512,27065,6766.25,50,Female,No,Yes,Other,River,No,1,2164,21651,0,Yes,No,42,Government,7,No,Rented House,359369,Yes
+H00408,Rajasthan,Rural,2,86557,Higher Secondary,Employed,10718,26186,9177,8614,11662,66357,33178.5,55,Male,No,Yes,LPG,Other,Yes,1,15149,13483,0,Yes,No,351,Private,7,No,Temporary Shelter,307357,No
+H00409,Tamil Nadu,Rural,7,11416,Primary,Self-Employed,16859,30245,8891,943,8499,65437,9348.142857142857,75,Male,No,No,LPG,Well,Yes,2,14088,16596,1,No,Yes,374,Self-Employed,5,No,Temporary Shelter,98631,Yes
+H00410,Karnataka,Urban,6,77516,Postgraduate,Unemployed,29236,23813,2482,662,7719,63912,10652.0,56,Male,No,Yes,Wood,Well,Yes,1,18405,41816,2,No,No,52,Government,0,No,Own House,3816,Yes
+H00411,Uttar Pradesh,Urban,1,60915,Graduate,Unemployed,4172,14276,7496,1768,5828,33540,33540.0,74,Female,No,No,Other,Piped Water,No,1,2821,9188,3,Yes,Yes,275,Private,7,No,Own House,360306,Yes
+H00412,Rajasthan,Urban,9,23058,Postgraduate,Unemployed,15158,20989,2811,11739,4121,54818,6090.888888888889,65,Female,No,Yes,Wood,River,Yes,2,10473,47082,4,Yes,No,370,Government,3,Yes,Own House,429132,Yes
+H00413,Karnataka,Rural,9,81637,Higher Secondary,Self-Employed,18663,13746,7725,14193,12165,66492,7388.0,26,Female,No,Yes,Other,River,No,2,13686,27544,0,No,Yes,231,Private,1,No,Rented House,309982,Yes
+H00414,Delhi,Urban,2,45718,No Schooling,Employed,29540,19557,1104,13651,11814,75666,37833.0,49,Male,No,Yes,LPG,Other,No,1,9762,24834,2,No,No,211,Unemployed,0,No,Rented House,252536,No
+H00415,Uttar Pradesh,Urban,3,37602,Graduate,Employed,22361,29060,8675,14892,1152,76140,25380.0,76,Male,No,No,Other,Piped Water,No,2,5969,41845,2,No,No,7,Self-Employed,6,Yes,Rented House,259525,No
+H00416,Delhi,Urban,5,79658,Primary,Unemployed,21053,7568,6285,1936,16682,53524,10704.8,68,Female,Yes,No,LPG,Other,Yes,2,12178,34671,1,Yes,Yes,121,Private,1,Yes,Own House,142645,Yes
+H00417,West Bengal,Rural,5,83112,Higher Secondary,Unemployed,13085,36369,5097,13534,9312,77397,15479.4,26,Female,No,Yes,LPG,Other,No,2,6168,26515,4,Yes,No,482,Government,3,No,Own House,436550,Yes
+H00418,Maharashtra,Rural,1,63067,Graduate,Unemployed,26209,20041,8259,12431,4290,71230,71230.0,66,Female,Yes,No,Electricity,Well,No,2,17097,15489,0,Yes,No,41,Self-Employed,3,Yes,Own House,215547,No
+H00419,Rajasthan,Rural,8,32516,Higher Secondary,Unemployed,28327,7080,8032,8103,16159,67701,8462.625,25,Female,No,No,Electricity,Well,Yes,1,14096,27844,3,Yes,Yes,332,Private,9,Yes,Own House,65364,No
+H00420,Karnataka,Rural,8,92969,Higher Secondary,Employed,5981,14854,9240,12343,2145,44563,5570.375,60,Male,Yes,No,Other,River,Yes,0,7203,18782,1,Yes,Yes,232,Private,0,Yes,Temporary Shelter,406373,Yes
+H00421,Maharashtra,Rural,4,6089,Primary,Self-Employed,23153,3159,1338,7202,10935,45787,11446.75,36,Male,Yes,Yes,LPG,River,No,1,3545,45138,0,Yes,Yes,69,Private,1,No,Temporary Shelter,271466,No
+H00422,Maharashtra,Rural,7,42346,Secondary,Self-Employed,7247,28025,4315,9056,4188,52831,7547.285714285715,33,Male,Yes,No,Wood,Other,No,0,863,34410,0,No,No,366,Private,0,No,Temporary Shelter,119024,No
+H00423,Karnataka,Rural,3,79663,Graduate,Self-Employed,12553,5368,1347,1556,8189,29013,9671.0,60,Female,No,Yes,LPG,River,Yes,0,16148,7359,2,No,Yes,15,Unemployed,5,No,Own House,264626,No
+H00424,Uttar Pradesh,Rural,6,15487,Primary,Self-Employed,22811,35085,5209,1214,1879,66198,11033.0,65,Male,No,Yes,Wood,Other,No,0,17809,45268,4,Yes,Yes,68,Self-Employed,2,Yes,Temporary Shelter,298011,Yes
+H00425,Rajasthan,Urban,9,5155,Higher Secondary,Unemployed,8135,28094,5007,10524,4743,56503,6278.111111111111,52,Female,No,Yes,Other,River,No,1,18688,12646,3,Yes,Yes,52,Unemployed,0,No,Temporary Shelter,256703,No
+H00426,West Bengal,Urban,1,72494,Primary,Unemployed,7573,2230,7075,11060,10737,38675,38675.0,62,Female,No,Yes,Other,River,No,1,653,2254,4,Yes,No,172,Self-Employed,7,No,Own House,240888,No
+H00427,Delhi,Rural,5,81229,Secondary,Unemployed,22515,18517,5273,1254,16830,64389,12877.8,57,Female,Yes,Yes,Wood,Well,Yes,1,8129,8866,2,No,Yes,434,Private,3,Yes,Temporary Shelter,341355,No
+H00428,Tamil Nadu,Rural,4,43547,Postgraduate,Self-Employed,28284,24991,4968,1964,19537,79744,19936.0,66,Male,No,No,Wood,Well,No,1,443,48617,3,No,No,481,Self-Employed,9,No,Own House,358100,No
+H00429,Delhi,Urban,8,33795,Graduate,Unemployed,15731,2301,5692,14775,6111,44610,5576.25,70,Male,No,No,LPG,Well,Yes,1,5106,11330,3,No,No,261,Government,6,Yes,Own House,370196,Yes
+H00430,Tamil Nadu,Rural,1,60296,Secondary,Unemployed,9189,29610,3820,6209,13016,61844,61844.0,46,Female,No,Yes,Other,Well,Yes,0,4436,17865,1,No,Yes,378,Self-Employed,9,Yes,Own House,208343,No
+H00431,Delhi,Rural,9,26447,No Schooling,Employed,16541,16927,5198,4658,14386,57710,6412.222222222223,49,Male,No,No,LPG,Piped Water,Yes,1,19241,6002,3,Yes,No,288,Government,1,Yes,Rented House,341530,No
+H00432,Karnataka,Rural,6,41598,Graduate,Employed,12878,35678,4811,11261,14216,78844,13140.666666666666,42,Female,No,No,Wood,Well,No,0,9472,1322,0,No,No,462,Government,5,Yes,Own House,6732,No
+H00433,West Bengal,Urban,4,46814,Secondary,Unemployed,13087,25466,4173,9804,6412,58942,14735.5,30,Female,No,No,Electricity,Piped Water,Yes,1,3039,27150,4,No,No,14,Unemployed,5,No,Temporary Shelter,171825,Yes
+H00434,Rajasthan,Urban,9,95751,Higher Secondary,Employed,15667,15904,2064,867,6949,41451,4605.666666666667,42,Female,No,No,Electricity,Well,No,1,8291,34369,4,Yes,No,269,Self-Employed,6,No,Temporary Shelter,242076,Yes
+H00435,Tamil Nadu,Urban,5,80330,Graduate,Employed,22919,27081,2340,3570,2225,58135,11627.0,76,Male,No,No,Electricity,River,Yes,2,10278,9150,1,Yes,No,166,Private,0,No,Own House,235430,Yes
+H00436,Rajasthan,Urban,5,92960,Graduate,Unemployed,4776,25354,6558,6176,16370,59234,11846.8,40,Male,Yes,No,Wood,Other,No,0,16285,49076,3,Yes,Yes,62,Self-Employed,0,Yes,Rented House,246328,No
+H00437,Rajasthan,Urban,5,68278,Primary,Unemployed,11311,28761,7631,1594,9804,59101,11820.2,39,Female,Yes,No,LPG,River,No,1,13944,3674,2,No,Yes,260,Unemployed,1,No,Rented House,34422,No
+H00438,Rajasthan,Rural,1,60077,Higher Secondary,Unemployed,29564,19300,1226,8490,8022,66602,66602.0,72,Male,No,Yes,Other,River,No,1,2737,36597,0,Yes,Yes,499,Government,1,No,Rented House,491483,No
+H00439,Gujarat,Urban,1,76906,No Schooling,Unemployed,9697,30491,9936,14582,14163,78869,78869.0,32,Male,No,Yes,Wood,Piped Water,Yes,1,1607,11257,1,No,No,120,Government,4,Yes,Temporary Shelter,76964,Yes
+H00440,Uttar Pradesh,Rural,8,14528,Postgraduate,Self-Employed,16629,36525,7197,4270,5284,69905,8738.125,37,Male,No,Yes,Electricity,Well,No,2,2953,19675,3,No,Yes,345,Unemployed,0,Yes,Rented House,56284,No
+H00441,Delhi,Rural,8,98812,Secondary,Self-Employed,10386,27532,9757,7182,9972,64829,8103.625,79,Male,No,No,LPG,Other,No,0,12173,40344,2,No,No,239,Unemployed,1,No,Rented House,128575,No
+H00442,Rajasthan,Urban,6,55100,Primary,Unemployed,19046,7464,782,8813,18116,54221,9036.833333333334,67,Female,Yes,No,Other,Other,Yes,1,5933,18045,3,No,No,464,Self-Employed,5,Yes,Own House,11311,Yes
+H00443,Delhi,Urban,4,13179,Secondary,Employed,27055,17562,1581,5799,10555,62552,15638.0,31,Male,Yes,Yes,Other,Well,Yes,1,11386,15062,1,Yes,No,106,Government,2,No,Rented House,200341,No
+H00444,Rajasthan,Rural,2,53781,No Schooling,Unemployed,10044,9683,4385,3850,13176,41138,20569.0,41,Female,No,No,Wood,Piped Water,No,1,15221,35390,2,Yes,No,494,Unemployed,3,Yes,Rented House,391651,No
+H00445,Tamil Nadu,Rural,2,60267,No Schooling,Unemployed,22602,33634,3381,12549,7946,80112,40056.0,74,Female,Yes,No,Wood,Piped Water,Yes,2,4682,35259,2,No,Yes,179,Self-Employed,0,Yes,Rented House,432795,Yes
+H00446,Uttar Pradesh,Rural,9,87379,Graduate,Employed,11615,1060,3470,9524,5225,30894,3432.6666666666665,56,Male,Yes,Yes,Other,Piped Water,Yes,1,14853,24952,2,Yes,No,15,Self-Employed,4,No,Own House,204950,Yes
+H00447,Uttar Pradesh,Urban,5,28952,No Schooling,Self-Employed,17034,10269,9844,10094,15269,62510,12502.0,46,Female,No,Yes,Other,Other,Yes,0,11284,30784,2,No,Yes,354,Private,3,Yes,Own House,338144,Yes
+H00448,Karnataka,Urban,4,58798,Secondary,Unemployed,7060,24065,7485,3820,1909,44339,11084.75,79,Female,No,Yes,Electricity,Piped Water,No,0,11154,44942,3,No,Yes,421,Government,7,Yes,Rented House,390403,Yes
+H00449,Gujarat,Urban,1,55939,Higher Secondary,Unemployed,12900,3895,1447,3390,8705,30337,30337.0,75,Male,No,No,Other,Piped Water,Yes,0,9047,11896,2,Yes,No,308,Self-Employed,2,Yes,Temporary Shelter,179586,Yes
+H00450,Karnataka,Urban,7,34516,Higher Secondary,Self-Employed,29751,16323,5260,8989,16865,77188,11026.857142857143,37,Female,Yes,No,Wood,Other,No,0,10338,24550,3,Yes,Yes,214,Unemployed,9,No,Temporary Shelter,307455,No
+H00451,Karnataka,Urban,3,61526,Graduate,Self-Employed,24258,13352,566,591,756,39523,13174.333333333334,71,Female,Yes,No,LPG,Other,Yes,1,14323,34946,2,No,Yes,76,Government,0,No,Own House,10300,Yes
+H00452,Karnataka,Rural,6,15449,Postgraduate,Employed,7581,39591,9328,1275,18605,76380,12730.0,47,Male,No,Yes,Electricity,River,Yes,2,4925,45137,2,Yes,Yes,224,Unemployed,9,No,Rented House,65375,No
+H00453,Karnataka,Urban,5,55290,Secondary,Self-Employed,4014,31890,9005,2850,16204,63963,12792.6,78,Male,No,Yes,Electricity,Other,No,2,5783,47230,1,No,No,92,Unemployed,4,Yes,Temporary Shelter,296707,No
+H00454,Karnataka,Rural,5,91661,Secondary,Self-Employed,22173,33016,1064,13800,18307,88360,17672.0,53,Male,Yes,No,Other,Well,Yes,2,12343,17604,3,Yes,No,180,Self-Employed,0,Yes,Rented House,442176,Yes
+H00455,West Bengal,Rural,5,77954,No Schooling,Self-Employed,14997,12962,9517,14517,3490,55483,11096.6,46,Male,Yes,Yes,LPG,Other,Yes,1,9917,45828,3,No,No,173,Self-Employed,4,Yes,Own House,121227,Yes
+H00456,Uttar Pradesh,Rural,1,27746,Secondary,Employed,12635,34302,4170,2584,1695,55386,55386.0,25,Male,No,Yes,Electricity,Other,Yes,2,10145,30141,4,No,Yes,353,Private,8,Yes,Temporary Shelter,79244,No
+H00457,Karnataka,Urban,1,72990,Primary,Self-Employed,27487,20846,9717,1009,1744,60803,60803.0,53,Female,Yes,No,Wood,Piped Water,Yes,0,6723,10815,1,Yes,Yes,353,Unemployed,4,No,Own House,390305,No
+H00458,Rajasthan,Urban,3,63810,Postgraduate,Self-Employed,15648,5011,2751,8247,11915,43572,14524.0,72,Female,No,Yes,Other,River,No,1,16568,21903,3,Yes,No,218,Self-Employed,1,No,Rented House,387451,No
+H00459,Uttar Pradesh,Urban,4,88297,No Schooling,Employed,9148,20782,1304,11701,7266,50201,12550.25,29,Male,No,Yes,Wood,Piped Water,No,2,16905,3470,1,No,No,142,Private,1,Yes,Own House,159162,Yes
+H00460,Uttar Pradesh,Rural,5,20223,Primary,Self-Employed,26150,3155,5131,5701,12162,52299,10459.8,59,Male,Yes,Yes,Other,River,No,0,17632,2008,1,Yes,Yes,314,Government,9,No,Own House,114687,No
+H00461,Maharashtra,Rural,2,77237,Graduate,Self-Employed,29789,10196,1735,12130,16710,70560,35280.0,79,Female,Yes,No,Electricity,Piped Water,No,0,13349,37175,1,Yes,No,433,Private,8,No,Own House,16328,Yes
+H00462,West Bengal,Rural,8,7597,Higher Secondary,Employed,20748,22709,7220,7095,18190,75962,9495.25,34,Male,Yes,No,Other,Well,No,1,1002,21234,0,No,No,392,Private,4,No,Own House,419870,No
+H00463,Karnataka,Rural,2,70677,Graduate,Unemployed,16022,14327,7406,1359,10813,49927,24963.5,43,Male,No,Yes,LPG,Piped Water,No,1,6266,44165,3,No,Yes,281,Unemployed,7,Yes,Temporary Shelter,137286,No
+H00464,Delhi,Rural,9,7659,Higher Secondary,Employed,22013,36474,6516,7774,2902,75679,8408.777777777777,61,Female,No,No,Wood,Piped Water,No,2,11330,49749,1,Yes,Yes,258,Government,9,No,Rented House,188812,No
+H00465,Tamil Nadu,Rural,2,91516,Graduate,Self-Employed,7919,33769,4049,1731,17380,64848,32424.0,31,Female,No,No,LPG,Well,Yes,2,14980,3687,0,Yes,No,355,Unemployed,3,No,Temporary Shelter,458165,Yes
+H00466,Gujarat,Urban,9,79567,Secondary,Self-Employed,17886,25700,8438,5681,13775,71480,7942.222222222223,70,Female,No,No,Wood,Well,No,2,7017,30123,0,No,No,46,Unemployed,1,No,Rented House,432129,Yes
+H00467,Rajasthan,Urban,7,20037,Primary,Self-Employed,24059,15820,4641,7748,15415,67683,9669.0,59,Male,No,Yes,Wood,Other,No,1,8585,45253,2,No,No,4,Private,3,No,Rented House,420768,No
+H00468,Delhi,Urban,8,51738,Higher Secondary,Employed,27256,11891,7466,5176,1409,53198,6649.75,69,Female,No,No,Other,Piped Water,No,2,16011,2513,2,No,No,61,Private,3,No,Rented House,297521,No
+H00469,West Bengal,Urban,2,76678,No Schooling,Self-Employed,8638,35629,5835,5895,16306,72303,36151.5,37,Male,Yes,Yes,Electricity,Well,Yes,2,18001,25138,3,No,Yes,467,Self-Employed,8,Yes,Rented House,156806,No
+H00470,Tamil Nadu,Rural,7,17109,Primary,Self-Employed,6651,6269,5577,11074,872,30443,4349.0,34,Female,No,Yes,Electricity,Well,No,0,17044,22655,2,No,No,83,Private,9,No,Rented House,352401,Yes
+H00471,West Bengal,Rural,6,27010,No Schooling,Employed,2609,9320,6111,8645,1844,28529,4754.833333333333,26,Male,No,No,LPG,Other,No,0,5524,11052,3,No,No,132,Self-Employed,5,No,Temporary Shelter,18610,Yes
+H00472,Rajasthan,Urban,4,13787,Primary,Unemployed,9940,11740,8589,3748,9015,43032,10758.0,30,Male,No,Yes,Other,River,No,0,5250,3557,0,No,Yes,393,Unemployed,9,Yes,Rented House,450823,Yes
+H00473,Uttar Pradesh,Rural,7,13472,Primary,Unemployed,12348,36897,3392,11577,2931,67145,9592.142857142857,32,Male,No,No,Electricity,Well,Yes,2,7512,8564,0,No,Yes,335,Private,5,No,Own House,472374,Yes
+H00474,Tamil Nadu,Urban,4,28383,Graduate,Self-Employed,5866,31930,6077,6363,19668,69904,17476.0,60,Female,Yes,No,Wood,Well,No,1,319,1250,3,Yes,Yes,62,Government,4,Yes,Temporary Shelter,159947,Yes
+H00475,Uttar Pradesh,Urban,2,66709,Higher Secondary,Employed,18755,18285,4118,6871,11085,59114,29557.0,49,Female,No,Yes,Wood,Piped Water,Yes,0,10416,47405,2,Yes,Yes,280,Government,5,Yes,Temporary Shelter,55082,No
+H00476,Rajasthan,Urban,7,74785,Higher Secondary,Self-Employed,25382,15380,2059,5464,15962,64247,9178.142857142857,68,Female,Yes,Yes,Other,Other,Yes,1,3600,32364,2,Yes,Yes,43,Unemployed,0,Yes,Rented House,23226,No
+H00477,Delhi,Rural,8,39518,Primary,Employed,18999,12360,7183,1431,2195,42168,5271.0,71,Male,Yes,No,LPG,Piped Water,Yes,2,5279,40322,3,No,Yes,152,Unemployed,4,Yes,Own House,289821,No
+H00478,Rajasthan,Urban,2,58909,Secondary,Employed,25295,6398,2007,2623,2407,38730,19365.0,64,Female,No,No,Other,River,Yes,2,18151,47653,4,Yes,Yes,413,Private,5,No,Own House,141370,Yes
+H00479,Delhi,Urban,5,23351,Secondary,Unemployed,24394,6529,2563,11967,17664,63117,12623.4,31,Female,No,No,LPG,Other,No,0,15494,44449,2,No,No,269,Self-Employed,7,No,Rented House,297992,No
+H00480,Tamil Nadu,Urban,1,74624,No Schooling,Unemployed,4253,30062,4142,8271,1519,48247,48247.0,70,Male,Yes,No,Other,Piped Water,Yes,1,18182,32886,1,Yes,No,341,Private,3,Yes,Rented House,99291,Yes
+H00481,Tamil Nadu,Rural,7,58330,No Schooling,Employed,6942,37686,2500,4461,11957,63546,9078.0,47,Male,Yes,Yes,Wood,Well,Yes,0,12398,9908,2,No,Yes,170,Self-Employed,4,No,Own House,386371,Yes
+H00482,Karnataka,Rural,8,20282,Graduate,Self-Employed,14330,18451,1794,9965,1903,46443,5805.375,43,Female,No,Yes,Other,Well,No,2,282,49236,4,No,No,155,Private,3,Yes,Temporary Shelter,325798,No
+H00483,West Bengal,Urban,6,89866,Primary,Unemployed,2864,7937,4565,3108,18310,36784,6130.666666666667,70,Female,Yes,Yes,Electricity,Other,Yes,1,14030,38445,0,Yes,No,477,Government,6,No,Temporary Shelter,279888,No
+H00484,Karnataka,Rural,5,26778,No Schooling,Self-Employed,3268,11860,8514,4912,9355,37909,7581.8,46,Female,No,No,Electricity,Well,Yes,0,15302,4181,0,No,Yes,274,Government,9,No,Rented House,154506,Yes
+H00485,West Bengal,Rural,6,29264,No Schooling,Unemployed,9454,26142,2103,6955,6368,51022,8503.666666666666,37,Male,No,Yes,Other,Piped Water,Yes,2,5166,39322,0,Yes,Yes,357,Self-Employed,5,Yes,Temporary Shelter,105850,Yes
+H00486,Karnataka,Rural,2,64675,Postgraduate,Unemployed,15666,26279,1822,10017,11339,65123,32561.5,45,Female,Yes,Yes,LPG,Other,Yes,0,7121,9033,2,Yes,Yes,425,Private,3,No,Temporary Shelter,310145,No
+H00487,Uttar Pradesh,Rural,1,10075,Primary,Self-Employed,27360,39106,6456,12390,510,85822,85822.0,25,Male,No,Yes,LPG,Well,Yes,1,14677,2771,0,Yes,Yes,19,Unemployed,5,Yes,Own House,460478,Yes
+H00488,Tamil Nadu,Rural,7,80948,Graduate,Unemployed,22955,36908,2941,4083,6830,73717,10531.0,43,Male,No,Yes,Wood,Well,Yes,1,16373,43839,4,Yes,Yes,482,Self-Employed,3,No,Temporary Shelter,59633,Yes
+H00489,Delhi,Rural,7,53454,No Schooling,Unemployed,14370,15201,1598,3715,15561,50445,7206.428571428572,57,Female,No,No,Wood,River,No,1,4896,47838,4,Yes,No,213,Government,7,No,Own House,48917,Yes
+H00490,West Bengal,Rural,2,33365,Graduate,Self-Employed,7229,38711,5573,3603,9730,64846,32423.0,28,Female,Yes,Yes,LPG,River,No,1,16514,31317,2,Yes,No,78,Self-Employed,2,No,Rented House,341948,No
+H00491,Rajasthan,Rural,2,77766,Higher Secondary,Unemployed,18309,9997,9818,4798,19709,62631,31315.5,66,Male,Yes,Yes,Other,Other,No,1,1293,39255,1,Yes,Yes,138,Private,7,Yes,Rented House,177817,Yes
+H00492,West Bengal,Rural,1,53200,Graduate,Unemployed,20621,21175,8988,5208,7964,63956,63956.0,27,Male,Yes,Yes,Wood,River,No,0,6957,39701,2,Yes,Yes,437,Unemployed,1,Yes,Own House,263051,Yes
+H00493,Delhi,Rural,8,16002,Secondary,Unemployed,6054,4225,4287,6422,15246,36234,4529.25,51,Female,No,Yes,LPG,Piped Water,Yes,0,16444,19108,0,Yes,No,97,Unemployed,5,Yes,Own House,353439,Yes
+H00494,Karnataka,Urban,8,18947,Secondary,Self-Employed,2935,36228,2596,13072,3503,58334,7291.75,76,Female,Yes,No,LPG,Well,Yes,0,18595,21983,2,No,No,376,Self-Employed,7,No,Rented House,189674,Yes
+H00495,West Bengal,Urban,1,84222,Graduate,Employed,14172,24110,2708,10350,7695,59035,59035.0,65,Female,Yes,No,Other,Well,Yes,0,9740,33382,4,No,No,151,Private,0,Yes,Own House,406980,Yes
+H00496,Gujarat,Rural,8,99840,Secondary,Self-Employed,24778,11754,6488,4209,19972,67201,8400.125,59,Male,Yes,Yes,Electricity,Well,No,2,12559,33074,2,Yes,Yes,197,Private,5,Yes,Rented House,417625,Yes
+H00497,Uttar Pradesh,Urban,9,83610,Higher Secondary,Employed,26275,27655,675,2935,14162,71702,7966.888888888889,52,Male,No,No,LPG,Other,No,2,9973,33815,2,No,Yes,272,Unemployed,8,Yes,Rented House,401606,Yes
+H00498,Tamil Nadu,Urban,4,57142,Primary,Unemployed,12530,4114,7669,4691,14239,43243,10810.75,30,Female,No,No,Wood,Other,Yes,0,6276,43501,1,No,No,155,Government,9,No,Rented House,30172,No
+H00499,Delhi,Rural,1,61307,Secondary,Employed,17560,27502,6514,14119,16088,81783,81783.0,30,Male,Yes,No,Other,River,Yes,2,8152,15480,4,Yes,Yes,49,Private,9,No,Rented House,386080,No
+H00500,Tamil Nadu,Rural,1,9493,Secondary,Self-Employed,18156,21028,2167,14368,2289,58008,58008.0,79,Male,Yes,No,Other,Well,No,2,7973,18312,3,Yes,No,478,Unemployed,1,No,Rented House,231831,No
+H00501,Gujarat,Rural,3,55085,Graduate,Self-Employed,18709,18587,9367,11566,19920,78149,26049.666666666668,68,Female,Yes,Yes,Other,Well,No,1,15333,28274,3,No,Yes,227,Unemployed,0,No,Rented House,103512,Yes
+H00502,West Bengal,Urban,5,39228,Higher Secondary,Unemployed,11726,36333,2323,8793,8098,67273,13454.6,47,Male,No,No,Electricity,Well,No,0,37,6961,4,Yes,Yes,438,Private,1,Yes,Temporary Shelter,171614,No
+H00503,West Bengal,Urban,5,84676,Primary,Employed,9774,4174,5647,1174,5338,26107,5221.4,57,Female,Yes,No,Electricity,Well,No,2,5990,6194,3,Yes,No,456,Private,4,No,Temporary Shelter,440540,No
+H00504,Rajasthan,Rural,9,56875,Graduate,Unemployed,22245,36398,1856,423,6372,67294,7477.111111111111,40,Female,No,Yes,Wood,Well,Yes,2,5438,39213,0,Yes,No,9,Self-Employed,5,Yes,Rented House,48196,Yes
+H00505,Gujarat,Rural,2,36655,Graduate,Unemployed,3985,36929,3572,4813,11867,61166,30583.0,48,Male,No,Yes,Wood,Piped Water,No,0,15735,46828,3,No,Yes,148,Government,0,No,Temporary Shelter,331045,No
+H00506,Delhi,Rural,2,48472,Postgraduate,Self-Employed,16252,5321,3759,6977,4799,37108,18554.0,29,Male,No,Yes,Other,Well,No,1,10856,24463,0,Yes,No,57,Self-Employed,6,Yes,Own House,419052,Yes
+H00507,Rajasthan,Urban,6,54437,Higher Secondary,Employed,23316,31435,6699,8627,17857,87934,14655.666666666666,65,Female,Yes,Yes,Wood,Piped Water,Yes,0,473,22410,4,No,Yes,161,Self-Employed,3,Yes,Own House,487306,Yes
+H00508,Uttar Pradesh,Urban,9,54416,Primary,Employed,6603,8099,1046,11890,7583,35221,3913.4444444444443,66,Male,Yes,No,LPG,Well,Yes,1,58,39400,3,Yes,No,350,Unemployed,8,No,Rented House,414879,Yes
+H00509,Rajasthan,Urban,1,64711,Higher Secondary,Employed,21162,24760,5731,4411,5994,62058,62058.0,37,Female,No,Yes,Electricity,Other,Yes,2,2636,6043,3,Yes,No,476,Unemployed,5,Yes,Temporary Shelter,137023,No
+H00510,Maharashtra,Urban,9,11816,Primary,Employed,17960,12360,8465,11626,11817,62228,6914.222222222223,71,Male,No,No,Other,Other,No,1,14834,14669,0,No,Yes,106,Government,8,Yes,Own House,277319,Yes
+H00511,Delhi,Rural,9,82175,Higher Secondary,Unemployed,11462,11313,2583,425,3629,29412,3268.0,36,Male,No,No,Other,Piped Water,No,1,15577,42716,0,Yes,Yes,426,Self-Employed,0,Yes,Own House,404243,No
+H00512,Maharashtra,Rural,9,69307,Graduate,Unemployed,27216,21462,2540,10669,604,62491,6943.444444444444,29,Male,No,Yes,LPG,Well,No,0,18998,8893,2,No,Yes,394,Self-Employed,3,Yes,Own House,107809,Yes
+H00513,Gujarat,Rural,5,51733,Graduate,Self-Employed,16166,6801,5034,8383,7933,44317,8863.4,61,Female,Yes,Yes,LPG,Other,No,2,7296,38307,1,No,No,288,Unemployed,1,No,Own House,337774,Yes
+H00514,Karnataka,Rural,9,16240,No Schooling,Unemployed,9754,15130,2252,4477,8189,39802,4422.444444444444,55,Male,Yes,No,LPG,Other,Yes,0,12670,25387,3,Yes,No,185,Unemployed,5,No,Temporary Shelter,350761,No
+H00515,Maharashtra,Urban,4,97493,Secondary,Unemployed,16246,15271,2349,1541,4067,39474,9868.5,52,Female,No,No,LPG,Well,Yes,0,9725,34071,1,Yes,Yes,45,Private,3,Yes,Own House,143239,Yes
+H00516,Uttar Pradesh,Urban,2,76363,Postgraduate,Self-Employed,6078,17075,3142,4236,18065,48596,24298.0,52,Female,No,Yes,Other,Well,No,2,2674,42451,1,No,No,444,Self-Employed,8,No,Own House,205377,No
+H00517,Rajasthan,Rural,6,37762,Higher Secondary,Self-Employed,14853,37919,2100,8601,5144,68617,11436.166666666666,54,Female,No,Yes,Electricity,Other,No,0,15796,47279,3,No,Yes,445,Government,2,Yes,Own House,416276,Yes
+H00518,Karnataka,Rural,4,13259,Postgraduate,Self-Employed,19751,19984,4902,3927,15466,64030,16007.5,42,Male,Yes,Yes,Electricity,Well,No,0,11065,31469,0,Yes,Yes,128,Self-Employed,0,Yes,Rented House,127310,Yes
+H00519,Rajasthan,Urban,6,55139,No Schooling,Unemployed,6042,23559,4299,13903,11830,59633,9938.833333333334,68,Female,No,No,LPG,River,Yes,1,19504,23123,2,Yes,Yes,404,Unemployed,0,No,Own House,328700,Yes
+H00520,Maharashtra,Rural,3,19849,Secondary,Unemployed,18284,13861,1118,4128,4894,42285,14095.0,51,Female,Yes,No,Wood,Well,No,0,11026,45985,4,Yes,Yes,317,Private,8,Yes,Own House,470597,Yes
+H00521,Rajasthan,Urban,6,86768,Higher Secondary,Self-Employed,16389,34434,1632,14631,4034,71120,11853.333333333334,59,Male,No,Yes,Other,Other,Yes,2,2076,23997,3,Yes,Yes,447,Self-Employed,8,No,Temporary Shelter,364292,Yes
+H00522,Gujarat,Rural,2,94709,Primary,Self-Employed,4575,17667,5991,13381,12888,54502,27251.0,50,Female,Yes,No,Electricity,Other,No,0,19574,23110,3,Yes,No,86,Government,4,Yes,Own House,232949,Yes
+H00523,Karnataka,Rural,2,59869,Secondary,Self-Employed,8754,6840,6295,14369,11819,48077,24038.5,63,Female,Yes,Yes,LPG,Piped Water,Yes,1,4787,40254,4,No,No,248,Unemployed,1,No,Own House,10485,Yes
+H00524,Gujarat,Rural,9,68095,Graduate,Unemployed,19965,4565,8133,3003,6975,42641,4737.888888888889,73,Male,No,No,Wood,River,Yes,0,7494,35999,1,No,Yes,328,Private,8,No,Own House,365890,Yes
+H00525,Maharashtra,Rural,7,75910,No Schooling,Unemployed,3986,21977,1987,9501,18658,56109,8015.571428571428,75,Female,Yes,No,Wood,Other,No,0,19961,20214,2,No,No,439,Self-Employed,7,Yes,Rented House,466666,No
+H00526,Gujarat,Rural,3,91710,Secondary,Employed,20624,22118,8348,6758,15228,73076,24358.666666666668,42,Male,Yes,Yes,LPG,River,Yes,0,2581,19150,1,No,Yes,256,Government,9,No,Temporary Shelter,251818,No
+H00527,Uttar Pradesh,Rural,1,28567,Secondary,Unemployed,22350,23641,5509,10418,12506,74424,74424.0,57,Female,Yes,Yes,Other,Well,Yes,1,15600,49801,4,Yes,No,276,Unemployed,9,Yes,Temporary Shelter,106255,No
+H00528,Maharashtra,Rural,8,40292,Graduate,Unemployed,28681,8366,2613,593,16650,56903,7112.875,49,Female,Yes,Yes,Electricity,Other,No,2,14333,21225,4,No,No,277,Government,5,No,Rented House,8802,Yes
+H00529,Maharashtra,Urban,6,79813,Higher Secondary,Unemployed,25988,27636,1544,7039,946,63153,10525.5,55,Male,No,No,Wood,Piped Water,Yes,2,10404,28658,2,Yes,Yes,437,Self-Employed,6,Yes,Rented House,295458,No
+H00530,Maharashtra,Urban,7,56631,Primary,Self-Employed,17470,16630,2931,9235,608,46874,6696.285714285715,61,Female,No,No,Electricity,Other,No,1,11166,44946,4,Yes,No,3,Unemployed,5,No,Temporary Shelter,254290,No
+H00531,Delhi,Urban,9,14885,Graduate,Unemployed,26704,21056,8479,9916,3739,69894,7766.0,26,Female,No,Yes,Electricity,Piped Water,Yes,1,932,20496,4,Yes,Yes,64,Self-Employed,4,No,Own House,441514,Yes
+H00532,Rajasthan,Urban,5,64659,Primary,Self-Employed,7968,8382,2082,8995,6431,33858,6771.6,57,Female,No,No,Wood,River,Yes,0,18047,27225,2,Yes,No,434,Private,3,No,Temporary Shelter,281709,No
+H00533,Delhi,Urban,1,59306,Higher Secondary,Employed,27427,17149,1808,781,4553,51718,51718.0,63,Male,No,Yes,LPG,Piped Water,Yes,2,8748,22680,3,Yes,Yes,201,Self-Employed,6,Yes,Rented House,93153,Yes
+H00534,Delhi,Rural,7,71314,Secondary,Employed,9493,1992,5417,14530,14246,45678,6525.428571428572,67,Male,Yes,No,Wood,Well,Yes,1,15577,39073,1,No,Yes,62,Private,3,No,Own House,353289,No
+H00535,Uttar Pradesh,Rural,5,70087,Primary,Self-Employed,6103,7858,9293,10331,1745,35330,7066.0,67,Male,Yes,Yes,Wood,Well,No,2,15015,23674,3,Yes,Yes,142,Self-Employed,9,Yes,Temporary Shelter,306377,No
+H00536,Karnataka,Urban,3,34165,No Schooling,Self-Employed,4076,3121,2120,332,19604,29253,9751.0,56,Male,Yes,No,Other,Well,No,0,16108,24719,3,Yes,Yes,243,Government,9,No,Own House,479123,No
+H00537,Rajasthan,Rural,9,63929,No Schooling,Self-Employed,23615,28160,8003,3038,14339,77155,8572.777777777777,42,Male,Yes,No,Electricity,Other,No,1,1104,13969,1,Yes,Yes,291,Government,9,No,Own House,310528,No
+H00538,Gujarat,Urban,1,72028,Graduate,Unemployed,4994,21906,5266,3585,13356,49107,49107.0,41,Female,No,No,LPG,Well,Yes,2,17654,758,3,No,Yes,284,Unemployed,8,Yes,Rented House,183557,No
+H00539,West Bengal,Urban,1,54812,Higher Secondary,Employed,5744,20572,5862,3970,5605,41753,41753.0,58,Male,No,No,Electricity,Well,Yes,2,12936,47250,2,Yes,No,179,Government,4,No,Temporary Shelter,215732,Yes
+H00540,Maharashtra,Rural,1,55500,Graduate,Self-Employed,16466,5136,5692,2468,3422,33184,33184.0,63,Male,Yes,Yes,Wood,Other,No,0,9601,12222,1,Yes,Yes,173,Government,7,Yes,Rented House,340397,No
+H00541,Gujarat,Rural,3,84151,Graduate,Unemployed,16523,17727,7122,1175,3013,45560,15186.666666666666,31,Male,No,No,LPG,River,No,1,3646,43927,0,Yes,No,324,Private,5,Yes,Temporary Shelter,456186,Yes
+H00542,Maharashtra,Rural,6,63643,Postgraduate,Employed,29332,33167,6593,7805,3301,80198,13366.333333333334,66,Female,Yes,Yes,LPG,Well,No,2,14960,13435,3,No,Yes,412,Government,3,Yes,Temporary Shelter,37669,No
+H00543,Uttar Pradesh,Urban,3,49900,Graduate,Unemployed,7594,16479,7204,7413,14395,53085,17695.0,78,Female,Yes,Yes,LPG,Well,No,0,14878,21777,4,Yes,No,110,Private,2,Yes,Own House,419488,Yes
+H00544,Maharashtra,Rural,8,47946,Postgraduate,Employed,9531,32376,600,10205,7481,60193,7524.125,77,Male,No,Yes,LPG,Other,Yes,2,18438,28323,1,No,Yes,174,Private,5,Yes,Own House,405058,No
+H00545,Delhi,Urban,2,12851,No Schooling,Unemployed,9371,5823,7157,11655,8721,42727,21363.5,59,Female,No,Yes,Other,River,No,0,9145,29914,0,No,Yes,474,Private,0,No,Own House,326243,No
+H00546,Rajasthan,Urban,9,21288,No Schooling,Employed,16547,5920,6375,9935,6538,45315,5035.0,54,Female,No,No,LPG,River,Yes,2,18226,18175,4,Yes,No,152,Self-Employed,1,Yes,Rented House,104012,No
+H00547,West Bengal,Urban,3,77692,Graduate,Employed,20028,20585,4771,3035,15582,64001,21333.666666666668,36,Female,No,Yes,Wood,River,No,2,2802,43285,0,No,Yes,463,Private,6,No,Own House,133154,No
+H00548,Tamil Nadu,Rural,5,72580,No Schooling,Unemployed,5144,39239,737,2938,15148,63206,12641.2,59,Female,No,No,Other,Other,Yes,0,16365,11358,3,No,Yes,399,Self-Employed,3,Yes,Rented House,124878,No
+H00549,Maharashtra,Rural,8,12368,Higher Secondary,Self-Employed,15990,18272,7726,9749,864,52601,6575.125,35,Male,No,No,Wood,Piped Water,No,1,6105,30627,4,Yes,Yes,355,Private,4,Yes,Own House,447020,Yes
+H00550,Gujarat,Urban,2,90436,Postgraduate,Employed,16083,27619,8532,4334,2300,58868,29434.0,68,Male,No,No,Wood,Piped Water,No,0,18944,10239,3,Yes,Yes,216,Self-Employed,9,No,Rented House,157333,No
+H00551,Delhi,Rural,6,51403,Postgraduate,Self-Employed,18626,10533,5718,9708,14610,59195,9865.833333333334,28,Female,Yes,No,Electricity,Well,Yes,1,19421,42425,4,Yes,No,296,Unemployed,0,No,Temporary Shelter,217578,No
+H00552,Tamil Nadu,Rural,5,96170,Graduate,Unemployed,22469,4720,4525,7033,6458,45205,9041.0,49,Female,No,Yes,LPG,Well,Yes,2,2749,40603,1,Yes,Yes,448,Unemployed,1,Yes,Rented House,9795,Yes
+H00553,West Bengal,Rural,9,14168,No Schooling,Self-Employed,9954,20267,6573,8553,9596,54943,6104.777777777777,72,Female,Yes,No,LPG,Well,No,2,16974,19614,2,No,No,452,Self-Employed,3,Yes,Rented House,307453,No
+H00554,Tamil Nadu,Urban,5,91497,Primary,Self-Employed,9269,16696,3042,2109,7936,39052,7810.4,56,Female,Yes,Yes,Wood,Piped Water,Yes,0,17752,21017,2,No,Yes,488,Unemployed,7,No,Rented House,192528,No
+H00555,Delhi,Urban,2,54879,Postgraduate,Self-Employed,9130,30968,2037,9519,13138,64792,32396.0,44,Male,No,No,LPG,Other,No,0,10181,29197,0,Yes,Yes,403,Government,9,No,Temporary Shelter,229636,No
+H00556,Rajasthan,Rural,5,64871,Graduate,Self-Employed,8828,24345,1254,14696,679,49802,9960.4,74,Female,Yes,No,Other,Well,Yes,1,1361,17888,4,Yes,Yes,452,Private,3,Yes,Rented House,20180,No
+H00557,Rajasthan,Urban,4,94388,Graduate,Self-Employed,26746,26693,7896,12262,4373,77970,19492.5,55,Male,No,Yes,Electricity,Other,No,1,3773,25161,3,Yes,Yes,419,Self-Employed,2,Yes,Temporary Shelter,456504,No
+H00558,Karnataka,Rural,7,37174,Higher Secondary,Employed,10844,20385,8323,10050,18070,67672,9667.42857142857,28,Female,Yes,No,LPG,Well,No,1,13495,10047,1,No,No,476,Unemployed,2,Yes,Own House,308479,Yes
+H00559,Rajasthan,Rural,6,97491,Secondary,Employed,16220,19122,6007,11517,15955,68821,11470.166666666666,78,Male,Yes,No,LPG,Other,No,0,2064,15644,1,Yes,Yes,239,Unemployed,4,No,Own House,355031,No
+H00560,Karnataka,Rural,2,11581,Secondary,Employed,8331,2364,4735,2163,17657,35250,17625.0,62,Female,Yes,No,Other,Other,No,2,18799,20114,1,No,Yes,225,Government,2,Yes,Temporary Shelter,497502,Yes
+H00561,Tamil Nadu,Rural,5,76853,Postgraduate,Unemployed,21896,3708,1040,5353,13297,45294,9058.8,77,Male,No,No,Electricity,Piped Water,No,0,19335,14895,2,No,Yes,185,Private,7,No,Rented House,259495,No
+H00562,Uttar Pradesh,Urban,7,69046,Higher Secondary,Self-Employed,15397,13982,6010,10681,4960,51030,7290.0,71,Male,Yes,No,Other,Other,No,2,5616,32732,3,No,No,47,Government,4,No,Own House,426484,No
+H00563,Gujarat,Urban,7,54678,Higher Secondary,Employed,19883,18308,8961,1166,15816,64134,9162.0,25,Male,Yes,Yes,Wood,River,No,0,7975,19452,1,No,No,465,Self-Employed,6,Yes,Rented House,197623,Yes
+H00564,Gujarat,Urban,5,31649,Higher Secondary,Unemployed,12291,33919,8426,1089,852,56577,11315.4,27,Female,Yes,No,Wood,Piped Water,No,0,10960,23753,1,Yes,No,385,Unemployed,7,Yes,Rented House,239901,No
+H00565,Tamil Nadu,Rural,9,93668,Postgraduate,Employed,20542,26161,5631,14648,5844,72826,8091.777777777777,61,Male,No,No,LPG,Well,Yes,1,15324,1679,0,Yes,No,207,Unemployed,4,No,Temporary Shelter,155561,No
+H00566,Maharashtra,Rural,4,87325,Secondary,Employed,12164,36089,9197,3261,5007,65718,16429.5,46,Female,Yes,Yes,Electricity,Piped Water,Yes,2,6243,31858,4,Yes,Yes,156,Unemployed,7,Yes,Own House,190470,Yes
+H00567,Maharashtra,Rural,3,19567,Higher Secondary,Self-Employed,23546,14865,1629,6661,5330,52031,17343.666666666668,41,Male,No,No,Wood,River,Yes,0,9560,43855,4,No,Yes,224,Government,2,Yes,Temporary Shelter,122352,No
+H00568,Rajasthan,Urban,4,85404,No Schooling,Unemployed,12450,1495,3645,6366,11720,35676,8919.0,38,Male,Yes,Yes,Other,River,No,0,14684,38860,4,No,No,143,Government,6,No,Temporary Shelter,364411,No
+H00569,Gujarat,Rural,5,94906,Graduate,Self-Employed,22423,3148,9053,12021,617,47262,9452.4,65,Female,Yes,No,Wood,Other,No,2,8330,32918,0,Yes,Yes,418,Private,7,Yes,Temporary Shelter,185542,Yes
+H00570,Gujarat,Urban,6,66944,Graduate,Self-Employed,4035,34324,4220,7167,17365,67111,11185.166666666666,59,Male,Yes,No,Wood,River,No,0,4923,6552,2,No,Yes,110,Self-Employed,6,No,Temporary Shelter,339546,Yes
+H00571,Karnataka,Urban,3,83002,Primary,Employed,13463,14393,4567,11581,4787,48791,16263.666666666666,37,Female,No,Yes,Other,River,Yes,2,6467,38021,0,No,No,317,Private,1,No,Rented House,110551,No
+H00572,Uttar Pradesh,Urban,2,33803,Primary,Self-Employed,9977,2552,4695,11140,4977,33341,16670.5,59,Female,Yes,No,LPG,River,Yes,1,6076,15440,1,No,Yes,362,Private,7,Yes,Own House,363154,No
+H00573,Delhi,Urban,4,23230,Postgraduate,Unemployed,19241,36853,9744,10058,7033,82929,20732.25,67,Female,Yes,No,Electricity,River,Yes,1,8001,46768,3,Yes,No,361,Unemployed,5,No,Own House,80808,No
+H00574,Maharashtra,Urban,5,22862,Postgraduate,Self-Employed,22207,33924,7781,11458,17127,92497,18499.4,26,Female,Yes,Yes,LPG,Well,Yes,2,15303,47838,1,Yes,No,464,Government,9,No,Own House,120823,Yes
+H00575,Gujarat,Urban,4,48355,Graduate,Self-Employed,25154,9926,3009,8301,13255,59645,14911.25,71,Male,Yes,Yes,Other,Well,Yes,1,17699,2887,1,Yes,No,131,Self-Employed,2,Yes,Rented House,425377,Yes
+H00576,Karnataka,Rural,3,36259,No Schooling,Self-Employed,27625,31851,5516,7579,1365,73936,24645.333333333332,37,Male,No,No,Wood,Piped Water,No,2,16457,46249,3,No,No,112,Private,3,No,Rented House,120469,No
+H00577,West Bengal,Rural,8,92445,Secondary,Employed,14182,24889,7033,9833,11673,67610,8451.25,75,Female,Yes,Yes,Electricity,Other,Yes,0,8675,48457,4,Yes,No,323,Self-Employed,6,Yes,Temporary Shelter,198707,No
+H00578,Karnataka,Urban,4,35795,Secondary,Unemployed,2298,9055,5227,7480,5829,29889,7472.25,78,Male,Yes,No,LPG,Well,No,0,12303,15939,0,Yes,No,434,Unemployed,2,No,Temporary Shelter,334066,No
+H00579,Maharashtra,Urban,2,13770,Postgraduate,Employed,25628,5654,1181,1267,1103,34833,17416.5,40,Male,Yes,Yes,Other,River,No,2,17933,2255,2,Yes,Yes,88,Private,0,No,Temporary Shelter,333018,Yes
+H00580,Maharashtra,Rural,2,16093,No Schooling,Employed,2923,23634,4432,4423,6256,41668,20834.0,42,Female,Yes,No,Wood,Other,No,0,17743,7119,1,No,Yes,160,Government,5,No,Temporary Shelter,379397,Yes
+H00581,Karnataka,Urban,1,51571,Postgraduate,Employed,22616,33363,6060,11315,11754,85108,85108.0,31,Male,No,Yes,Wood,Well,Yes,1,15128,20714,1,No,Yes,333,Private,2,No,Own House,322505,Yes
+H00582,Delhi,Urban,4,5193,Secondary,Employed,15331,12468,4516,12645,4518,49478,12369.5,69,Female,Yes,Yes,LPG,Piped Water,Yes,0,18280,26290,2,No,No,407,Unemployed,9,No,Temporary Shelter,73836,No
+H00583,Tamil Nadu,Rural,9,22569,Postgraduate,Employed,22690,33922,7839,12248,5692,82391,9154.555555555555,60,Male,Yes,Yes,Other,River,No,0,6659,40475,0,No,No,74,Private,5,No,Rented House,191838,No
+H00584,Maharashtra,Urban,7,16190,Higher Secondary,Unemployed,21183,18380,1219,9218,2515,52515,7502.142857142857,65,Male,No,Yes,Wood,Other,Yes,2,5246,11028,1,No,No,280,Unemployed,9,No,Rented House,152472,No
+H00585,Karnataka,Urban,7,67824,Postgraduate,Self-Employed,8578,27870,574,14378,10350,61750,8821.42857142857,54,Female,Yes,Yes,Wood,Well,Yes,1,6967,48525,2,Yes,Yes,411,Private,2,Yes,Rented House,286785,Yes
+H00586,Gujarat,Urban,7,47752,Graduate,Employed,6875,38394,9985,4807,3880,63941,9134.42857142857,66,Male,Yes,Yes,Electricity,Other,No,0,6661,8698,1,Yes,Yes,6,Self-Employed,5,No,Temporary Shelter,183305,No
+H00587,Karnataka,Rural,8,37327,Postgraduate,Employed,23710,15259,4657,4185,4270,52081,6510.125,65,Male,Yes,Yes,Wood,Well,No,0,12416,44439,4,No,No,112,Government,3,Yes,Own House,69833,Yes
+H00588,Uttar Pradesh,Rural,1,47070,Graduate,Unemployed,14254,15873,9011,10484,6329,55951,55951.0,31,Female,No,Yes,LPG,Piped Water,No,2,510,20681,4,No,No,35,Unemployed,3,No,Own House,251673,No
+H00589,Tamil Nadu,Rural,8,90925,No Schooling,Unemployed,24966,14016,2649,3379,2113,47123,5890.375,39,Male,Yes,Yes,Other,River,No,2,8614,49074,1,Yes,No,265,Self-Employed,9,No,Temporary Shelter,412548,Yes
+H00590,West Bengal,Urban,4,45197,Secondary,Self-Employed,20186,1153,7213,14754,13647,56953,14238.25,64,Female,No,No,Other,Piped Water,No,1,2432,44755,1,No,No,112,Unemployed,9,Yes,Temporary Shelter,499925,No
+H00591,Delhi,Urban,4,7261,Primary,Unemployed,12905,8853,4707,4738,16045,47248,11812.0,43,Male,No,Yes,Electricity,River,Yes,0,1906,47896,4,No,No,291,Private,1,Yes,Rented House,383043,No
+H00592,Rajasthan,Rural,4,98905,Primary,Self-Employed,15353,13379,7641,12293,18763,67429,16857.25,67,Female,No,No,Other,River,No,2,15554,48843,1,No,Yes,222,Unemployed,3,Yes,Rented House,113398,Yes
+H00593,West Bengal,Urban,6,31512,Secondary,Employed,17882,16792,9152,2562,5872,52260,8710.0,61,Female,No,Yes,LPG,Other,Yes,2,16448,46707,0,No,No,210,Unemployed,3,No,Own House,408417,No
+H00594,Tamil Nadu,Urban,7,11716,Primary,Employed,29429,39367,9578,2424,11038,91836,13119.42857142857,26,Female,No,No,Wood,Well,Yes,2,4928,14019,0,No,No,17,Government,6,Yes,Rented House,438598,Yes
+H00595,Tamil Nadu,Urban,6,91795,Postgraduate,Self-Employed,21041,19100,4436,6571,648,51796,8632.666666666666,66,Female,No,No,Electricity,Piped Water,No,1,4710,38280,3,Yes,No,240,Self-Employed,4,No,Rented House,46129,No
+H00596,Tamil Nadu,Urban,1,33933,No Schooling,Unemployed,21730,12049,9807,1926,2254,47766,47766.0,72,Female,No,Yes,Other,Piped Water,No,2,11540,4599,0,Yes,No,133,Private,7,No,Temporary Shelter,295952,No
+H00597,West Bengal,Urban,8,9378,No Schooling,Self-Employed,11663,1786,1575,10398,7878,33300,4162.5,79,Male,Yes,Yes,Electricity,Piped Water,Yes,1,6124,37777,1,No,Yes,219,Government,6,Yes,Own House,78346,No
+H00598,Gujarat,Rural,7,45583,Secondary,Unemployed,21333,5368,4376,5991,14091,51159,7308.428571428572,37,Male,Yes,No,Electricity,Other,No,1,7837,48346,1,No,No,390,Unemployed,9,No,Temporary Shelter,73524,Yes
+H00599,Tamil Nadu,Urban,6,90371,Primary,Employed,2941,31699,5115,8273,9871,57899,9649.833333333334,64,Female,No,No,Other,Other,Yes,0,15583,43962,2,Yes,No,101,Government,8,Yes,Own House,56625,No
+H00600,Karnataka,Rural,6,34033,Postgraduate,Unemployed,3907,38040,7765,8658,13279,71649,11941.5,65,Male,No,Yes,Electricity,Other,No,0,17184,25702,0,No,No,139,Unemployed,7,Yes,Temporary Shelter,302471,Yes
+H00601,West Bengal,Urban,5,29000,No Schooling,Self-Employed,6837,28454,6879,7213,10295,59678,11935.6,67,Female,No,Yes,Other,River,No,1,6109,29792,4,Yes,Yes,168,Private,8,Yes,Own House,150651,No
+H00602,Rajasthan,Rural,6,80868,No Schooling,Self-Employed,15680,39762,9618,1037,19936,86033,14338.833333333334,67,Male,No,Yes,LPG,Piped Water,Yes,0,9909,40522,4,No,No,497,Unemployed,0,Yes,Rented House,21483,No
+H00603,Tamil Nadu,Urban,9,47604,Higher Secondary,Employed,26489,24600,5152,4784,6192,67217,7468.555555555556,79,Male,No,No,Other,River,Yes,0,6659,48850,3,Yes,Yes,190,Government,9,No,Own House,393719,Yes
+H00604,Karnataka,Rural,9,73336,Higher Secondary,Unemployed,19627,30238,7292,13189,4718,75064,8340.444444444445,55,Female,No,Yes,Wood,Piped Water,No,2,1238,21860,2,Yes,No,481,Government,2,No,Own House,333024,No
+H00605,Gujarat,Urban,8,78869,No Schooling,Unemployed,7696,26241,9747,886,5303,49873,6234.125,40,Female,Yes,Yes,Other,Piped Water,No,0,15064,3020,4,No,No,24,Unemployed,4,Yes,Temporary Shelter,8947,No
+H00606,Uttar Pradesh,Rural,9,10410,Secondary,Unemployed,18226,20810,7956,11753,19261,78006,8667.333333333334,66,Male,Yes,Yes,Wood,Well,No,1,5620,24185,3,No,No,464,Self-Employed,8,Yes,Own House,140605,Yes
+H00607,Gujarat,Urban,8,88375,Graduate,Employed,15543,21167,5174,13483,12172,67539,8442.375,68,Male,No,Yes,Electricity,Piped Water,Yes,0,1486,23025,0,Yes,No,436,Government,7,No,Own House,178648,Yes
+H00608,Rajasthan,Rural,8,61044,Graduate,Unemployed,14615,22811,1041,556,3682,42705,5338.125,30,Female,No,Yes,Other,Other,No,2,4681,5715,2,No,No,32,Self-Employed,9,No,Own House,303060,No
+H00609,Tamil Nadu,Urban,1,68315,Postgraduate,Self-Employed,3466,21085,2661,12207,11509,50928,50928.0,52,Male,No,No,Wood,Other,No,1,11490,37183,2,Yes,No,342,Self-Employed,6,Yes,Temporary Shelter,440139,Yes
+H00610,Rajasthan,Rural,5,76344,No Schooling,Unemployed,22341,10261,2751,9263,14828,59444,11888.8,56,Male,Yes,No,Other,Other,No,0,4470,45328,1,No,No,328,Self-Employed,1,No,Own House,448378,Yes
+H00611,West Bengal,Rural,4,11796,No Schooling,Employed,20350,19733,9744,10365,3086,63278,15819.5,68,Female,No,Yes,Other,Well,No,1,11723,2883,0,No,No,5,Self-Employed,5,No,Temporary Shelter,473945,No
+H00612,Maharashtra,Urban,2,91716,No Schooling,Unemployed,2375,30079,5069,14739,3148,55410,27705.0,34,Male,Yes,Yes,Other,Well,Yes,0,13888,9705,2,No,No,445,Government,3,No,Rented House,125468,Yes
+H00613,Tamil Nadu,Urban,8,59245,Secondary,Unemployed,2262,34980,3244,4847,7813,53146,6643.25,74,Female,Yes,No,LPG,River,Yes,2,7177,45657,3,Yes,Yes,193,Government,4,No,Temporary Shelter,460133,Yes
+H00614,Maharashtra,Rural,3,48056,Higher Secondary,Self-Employed,22746,15141,6541,10202,18601,73231,24410.333333333332,42,Female,Yes,Yes,Wood,Piped Water,Yes,0,13201,44708,4,Yes,Yes,229,Self-Employed,4,Yes,Own House,251362,No
+H00615,Karnataka,Urban,4,22709,No Schooling,Unemployed,24886,10344,5175,4618,13044,58067,14516.75,28,Female,No,No,LPG,Piped Water,No,1,5441,19292,0,No,Yes,136,Government,3,No,Rented House,269156,Yes
+H00616,Uttar Pradesh,Rural,7,63557,No Schooling,Self-Employed,13580,16896,2060,11033,7907,51476,7353.714285714285,33,Male,No,Yes,LPG,Other,No,1,18224,3431,0,Yes,Yes,322,Self-Employed,3,Yes,Own House,15213,Yes
+H00617,Delhi,Rural,9,22543,Primary,Self-Employed,29971,24817,1664,10620,17754,84826,9425.111111111111,31,Male,Yes,No,Wood,Other,No,1,11719,31956,2,No,No,399,Self-Employed,3,Yes,Temporary Shelter,420779,No
+H00618,Rajasthan,Rural,2,42418,Secondary,Employed,12136,30813,5919,6842,15734,71444,35722.0,74,Female,Yes,No,Other,Other,Yes,0,5397,2946,2,Yes,No,472,Self-Employed,1,Yes,Rented House,146284,No
+H00619,Gujarat,Urban,3,99611,Postgraduate,Self-Employed,9833,19895,3222,3591,15512,52053,17351.0,32,Female,Yes,Yes,LPG,Other,Yes,0,1621,33797,2,No,Yes,215,Unemployed,0,No,Rented House,95660,Yes
+H00620,Uttar Pradesh,Rural,4,21724,No Schooling,Self-Employed,3893,1143,970,12570,10235,28811,7202.75,67,Male,Yes,No,LPG,Other,Yes,0,17945,37686,3,Yes,Yes,494,Private,1,No,Rented House,322332,No
+H00621,Tamil Nadu,Rural,1,8828,Primary,Employed,10106,11681,1968,10742,13925,48422,48422.0,31,Male,No,Yes,LPG,Other,Yes,2,17800,35130,1,Yes,Yes,348,Government,6,Yes,Own House,46576,Yes
+H00622,Maharashtra,Urban,7,22087,Graduate,Self-Employed,13826,8367,8425,4557,16198,51373,7339.0,65,Male,Yes,No,Other,Piped Water,No,2,4190,12875,2,Yes,Yes,363,Government,0,No,Rented House,272855,Yes
+H00623,Gujarat,Urban,2,17605,Postgraduate,Employed,3652,4228,1308,5079,15821,30088,15044.0,64,Female,No,Yes,LPG,Well,Yes,2,5054,7649,1,Yes,No,182,Self-Employed,5,Yes,Rented House,489018,Yes
+H00624,Maharashtra,Urban,5,36337,No Schooling,Unemployed,23924,5582,8863,5519,13146,57034,11406.8,27,Female,Yes,Yes,Electricity,Other,Yes,1,1130,22537,1,Yes,Yes,167,Unemployed,3,Yes,Rented House,249486,Yes
+H00625,West Bengal,Urban,1,10482,No Schooling,Employed,22276,14147,7219,13401,5393,62436,62436.0,41,Male,No,Yes,Wood,Piped Water,No,1,14071,24058,0,Yes,No,281,Unemployed,1,No,Rented House,247647,No
+H00626,Maharashtra,Rural,3,70333,Primary,Self-Employed,2599,12397,5573,2939,9976,33484,11161.333333333334,26,Male,Yes,No,Electricity,Other,Yes,1,19981,24343,4,No,No,37,Government,2,No,Temporary Shelter,271659,No
+H00627,West Bengal,Rural,2,97541,Secondary,Employed,23199,39799,8512,13431,17770,102711,51355.5,39,Male,No,Yes,Other,River,No,1,11936,42277,4,No,No,162,Self-Employed,6,No,Own House,151265,Yes
+H00628,Karnataka,Rural,1,93296,No Schooling,Self-Employed,20296,38011,2145,11122,19142,90716,90716.0,70,Female,No,Yes,LPG,River,No,1,2118,42524,3,Yes,Yes,470,Government,5,Yes,Own House,198739,No
+H00629,Gujarat,Rural,7,55952,Graduate,Unemployed,27868,14647,8749,9710,4882,65856,9408.0,53,Female,No,Yes,Wood,Piped Water,No,0,663,29084,3,No,Yes,451,Self-Employed,5,Yes,Rented House,133496,Yes
+H00630,Gujarat,Urban,5,10463,No Schooling,Employed,10792,28718,1629,9927,2285,53351,10670.2,74,Male,Yes,No,LPG,Well,No,1,19018,37042,4,Yes,No,442,Self-Employed,7,No,Temporary Shelter,44344,Yes
+H00631,Delhi,Rural,1,75448,Graduate,Unemployed,26956,20097,1853,4984,13530,67420,67420.0,72,Male,No,Yes,Other,River,No,0,15735,37638,4,No,Yes,489,Private,7,Yes,Rented House,194164,No
+H00632,Tamil Nadu,Rural,6,9648,Postgraduate,Self-Employed,22597,37953,1267,10835,12235,84887,14147.833333333334,76,Female,Yes,No,Wood,River,Yes,2,19158,5933,0,No,Yes,141,Self-Employed,5,Yes,Own House,480575,No
+H00633,West Bengal,Urban,5,38623,Postgraduate,Self-Employed,5637,18107,4395,10164,17179,55482,11096.4,46,Female,No,No,Electricity,Well,Yes,2,19874,23486,0,No,No,247,Private,0,Yes,Own House,321739,Yes
+H00634,Delhi,Rural,3,64156,Higher Secondary,Unemployed,12355,4010,9374,11601,10745,48085,16028.333333333334,28,Male,No,No,Wood,River,No,2,9763,34913,4,No,No,430,Government,9,No,Own House,447842,No
+H00635,Maharashtra,Rural,7,40634,Higher Secondary,Employed,17989,6555,3954,13326,3097,44921,6417.285714285715,76,Male,Yes,Yes,LPG,Other,Yes,2,17907,33905,2,Yes,Yes,102,Government,6,No,Rented House,271344,Yes
+H00636,Maharashtra,Rural,9,49602,Graduate,Employed,11290,1067,7829,1077,17564,38827,4314.111111111111,30,Male,No,Yes,Wood,Well,No,2,8053,6342,2,No,No,198,Unemployed,7,No,Rented House,181541,No
+H00637,Delhi,Rural,9,54334,Secondary,Self-Employed,7599,29412,2290,3070,824,43195,4799.444444444444,62,Female,No,No,Other,River,Yes,1,17371,28804,0,No,Yes,199,Private,4,Yes,Temporary Shelter,154103,No
+H00638,Gujarat,Rural,9,73648,No Schooling,Unemployed,24832,35305,1385,11592,15660,88774,9863.777777777777,50,Male,Yes,Yes,Other,Well,Yes,1,3845,42519,1,No,Yes,41,Government,3,No,Temporary Shelter,134288,Yes
+H00639,Maharashtra,Rural,2,27054,No Schooling,Unemployed,16342,12549,8234,12536,13114,62775,31387.5,35,Female,No,Yes,Wood,Other,Yes,1,13496,24932,4,Yes,No,434,Private,6,Yes,Own House,438810,No
+H00640,Rajasthan,Urban,3,75028,Higher Secondary,Employed,26941,6680,4406,12139,1486,51652,17217.333333333332,50,Female,No,No,Other,River,Yes,2,6301,12421,3,No,No,146,Government,5,Yes,Own House,262160,No
+H00641,Karnataka,Urban,7,27207,Graduate,Employed,15945,26739,4992,11228,1260,60164,8594.857142857143,41,Male,No,No,Other,Piped Water,Yes,2,11885,39030,2,Yes,Yes,65,Private,5,Yes,Temporary Shelter,102974,Yes
+H00642,Karnataka,Rural,5,85650,No Schooling,Employed,12762,22209,2573,492,12385,50421,10084.2,48,Male,No,Yes,Other,River,Yes,0,16482,32507,1,Yes,No,430,Private,2,No,Own House,419594,Yes
+H00643,Rajasthan,Rural,2,86554,No Schooling,Unemployed,29995,23432,812,10043,9728,74010,37005.0,52,Female,Yes,No,Electricity,River,Yes,1,2288,4173,2,No,Yes,192,Self-Employed,9,Yes,Temporary Shelter,100927,Yes
+H00644,Delhi,Urban,3,26386,Secondary,Employed,16312,16116,6769,13023,17790,70010,23336.666666666668,59,Male,No,Yes,LPG,Other,No,2,7796,17767,1,Yes,No,297,Government,3,No,Rented House,424950,Yes
+H00645,Rajasthan,Rural,6,88276,Primary,Employed,9382,21045,5817,12798,5999,55041,9173.5,55,Female,No,No,Other,Piped Water,No,2,7263,16135,4,No,Yes,37,Unemployed,4,Yes,Own House,341030,Yes
+H00646,West Bengal,Rural,7,64518,Higher Secondary,Self-Employed,29052,27327,1310,8928,864,67481,9640.142857142857,37,Male,No,Yes,Wood,Piped Water,No,2,12777,6832,4,No,No,140,Self-Employed,8,No,Own House,114817,Yes
+H00647,West Bengal,Rural,9,57781,Higher Secondary,Employed,10982,36709,7341,14414,8527,77973,8663.666666666666,78,Male,No,Yes,Other,Piped Water,Yes,0,8770,3587,4,No,Yes,105,Unemployed,7,No,Temporary Shelter,145522,No
+H00648,Delhi,Urban,1,57780,Primary,Employed,21953,27905,2532,2886,14032,69308,69308.0,59,Male,No,No,Electricity,Other,Yes,2,7385,35052,0,No,Yes,427,Private,2,No,Rented House,394689,Yes
+H00649,Rajasthan,Rural,7,66440,No Schooling,Unemployed,9707,8067,7629,433,14908,40744,5820.571428571428,40,Male,No,Yes,Wood,Other,No,0,14862,29525,1,No,No,151,Self-Employed,5,No,Own House,287669,Yes
+H00650,West Bengal,Urban,8,49199,Secondary,Unemployed,19130,33559,3205,13720,16605,86219,10777.375,39,Female,No,Yes,LPG,Other,No,0,8464,46758,3,No,Yes,351,Private,9,No,Own House,421788,Yes
+H00651,Gujarat,Rural,3,66035,Secondary,Self-Employed,26888,18985,9288,11044,8439,74644,24881.333333333332,67,Female,No,No,Wood,Other,Yes,1,4881,19671,3,No,Yes,413,Government,0,No,Temporary Shelter,304172,No
+H00652,Rajasthan,Urban,4,13210,Higher Secondary,Employed,6633,28369,2647,14629,14436,66714,16678.5,42,Female,Yes,Yes,Wood,Other,No,2,16018,29175,4,Yes,Yes,325,Government,2,No,Rented House,168151,Yes
+H00653,Gujarat,Urban,6,49363,Secondary,Self-Employed,19304,18864,1115,2574,9761,51618,8603.0,71,Male,Yes,Yes,Wood,Piped Water,No,0,15691,42285,3,Yes,Yes,37,Unemployed,9,No,Temporary Shelter,190039,Yes
+H00654,West Bengal,Rural,7,83279,Postgraduate,Unemployed,11269,23614,1447,2472,16363,55165,7880.714285714285,61,Female,Yes,Yes,Wood,Well,No,2,9367,5595,2,No,Yes,96,Government,6,Yes,Rented House,52047,No
+H00655,Karnataka,Urban,4,65348,Primary,Self-Employed,15778,16613,6177,1166,13061,52795,13198.75,72,Female,Yes,No,Other,Other,No,1,413,18781,1,No,No,107,Unemployed,6,Yes,Rented House,292254,No
+H00656,West Bengal,Rural,8,60284,No Schooling,Unemployed,9008,7447,5151,1089,10947,33642,4205.25,72,Female,No,No,LPG,Well,Yes,1,17934,14881,1,Yes,Yes,118,Private,1,Yes,Temporary Shelter,363184,Yes
+H00657,Gujarat,Urban,5,77124,Postgraduate,Self-Employed,17523,6499,8366,4063,14672,51123,10224.6,73,Male,No,No,Other,River,No,0,14714,39965,1,No,Yes,150,Self-Employed,2,Yes,Temporary Shelter,119786,No
+H00658,Uttar Pradesh,Rural,1,73847,Primary,Self-Employed,29405,32315,2513,6354,12378,82965,82965.0,65,Female,Yes,No,Electricity,River,No,1,7141,8569,2,Yes,Yes,73,Government,6,Yes,Rented House,92424,No
+H00659,Tamil Nadu,Rural,4,27432,Graduate,Employed,20765,2299,4197,3600,12911,43772,10943.0,51,Male,Yes,No,Electricity,Other,No,1,13182,45267,0,Yes,No,56,Private,5,No,Temporary Shelter,133018,Yes
+H00660,Maharashtra,Urban,3,69089,Higher Secondary,Self-Employed,5618,5994,990,8426,19965,40993,13664.333333333334,79,Male,Yes,Yes,Wood,River,No,1,16225,16302,2,No,No,365,Self-Employed,6,No,Own House,415159,Yes
+H00661,Rajasthan,Rural,9,60398,Secondary,Employed,27373,30878,4850,4742,5948,73791,8199.0,59,Female,No,Yes,Other,Well,Yes,2,1946,20028,1,No,Yes,334,Private,9,No,Own House,254568,Yes
+H00662,Uttar Pradesh,Rural,8,8321,Graduate,Employed,22827,16627,2928,3723,2607,48712,6089.0,76,Male,No,Yes,Other,River,No,2,191,11085,1,Yes,Yes,251,Unemployed,8,No,Own House,15740,No
+H00663,West Bengal,Urban,1,86348,Secondary,Employed,2272,8489,5487,1963,8428,26639,26639.0,69,Female,Yes,No,LPG,River,No,0,16424,39699,1,Yes,No,406,Private,7,No,Own House,485197,Yes
+H00664,Karnataka,Rural,6,42383,Postgraduate,Employed,29586,27111,9233,3491,15734,85155,14192.5,78,Female,Yes,Yes,LPG,Well,No,0,14175,16875,3,No,No,291,Unemployed,5,Yes,Own House,114988,No
+H00665,Delhi,Rural,9,83682,No Schooling,Self-Employed,15007,33355,9979,2688,19817,80846,8982.888888888889,59,Female,Yes,No,LPG,River,No,1,10051,1068,0,No,Yes,312,Unemployed,3,Yes,Temporary Shelter,74712,Yes
+H00666,West Bengal,Urban,7,84190,No Schooling,Unemployed,20157,9269,5420,11092,16810,62748,8964.0,52,Female,Yes,Yes,Other,Other,No,1,5892,10482,2,Yes,No,254,Government,9,No,Rented House,357546,No
+H00667,Karnataka,Urban,4,57893,No Schooling,Unemployed,4547,3831,3426,1758,19713,33275,8318.75,63,Female,Yes,No,LPG,Well,Yes,0,3449,5251,1,Yes,Yes,253,Unemployed,8,Yes,Temporary Shelter,437867,Yes
+H00668,Tamil Nadu,Rural,1,40820,Secondary,Unemployed,5164,12819,7782,4890,14028,44683,44683.0,62,Male,No,Yes,LPG,Well,No,1,8327,26904,4,Yes,Yes,384,Unemployed,6,Yes,Own House,37269,No
+H00669,West Bengal,Rural,2,71262,Graduate,Self-Employed,23164,25813,4876,6321,13813,73987,36993.5,33,Female,Yes,Yes,LPG,Piped Water,No,0,5909,43686,0,No,Yes,455,Private,4,No,Own House,470370,Yes
+H00670,Gujarat,Urban,5,8760,No Schooling,Employed,16414,22637,9990,2476,2059,53576,10715.2,36,Male,No,No,Wood,Piped Water,Yes,2,12393,32359,4,No,No,258,Unemployed,1,No,Temporary Shelter,221344,Yes
+H00671,Delhi,Urban,5,27190,Graduate,Unemployed,16327,2996,5368,12398,18625,55714,11142.8,39,Female,Yes,Yes,Electricity,Well,No,1,1941,20848,0,No,Yes,269,Unemployed,8,Yes,Temporary Shelter,300826,Yes
+H00672,Karnataka,Rural,8,72411,Secondary,Self-Employed,17576,4089,7486,4639,15667,49457,6182.125,45,Female,Yes,Yes,Electricity,Well,Yes,1,4221,19791,1,Yes,Yes,464,Private,6,Yes,Rented House,120359,No
+H00673,Karnataka,Urban,6,28377,Postgraduate,Employed,2946,34291,7362,1303,15843,61745,10290.833333333334,76,Female,No,No,Other,Piped Water,No,1,6543,32120,0,Yes,No,33,Self-Employed,8,No,Own House,155673,No
+H00674,Karnataka,Rural,8,51737,Graduate,Unemployed,16693,21659,4923,7720,6330,57325,7165.625,59,Male,Yes,Yes,Other,Other,Yes,2,17942,43660,0,No,Yes,494,Government,8,Yes,Temporary Shelter,294994,Yes
+H00675,Tamil Nadu,Rural,2,74569,Postgraduate,Employed,29241,31429,7370,9811,8023,85874,42937.0,66,Male,No,Yes,Wood,River,Yes,2,14012,27356,1,Yes,Yes,325,Private,9,No,Rented House,41132,No
+H00676,West Bengal,Rural,3,43211,Secondary,Unemployed,18890,16732,8659,5609,17509,67399,22466.333333333332,57,Male,No,No,Electricity,River,No,1,2121,6225,4,Yes,Yes,324,Unemployed,4,Yes,Own House,443366,Yes
+H00677,Tamil Nadu,Rural,6,87909,Secondary,Unemployed,17540,20506,2573,9870,18574,69063,11510.5,75,Male,Yes,No,LPG,River,Yes,0,17412,4470,4,Yes,No,237,Private,6,Yes,Own House,136876,No
+H00678,Rajasthan,Rural,3,8744,Higher Secondary,Unemployed,8719,6190,6670,12306,16024,49909,16636.333333333332,43,Female,Yes,No,LPG,Well,No,2,11726,4938,3,Yes,No,178,Self-Employed,4,No,Own House,252697,Yes
+H00679,Maharashtra,Urban,6,29995,Secondary,Employed,10435,5575,1201,12134,13785,43130,7188.333333333333,79,Female,No,No,Other,Other,Yes,1,5656,49043,4,Yes,Yes,488,Private,2,Yes,Temporary Shelter,85061,No
+H00680,Maharashtra,Urban,6,21977,Secondary,Self-Employed,27081,35565,8613,13639,11473,96371,16061.833333333334,47,Male,No,No,Electricity,Piped Water,Yes,1,8967,3234,4,No,No,103,Private,9,No,Own House,52034,No
+H00681,Rajasthan,Urban,2,39542,Primary,Employed,13350,35899,7325,8069,3506,68149,34074.5,37,Male,Yes,Yes,Other,Other,No,2,19422,45559,0,No,Yes,28,Private,7,Yes,Own House,307205,No
+H00682,West Bengal,Urban,7,15651,No Schooling,Unemployed,24744,24706,8367,3156,4802,65775,9396.42857142857,68,Male,No,No,Other,Other,Yes,0,15764,43299,3,No,Yes,226,Private,7,Yes,Rented House,420635,No
+H00683,Gujarat,Rural,2,83931,Higher Secondary,Employed,26041,23884,4764,7910,17972,80571,40285.5,25,Female,Yes,No,LPG,River,No,1,15873,11656,1,No,No,465,Unemployed,8,No,Temporary Shelter,416962,No
+H00684,Tamil Nadu,Rural,6,21715,Higher Secondary,Self-Employed,5590,18199,8468,6217,5111,43585,7264.166666666667,75,Male,No,Yes,LPG,Piped Water,Yes,0,11079,33922,1,No,No,231,Private,5,Yes,Rented House,340492,Yes
+H00685,Delhi,Rural,1,49409,Higher Secondary,Employed,12064,13479,8646,9774,9872,53835,53835.0,53,Male,Yes,Yes,Electricity,Other,Yes,0,18262,28077,2,Yes,Yes,303,Self-Employed,1,No,Temporary Shelter,485438,No
+H00686,Karnataka,Rural,3,29306,Primary,Self-Employed,19576,35178,8276,10966,14580,88576,29525.333333333332,48,Female,No,Yes,Other,Piped Water,No,2,2271,20213,3,Yes,No,349,Private,2,No,Own House,232460,No
+H00687,Karnataka,Urban,2,24086,Postgraduate,Self-Employed,19848,13665,9058,3584,15582,61737,30868.5,40,Male,No,Yes,Wood,Well,No,1,1607,30666,0,Yes,No,334,Private,9,Yes,Rented House,460797,No
+H00688,West Bengal,Rural,7,19376,Secondary,Employed,2390,1534,9219,14610,15141,42894,6127.714285714285,49,Female,Yes,Yes,Electricity,River,Yes,1,19523,2769,2,No,No,116,Unemployed,5,No,Temporary Shelter,156408,No
+H00689,Gujarat,Rural,4,66350,No Schooling,Unemployed,23999,27292,5386,9961,10593,77231,19307.75,79,Female,No,No,Other,Piped Water,No,0,15679,49527,2,Yes,Yes,206,Unemployed,0,No,Temporary Shelter,114892,Yes
+H00690,Maharashtra,Urban,8,76425,Graduate,Self-Employed,14668,37132,4435,10286,8878,75399,9424.875,47,Female,No,Yes,Electricity,Well,No,2,16989,16181,1,Yes,Yes,399,Private,1,No,Own House,45952,No
+H00691,Maharashtra,Urban,6,41636,Postgraduate,Employed,13569,37110,5119,10635,2097,68530,11421.666666666666,52,Female,No,No,Electricity,Well,Yes,2,3665,13038,4,Yes,No,184,Unemployed,7,Yes,Own House,358140,No
+H00692,Karnataka,Urban,4,91120,Secondary,Self-Employed,15029,23469,5691,10258,12100,66547,16636.75,71,Female,No,Yes,Electricity,Well,Yes,2,16308,5817,0,No,Yes,480,Unemployed,7,No,Rented House,178215,Yes
+H00693,West Bengal,Urban,5,56649,Primary,Unemployed,24490,38268,7375,228,4247,74608,14921.6,40,Male,No,No,Wood,Other,No,0,5852,12382,3,Yes,Yes,137,Private,5,No,Rented House,480420,Yes
+H00694,Tamil Nadu,Rural,9,39610,Secondary,Employed,15107,2172,8356,9097,14379,49111,5456.777777777777,67,Male,No,Yes,Wood,Other,Yes,0,5462,47759,2,Yes,No,402,Unemployed,2,Yes,Temporary Shelter,388126,No
+H00695,Maharashtra,Rural,7,15058,Secondary,Employed,27248,28914,5901,9412,19554,91029,13004.142857142857,62,Female,No,No,LPG,River,No,1,18528,42165,0,No,Yes,484,Government,1,No,Rented House,59379,Yes
+H00696,Tamil Nadu,Urban,9,79637,Primary,Employed,4560,21901,3522,10455,13517,53955,5995.0,35,Female,Yes,No,LPG,River,No,2,4270,14301,1,No,No,497,Government,5,No,Own House,165392,No
+H00697,Gujarat,Rural,7,83033,Higher Secondary,Unemployed,7867,35409,6238,9838,19464,78816,11259.42857142857,27,Male,No,No,Other,Well,No,0,15697,16389,2,Yes,Yes,322,Government,0,No,Rented House,368264,No
+H00698,Maharashtra,Rural,1,75194,Higher Secondary,Self-Employed,17284,20324,6484,7956,7932,59980,59980.0,39,Male,No,No,Electricity,River,No,2,17760,24506,2,No,Yes,163,Unemployed,9,Yes,Rented House,127852,Yes
+H00699,Maharashtra,Rural,8,81917,No Schooling,Employed,3211,9738,2270,7148,19390,41757,5219.625,25,Female,Yes,No,Other,Other,No,0,3462,31386,1,Yes,No,387,Government,5,Yes,Temporary Shelter,360255,No
+H00700,Uttar Pradesh,Urban,4,69200,No Schooling,Self-Employed,11121,38494,9489,12056,5225,76385,19096.25,31,Male,No,No,LPG,River,No,1,15474,12973,1,No,Yes,74,Self-Employed,8,Yes,Own House,492344,Yes
+H00701,Maharashtra,Rural,3,51619,Higher Secondary,Self-Employed,3539,25054,3715,11379,10937,54624,18208.0,25,Male,No,No,Wood,Piped Water,Yes,2,347,16612,1,Yes,No,232,Government,6,Yes,Temporary Shelter,36516,Yes
+H00702,Rajasthan,Urban,7,22154,Postgraduate,Unemployed,27488,30709,7194,5955,13769,85115,12159.285714285714,73,Female,Yes,No,LPG,Other,No,0,16384,29027,0,Yes,Yes,416,Self-Employed,8,Yes,Own House,190861,No
+H00703,Delhi,Rural,3,24539,Graduate,Employed,19027,21107,3476,3802,13592,61004,20334.666666666668,56,Male,No,No,Other,Well,Yes,2,62,23561,0,No,Yes,283,Unemployed,1,Yes,Own House,333258,No
+H00704,Rajasthan,Rural,8,65058,Secondary,Self-Employed,10693,1363,4237,5262,7502,29057,3632.125,33,Male,No,No,LPG,Well,No,0,1783,20810,0,No,Yes,479,Government,4,No,Temporary Shelter,251672,Yes
+H00705,West Bengal,Rural,6,67068,Graduate,Employed,10921,11358,1252,12077,6631,42239,7039.833333333333,53,Male,Yes,Yes,Other,River,Yes,0,8417,20052,4,No,No,376,Self-Employed,8,Yes,Rented House,384222,No
+H00706,West Bengal,Urban,5,82313,Secondary,Employed,19667,37077,1892,8271,13761,80668,16133.6,50,Male,Yes,No,Other,Other,Yes,0,6566,13548,2,No,Yes,254,Unemployed,6,Yes,Temporary Shelter,391801,Yes
+H00707,Tamil Nadu,Rural,4,35373,Higher Secondary,Unemployed,26064,4240,7289,7444,13112,58149,14537.25,47,Female,No,No,Other,Well,Yes,2,17426,15298,0,Yes,Yes,463,Government,8,Yes,Rented House,234573,Yes
+H00708,Rajasthan,Urban,8,38154,No Schooling,Employed,12310,7665,1177,6572,5037,32761,4095.125,69,Male,No,Yes,Other,Well,No,0,10872,7722,4,No,No,8,Private,5,Yes,Temporary Shelter,61240,Yes
+H00709,Rajasthan,Urban,8,11031,Postgraduate,Employed,25729,2936,605,7305,13591,50166,6270.75,67,Female,Yes,No,LPG,Other,Yes,1,15318,40948,2,Yes,No,202,Government,6,No,Temporary Shelter,303942,Yes
+H00710,Rajasthan,Urban,1,98533,No Schooling,Self-Employed,14744,26538,5253,11760,2835,61130,61130.0,53,Male,No,No,Other,Other,Yes,2,1234,2502,0,Yes,Yes,389,Government,9,No,Rented House,217687,No
+H00711,Gujarat,Rural,9,76975,Graduate,Unemployed,6386,12998,2446,3781,4821,30432,3381.3333333333335,76,Female,Yes,Yes,Other,Well,No,1,1984,36424,1,Yes,No,378,Government,4,Yes,Rented House,449136,No
+H00712,Maharashtra,Rural,5,27785,No Schooling,Employed,19303,1882,6044,2962,13754,43945,8789.0,62,Female,Yes,Yes,Electricity,River,Yes,1,17978,28567,3,No,No,304,Private,5,No,Rented House,380515,No
+H00713,Delhi,Rural,4,83928,Higher Secondary,Self-Employed,14242,21224,1595,12429,19869,69359,17339.75,57,Male,Yes,No,Other,River,Yes,2,1952,35061,0,Yes,No,90,Self-Employed,0,Yes,Temporary Shelter,66473,No
+H00714,Tamil Nadu,Rural,6,33669,Postgraduate,Unemployed,20723,31825,7485,772,1059,61864,10310.666666666666,31,Female,No,Yes,LPG,River,No,0,18079,43107,3,Yes,No,380,Self-Employed,0,No,Rented House,196398,No
+H00715,Rajasthan,Urban,6,99475,Graduate,Unemployed,16257,6204,2282,7905,1213,33861,5643.5,36,Female,Yes,No,Other,Piped Water,Yes,1,17338,20839,0,No,Yes,331,Private,1,Yes,Rented House,125811,No
+H00716,Rajasthan,Urban,2,7282,Postgraduate,Self-Employed,10947,29885,5041,14094,5093,65060,32530.0,55,Female,Yes,No,Wood,Other,Yes,2,3291,18618,1,Yes,No,149,Government,3,Yes,Rented House,466347,Yes
+H00717,Uttar Pradesh,Urban,8,39624,Secondary,Self-Employed,15946,4203,3757,12480,15684,52070,6508.75,56,Female,Yes,No,Wood,Well,No,0,8548,26647,3,Yes,Yes,359,Government,8,Yes,Own House,393640,No
+H00718,Tamil Nadu,Rural,7,53438,No Schooling,Self-Employed,7930,3244,6713,814,15761,34462,4923.142857142857,78,Female,No,Yes,Other,Piped Water,Yes,2,14504,29036,4,Yes,Yes,175,Government,6,Yes,Rented House,194946,Yes
+H00719,Rajasthan,Urban,1,94900,Postgraduate,Self-Employed,7402,33786,5369,4250,756,51563,51563.0,44,Male,No,No,Wood,River,Yes,2,11787,20387,1,No,Yes,484,Self-Employed,5,No,Rented House,109806,Yes
+H00720,Tamil Nadu,Rural,5,72534,Primary,Self-Employed,24047,4083,2061,525,15074,45790,9158.0,79,Female,No,No,Wood,Piped Water,Yes,2,968,41451,3,Yes,No,404,Self-Employed,0,Yes,Rented House,134123,Yes
+H00721,Maharashtra,Urban,6,36705,No Schooling,Employed,28445,22584,4506,3940,537,60012,10002.0,75,Female,Yes,Yes,LPG,Well,Yes,0,16625,25576,3,Yes,No,32,Private,4,No,Own House,101209,No
+H00722,Uttar Pradesh,Rural,4,43244,Secondary,Employed,18017,9521,9814,558,10764,48674,12168.5,41,Male,No,No,Electricity,Well,No,1,4234,12975,1,Yes,Yes,464,Unemployed,3,No,Own House,359022,Yes
+H00723,Tamil Nadu,Rural,2,79964,Postgraduate,Unemployed,23659,34541,4481,3977,13197,79855,39927.5,60,Male,No,No,Wood,Other,No,1,8338,10786,1,No,Yes,183,Private,4,No,Rented House,452697,No
+H00724,Delhi,Urban,4,42437,Graduate,Employed,2507,30063,9993,6106,9152,57821,14455.25,27,Female,Yes,No,Wood,River,No,2,7349,17636,1,No,No,156,Self-Employed,8,Yes,Rented House,457088,Yes
+H00725,Delhi,Urban,1,82872,Secondary,Employed,3436,5732,6182,10763,16430,42543,42543.0,25,Male,Yes,No,Electricity,River,No,2,13368,34162,2,No,No,52,Government,2,No,Rented House,77774,No
+H00726,West Bengal,Urban,7,79878,Primary,Employed,29151,28518,6282,1921,2332,68204,9743.42857142857,74,Male,No,No,Electricity,Piped Water,Yes,0,15201,48316,4,Yes,Yes,295,Government,3,No,Rented House,289930,No
+H00727,Uttar Pradesh,Urban,2,77982,Postgraduate,Self-Employed,13618,30697,1443,1549,16017,63324,31662.0,51,Male,No,No,Wood,River,No,2,16070,25141,0,Yes,No,201,Government,7,No,Own House,95204,No
+H00728,Uttar Pradesh,Rural,2,55583,Higher Secondary,Unemployed,10750,3567,5050,3896,5667,28930,14465.0,77,Male,Yes,Yes,Other,Piped Water,No,2,8734,31753,3,Yes,No,273,Government,2,Yes,Rented House,199302,No
+H00729,West Bengal,Urban,9,43392,No Schooling,Unemployed,18122,17121,9637,4096,932,49908,5545.333333333333,71,Male,No,No,Wood,Well,Yes,2,8883,21773,0,Yes,Yes,174,Unemployed,2,No,Own House,200203,No
+H00730,Tamil Nadu,Urban,5,12461,Graduate,Unemployed,9354,2674,1100,4460,4651,22239,4447.8,64,Male,Yes,No,Other,Well,Yes,1,1025,10467,1,Yes,No,243,Private,8,Yes,Temporary Shelter,132339,Yes
+H00731,Uttar Pradesh,Urban,2,15516,Higher Secondary,Unemployed,13294,11875,6876,9988,15412,57445,28722.5,57,Female,Yes,Yes,Other,Well,Yes,2,12197,19729,4,No,No,268,Private,4,No,Own House,459173,No
+H00732,Delhi,Rural,9,84285,Postgraduate,Employed,22900,1739,2024,10019,6911,43593,4843.666666666667,44,Female,No,No,Other,Well,No,1,3359,46205,4,Yes,Yes,410,Self-Employed,9,No,Temporary Shelter,193717,No
+H00733,Delhi,Rural,9,22514,Postgraduate,Employed,15840,2545,4266,7141,18635,48427,5380.777777777777,38,Male,No,No,Electricity,Well,Yes,0,5257,23200,2,Yes,No,445,Private,0,Yes,Own House,19650,Yes
+H00734,Rajasthan,Urban,1,41268,Secondary,Self-Employed,22006,30140,750,10894,756,64546,64546.0,60,Male,No,Yes,Wood,Piped Water,Yes,0,2951,6754,1,No,Yes,73,Unemployed,6,Yes,Own House,269161,No
+H00735,Maharashtra,Rural,3,95486,Postgraduate,Unemployed,6399,10327,578,13664,1171,32139,10713.0,29,Female,No,Yes,Wood,Well,Yes,1,7389,25163,3,No,No,95,Unemployed,6,No,Own House,403065,No
+H00736,Uttar Pradesh,Urban,4,41788,Graduate,Employed,7037,6127,3623,4008,989,21784,5446.0,47,Male,Yes,Yes,LPG,Piped Water,No,1,14666,19422,2,Yes,Yes,360,Unemployed,5,Yes,Rented House,247860,No
+H00737,Tamil Nadu,Rural,7,80749,Higher Secondary,Employed,26495,24331,9589,5446,7389,73250,10464.285714285714,69,Female,No,Yes,Electricity,Well,No,1,14952,19110,1,No,No,172,Government,5,No,Own House,220121,No
+H00738,West Bengal,Rural,4,66049,Graduate,Self-Employed,17848,24004,7564,8584,12406,70406,17601.5,39,Male,No,Yes,LPG,Piped Water,No,1,18939,12793,2,No,Yes,386,Self-Employed,2,No,Rented House,324597,No
+H00739,West Bengal,Rural,2,67493,Primary,Self-Employed,5715,11492,8917,11066,18980,56170,28085.0,30,Female,No,Yes,LPG,Piped Water,No,2,14227,9341,0,No,No,405,Unemployed,2,Yes,Own House,442333,Yes
+H00740,Tamil Nadu,Rural,7,41027,Primary,Self-Employed,16877,14749,1709,4045,18566,55946,7992.285714285715,57,Female,Yes,Yes,Other,Piped Water,No,1,17534,29878,1,Yes,No,154,Private,9,Yes,Own House,450463,No
+H00741,Gujarat,Urban,6,98547,No Schooling,Employed,9837,24508,5653,2777,13103,55878,9313.0,79,Male,No,No,Electricity,River,No,1,15624,36943,3,No,No,182,Private,8,Yes,Temporary Shelter,438115,Yes
+H00742,Karnataka,Urban,3,47849,No Schooling,Employed,3301,10045,5398,291,2960,21995,7331.666666666667,43,Male,No,No,LPG,Piped Water,No,1,1735,12751,3,Yes,Yes,322,Private,0,No,Own House,434860,No
+H00743,Maharashtra,Urban,6,22858,Primary,Self-Employed,9370,21116,2678,4434,5029,42627,7104.5,37,Male,Yes,No,Wood,Piped Water,Yes,2,17422,26066,1,No,No,288,Unemployed,6,No,Rented House,67762,Yes
+H00744,West Bengal,Rural,6,89162,Postgraduate,Unemployed,23569,19667,8110,8872,2475,62693,10448.833333333334,53,Male,Yes,Yes,LPG,Well,Yes,2,6369,9375,2,Yes,Yes,257,Unemployed,9,No,Temporary Shelter,135460,Yes
+H00745,Uttar Pradesh,Urban,5,84003,Graduate,Self-Employed,20539,10521,9395,6792,3716,50963,10192.6,30,Female,Yes,No,Electricity,Piped Water,Yes,2,7127,45706,4,Yes,No,74,Private,6,Yes,Temporary Shelter,67958,Yes
+H00746,Maharashtra,Urban,4,57395,Primary,Self-Employed,8411,9669,3044,13844,14767,49735,12433.75,39,Male,Yes,Yes,Wood,Piped Water,No,0,2912,1758,1,Yes,No,173,Unemployed,7,Yes,Own House,171066,No
+H00747,Uttar Pradesh,Urban,1,44758,No Schooling,Self-Employed,8365,28302,6022,11308,10081,64078,64078.0,40,Female,Yes,No,Wood,Other,No,2,15464,29063,3,No,No,329,Private,5,Yes,Own House,468021,No
+H00748,Gujarat,Rural,6,59312,Primary,Self-Employed,17449,12283,2870,12827,5015,50444,8407.333333333334,48,Male,No,No,Wood,River,Yes,1,12606,7032,0,No,No,230,Government,7,No,Temporary Shelter,470929,Yes
+H00749,Delhi,Rural,2,73670,Postgraduate,Employed,2692,31935,3781,8328,12548,59284,29642.0,47,Female,Yes,No,Other,Other,Yes,2,1242,14348,3,No,No,246,Unemployed,0,Yes,Rented House,77568,No
+H00750,Maharashtra,Rural,3,87279,Primary,Unemployed,3478,7998,5210,1275,10276,28237,9412.333333333334,72,Male,Yes,No,Wood,Well,No,2,15636,24537,4,Yes,No,160,Government,0,Yes,Own House,334996,No
+H00751,Rajasthan,Urban,8,20434,Graduate,Self-Employed,8396,29806,828,2713,3463,45206,5650.75,34,Male,Yes,Yes,Other,River,No,1,10108,39827,3,No,Yes,185,Government,8,No,Temporary Shelter,133915,Yes
+H00752,West Bengal,Urban,6,69047,Higher Secondary,Unemployed,10448,32624,6079,8368,7286,64805,10800.833333333334,78,Female,Yes,Yes,Other,River,No,2,8098,18301,4,No,Yes,390,Unemployed,3,Yes,Rented House,28015,No
+H00753,Maharashtra,Urban,3,52775,Postgraduate,Unemployed,12622,14440,4728,7061,14366,53217,17739.0,65,Male,Yes,No,LPG,Other,No,0,3412,41250,1,Yes,No,142,Private,2,Yes,Own House,462863,Yes
+H00754,Maharashtra,Rural,7,80769,No Schooling,Unemployed,18825,22797,7294,9190,6700,64806,9258.0,65,Male,Yes,Yes,LPG,River,No,2,18883,49712,3,No,No,281,Self-Employed,5,No,Temporary Shelter,438447,No
+H00755,Maharashtra,Rural,4,71677,Graduate,Self-Employed,12073,2269,620,12962,17860,45784,11446.0,73,Male,Yes,Yes,Wood,Other,No,0,11632,24455,2,Yes,No,394,Government,9,No,Temporary Shelter,480795,Yes
+H00756,Karnataka,Urban,9,88555,Primary,Employed,4646,8868,7249,14936,7845,43544,4838.222222222223,41,Male,Yes,No,Electricity,Piped Water,No,0,13231,15099,2,No,No,127,Unemployed,8,No,Own House,226709,No
+H00757,Maharashtra,Rural,5,90920,Primary,Self-Employed,7209,31251,1464,13950,545,54419,10883.8,73,Male,No,Yes,Wood,Other,No,0,15183,6476,3,Yes,No,165,Government,9,No,Rented House,46546,No
+H00758,Uttar Pradesh,Rural,3,50734,Higher Secondary,Unemployed,8533,13373,4724,12341,1693,40664,13554.666666666666,68,Female,No,Yes,LPG,River,Yes,1,7160,3576,3,Yes,Yes,26,Private,3,No,Rented House,313199,Yes
+H00759,Delhi,Rural,2,93503,No Schooling,Unemployed,23061,19987,4175,804,5012,53039,26519.5,69,Male,No,Yes,Wood,River,No,2,19929,4466,0,No,No,245,Unemployed,8,No,Temporary Shelter,364672,Yes
+H00760,Gujarat,Rural,2,45603,No Schooling,Employed,9211,39729,6194,3179,17130,75443,37721.5,54,Female,Yes,Yes,LPG,Well,No,0,17597,49074,3,Yes,No,486,Self-Employed,4,Yes,Rented House,224478,No
+H00761,Tamil Nadu,Urban,3,81708,Secondary,Self-Employed,11927,16734,2576,7340,9483,48060,16020.0,68,Male,Yes,No,Wood,Well,No,0,11123,25833,0,No,Yes,134,Unemployed,6,Yes,Temporary Shelter,103283,Yes
+H00762,Maharashtra,Rural,2,86926,No Schooling,Unemployed,13927,19064,7365,7265,1136,48757,24378.5,70,Male,Yes,No,Electricity,Well,Yes,2,16802,12558,0,No,Yes,384,Government,2,No,Own House,251123,Yes
+H00763,West Bengal,Rural,4,73803,Higher Secondary,Employed,21029,9433,6143,5116,4275,45996,11499.0,34,Female,No,Yes,Wood,Well,Yes,1,4960,32895,0,No,Yes,201,Unemployed,2,No,Rented House,311721,Yes
+H00764,Maharashtra,Rural,2,44332,Secondary,Unemployed,26594,10111,9024,7000,2921,55650,27825.0,79,Female,Yes,No,Electricity,River,No,1,788,20715,0,No,No,20,Unemployed,2,Yes,Own House,166241,Yes
+H00765,West Bengal,Rural,9,96703,Secondary,Employed,11316,39450,5749,797,13525,70837,7870.777777777777,43,Female,Yes,No,Electricity,Well,Yes,0,18255,11264,1,Yes,No,78,Government,7,No,Temporary Shelter,172781,Yes
+H00766,Uttar Pradesh,Urban,2,26312,Primary,Employed,14177,16047,1816,9924,9780,51744,25872.0,53,Female,Yes,No,Wood,Other,Yes,1,13350,39416,2,Yes,No,157,Self-Employed,5,No,Own House,291559,No
+H00767,West Bengal,Urban,9,98376,Primary,Self-Employed,12846,9084,1696,7520,4683,35829,3981.0,26,Female,No,Yes,Electricity,Piped Water,Yes,2,18409,3124,0,Yes,No,93,Private,8,Yes,Rented House,408901,Yes
+H00768,Rajasthan,Rural,6,89526,No Schooling,Unemployed,9933,22751,3670,8905,11851,57110,9518.333333333334,60,Male,No,Yes,Electricity,River,No,1,2446,29659,2,No,No,7,Unemployed,8,Yes,Own House,278107,Yes
+H00769,Tamil Nadu,Rural,1,49179,Secondary,Self-Employed,7476,17453,855,5822,17596,49202,49202.0,43,Female,Yes,No,LPG,Well,No,2,16183,1364,0,No,Yes,471,Self-Employed,7,No,Rented House,160770,Yes
+H00770,Delhi,Rural,4,76442,Primary,Unemployed,15853,21308,528,2077,5823,45589,11397.25,31,Female,No,No,LPG,River,No,0,8752,9147,2,Yes,No,338,Private,0,No,Rented House,487902,Yes
+H00771,West Bengal,Rural,1,45379,Higher Secondary,Self-Employed,9928,39968,1513,12364,13388,77161,77161.0,50,Male,Yes,Yes,Electricity,Well,No,2,19035,45085,3,Yes,No,258,Government,5,Yes,Rented House,62415,No
+H00772,West Bengal,Rural,6,22297,Primary,Unemployed,4080,31077,9519,12235,4144,61055,10175.833333333334,39,Male,Yes,No,Other,River,No,0,13440,6687,3,No,No,54,Self-Employed,3,No,Rented House,56400,Yes
+H00773,Delhi,Rural,4,7011,Postgraduate,Self-Employed,8089,35775,2524,1899,16642,64929,16232.25,71,Female,No,Yes,Wood,Well,No,2,12096,6677,2,No,Yes,398,Self-Employed,3,Yes,Rented House,376875,No
+H00774,Tamil Nadu,Urban,3,49014,Postgraduate,Employed,25780,25503,8990,9421,8273,77967,25989.0,62,Female,No,No,Electricity,Piped Water,No,2,16923,17735,0,No,No,35,Unemployed,2,Yes,Temporary Shelter,55450,No
+H00775,Maharashtra,Rural,3,16738,Primary,Unemployed,28123,3779,6339,12987,11278,62506,20835.333333333332,27,Female,No,Yes,Wood,Well,Yes,1,6499,45664,1,Yes,No,5,Government,8,No,Own House,349106,Yes
+H00776,West Bengal,Urban,9,99333,Secondary,Unemployed,9797,22304,6291,5980,13001,57373,6374.777777777777,62,Male,No,Yes,LPG,Other,No,2,14767,3970,2,No,No,376,Unemployed,1,Yes,Temporary Shelter,443927,Yes
+H00777,Delhi,Urban,6,52498,Secondary,Employed,19245,1755,1254,916,14909,38079,6346.5,40,Female,Yes,Yes,Wood,River,No,0,19673,34194,4,Yes,No,41,Government,0,Yes,Own House,464787,No
+H00778,Rajasthan,Rural,9,16120,Graduate,Self-Employed,10346,18400,9461,13629,2608,54444,6049.333333333333,26,Male,Yes,Yes,Electricity,River,No,2,11337,9317,1,No,Yes,49,Private,9,Yes,Own House,203679,No
+H00779,Rajasthan,Urban,5,13767,Postgraduate,Unemployed,21878,15249,4235,13996,4114,59472,11894.4,55,Male,No,No,Electricity,Other,No,0,15819,49613,4,Yes,Yes,111,Unemployed,2,No,Own House,413794,No
+H00780,Uttar Pradesh,Urban,2,27852,Higher Secondary,Unemployed,2904,25600,1738,4286,10751,45279,22639.5,52,Male,No,Yes,Electricity,Other,No,0,15784,17702,2,No,Yes,145,Government,3,No,Temporary Shelter,486796,Yes
+H00781,Delhi,Urban,8,84239,Secondary,Self-Employed,19653,38706,2406,865,12178,73808,9226.0,31,Male,Yes,No,Electricity,Piped Water,No,2,19142,705,0,Yes,No,229,Government,3,No,Rented House,118639,No
+H00782,Uttar Pradesh,Urban,5,5929,No Schooling,Employed,18788,20222,7899,8046,14867,69822,13964.4,54,Female,Yes,Yes,Other,River,No,1,5311,22443,4,Yes,Yes,210,Self-Employed,5,Yes,Rented House,28842,Yes
+H00783,Rajasthan,Urban,2,82487,Postgraduate,Self-Employed,27419,34505,8461,6811,4832,82028,41014.0,67,Male,Yes,Yes,Other,Piped Water,No,2,11452,13103,2,Yes,Yes,496,Unemployed,0,Yes,Temporary Shelter,278675,No
+H00784,Tamil Nadu,Urban,4,96575,Higher Secondary,Self-Employed,11974,39968,9910,10600,12502,84954,21238.5,31,Male,Yes,No,Other,River,Yes,2,14574,43357,1,No,No,305,Unemployed,0,No,Rented House,395386,No
+H00785,Maharashtra,Rural,9,22438,Higher Secondary,Self-Employed,28140,30148,5101,14805,16200,94394,10488.222222222223,60,Female,No,No,Electricity,River,Yes,1,18279,32189,0,Yes,No,29,Private,1,Yes,Own House,483439,Yes
+H00786,Delhi,Urban,4,53515,Secondary,Unemployed,3184,23302,1960,1279,14269,43994,10998.5,53,Male,No,No,Other,Piped Water,No,0,15952,17761,4,Yes,Yes,460,Government,3,Yes,Rented House,234494,Yes
+H00787,Gujarat,Urban,4,10744,Higher Secondary,Employed,27322,3623,8169,8619,7463,55196,13799.0,48,Female,No,Yes,Wood,River,No,2,2500,16882,2,No,Yes,294,Self-Employed,6,No,Rented House,383987,No
+H00788,Rajasthan,Urban,2,88820,Secondary,Employed,3725,9646,1916,8540,8338,32165,16082.5,76,Male,Yes,Yes,Electricity,River,Yes,1,14718,30129,0,Yes,Yes,115,Government,5,Yes,Rented House,138369,Yes
+H00789,Rajasthan,Rural,6,47417,Primary,Self-Employed,13380,14543,8266,1269,12899,50357,8392.833333333334,63,Female,Yes,No,LPG,Piped Water,No,1,2829,13587,0,Yes,Yes,395,Government,8,Yes,Own House,4163,Yes
+H00790,Gujarat,Urban,2,12069,Postgraduate,Unemployed,26846,29960,1928,5463,12743,76940,38470.0,28,Male,No,Yes,Electricity,Well,No,0,47,47601,3,No,No,225,Government,6,Yes,Rented House,40794,No
+H00791,Karnataka,Rural,7,47359,Graduate,Self-Employed,15057,23785,4878,8151,2345,54216,7745.142857142857,53,Male,No,No,Wood,Piped Water,Yes,1,2364,39142,0,Yes,No,58,Unemployed,4,Yes,Rented House,41787,Yes
+H00792,Rajasthan,Urban,3,24799,Primary,Unemployed,24195,13817,8029,13119,14442,73602,24534.0,68,Female,No,Yes,Other,River,No,0,12864,22165,2,No,Yes,75,Government,5,Yes,Rented House,370392,Yes
+H00793,West Bengal,Rural,3,98762,Postgraduate,Unemployed,7606,32406,4974,1563,17266,63815,21271.666666666668,29,Male,Yes,Yes,Electricity,Other,No,2,8177,10944,1,Yes,Yes,427,Private,9,Yes,Temporary Shelter,319363,No
+H00794,Tamil Nadu,Rural,5,75188,Secondary,Unemployed,5956,24456,3571,4708,4612,43303,8660.6,79,Male,No,Yes,Other,Well,No,1,13347,19423,3,No,Yes,215,Self-Employed,8,No,Temporary Shelter,101243,No
+H00795,Delhi,Urban,3,94859,Postgraduate,Unemployed,18555,24777,1055,1955,13280,59622,19874.0,53,Female,Yes,No,Electricity,Other,Yes,2,7931,25497,2,Yes,No,131,Self-Employed,0,No,Rented House,497247,Yes
+H00796,Gujarat,Urban,2,12597,Secondary,Employed,26849,21914,9047,719,16190,74719,37359.5,54,Male,No,Yes,Wood,Well,Yes,1,19186,46057,2,Yes,No,419,Government,8,Yes,Temporary Shelter,372368,Yes
+H00797,West Bengal,Rural,9,52093,Primary,Unemployed,20690,30553,2063,5663,10588,69557,7728.555555555556,53,Male,No,No,Electricity,Other,No,1,12841,17428,2,Yes,No,497,Self-Employed,5,No,Temporary Shelter,24448,Yes
+H00798,Gujarat,Urban,2,42226,No Schooling,Unemployed,27734,24548,1540,14922,2009,70753,35376.5,50,Female,No,No,Other,Well,Yes,2,11844,43839,4,No,Yes,303,Government,3,No,Own House,200224,No
+H00799,Delhi,Rural,2,77127,No Schooling,Self-Employed,28282,38265,3186,11936,12904,94573,47286.5,43,Female,Yes,Yes,Other,Piped Water,Yes,1,8594,38833,4,Yes,No,397,Unemployed,4,No,Temporary Shelter,496925,No
+H00800,Uttar Pradesh,Rural,8,96369,Postgraduate,Self-Employed,18081,7727,3053,10714,2078,41653,5206.625,50,Female,Yes,No,Wood,Well,Yes,2,13418,45489,1,Yes,Yes,80,Self-Employed,0,Yes,Temporary Shelter,228356,Yes
+H00801,Delhi,Rural,9,82362,No Schooling,Employed,28347,33427,2279,14888,17763,96704,10744.888888888889,61,Female,Yes,No,Electricity,Well,No,2,2086,29815,2,No,Yes,304,Unemployed,6,No,Rented House,318581,Yes
+H00802,Karnataka,Rural,7,31417,Secondary,Self-Employed,2421,17692,575,7433,19046,47167,6738.142857142857,51,Female,Yes,Yes,LPG,Well,Yes,0,10419,39216,4,No,No,66,Unemployed,7,Yes,Own House,28299,Yes
+H00803,Delhi,Rural,3,23693,Higher Secondary,Unemployed,7540,32625,4826,1302,14606,60899,20299.666666666668,54,Male,Yes,No,Electricity,River,Yes,2,11602,17680,4,No,Yes,229,Private,4,No,Own House,434335,No
+H00804,Delhi,Urban,9,84674,Secondary,Self-Employed,27785,25918,6335,797,10340,71175,7908.333333333333,75,Female,Yes,No,Wood,Other,Yes,0,11182,923,4,Yes,No,470,Private,1,No,Own House,77093,No
+H00805,Karnataka,Rural,3,58161,Higher Secondary,Employed,18288,16577,5557,14147,13431,68000,22666.666666666668,77,Male,No,Yes,LPG,Piped Water,No,2,12835,26572,1,Yes,No,332,Self-Employed,7,Yes,Temporary Shelter,169720,Yes
+H00806,Tamil Nadu,Rural,5,7169,Primary,Self-Employed,17966,20619,2849,3473,1859,46766,9353.2,54,Female,Yes,Yes,Wood,Other,Yes,1,17533,7184,1,Yes,Yes,392,Government,9,No,Rented House,407312,Yes
+H00807,Rajasthan,Urban,9,89092,Graduate,Self-Employed,17882,34710,3273,12441,4742,73048,8116.444444444444,27,Male,No,Yes,Electricity,Other,Yes,2,16446,12555,2,No,Yes,276,Government,6,Yes,Own House,125113,Yes
+H00808,Delhi,Rural,3,27052,Higher Secondary,Employed,6675,38388,2762,5981,16964,70770,23590.0,67,Male,Yes,No,LPG,Piped Water,No,1,3153,10707,3,No,No,360,Government,9,No,Own House,361461,Yes
+H00809,Karnataka,Urban,7,76849,No Schooling,Employed,11082,17195,3729,10997,19616,62619,8945.57142857143,31,Female,No,No,Wood,River,Yes,0,9200,17019,2,Yes,No,71,Government,8,No,Temporary Shelter,467495,No
+H00810,West Bengal,Urban,1,78851,Secondary,Unemployed,15009,28689,892,6456,3209,54255,54255.0,73,Male,No,Yes,Other,Well,Yes,1,10223,47104,4,Yes,No,208,Private,3,No,Own House,400607,Yes
+H00811,Uttar Pradesh,Urban,4,13036,Primary,Self-Employed,29843,12154,1608,7458,19306,70369,17592.25,33,Male,Yes,No,LPG,River,Yes,2,10273,19494,4,No,No,271,Government,8,No,Rented House,246935,Yes
+H00812,Uttar Pradesh,Rural,4,36778,No Schooling,Unemployed,8748,30412,4862,10580,13291,67893,16973.25,77,Female,No,Yes,LPG,River,No,1,751,49104,0,No,No,143,Government,3,Yes,Own House,337035,No
+H00813,Delhi,Rural,7,32734,Primary,Self-Employed,8103,22341,5688,14412,17551,68095,9727.857142857143,65,Female,Yes,Yes,Wood,Well,No,0,8849,10919,2,No,No,250,Unemployed,2,Yes,Rented House,456046,Yes
+H00814,Tamil Nadu,Rural,8,28173,Graduate,Self-Employed,19857,33018,9302,13217,19380,94774,11846.75,66,Female,Yes,Yes,Other,Other,Yes,1,17084,12069,4,Yes,No,283,Government,2,No,Rented House,463999,Yes
+H00815,Tamil Nadu,Urban,1,35403,Secondary,Unemployed,21627,10145,5557,8980,3999,50308,50308.0,37,Female,Yes,No,LPG,Well,Yes,1,16220,17433,4,No,Yes,178,Government,9,Yes,Rented House,302430,Yes
+H00816,West Bengal,Rural,5,71321,Postgraduate,Self-Employed,20565,23223,4498,6754,12190,67230,13446.0,39,Male,Yes,No,Wood,Piped Water,Yes,2,10348,11800,3,No,No,439,Private,1,No,Temporary Shelter,202898,Yes
+H00817,Delhi,Urban,7,76675,Secondary,Self-Employed,28025,3880,9364,12864,8580,62713,8959.0,78,Male,No,Yes,LPG,Well,Yes,2,17924,31892,0,No,Yes,79,Self-Employed,9,Yes,Temporary Shelter,492828,Yes
+H00818,Uttar Pradesh,Rural,4,11344,Graduate,Self-Employed,21480,22271,7066,9799,1689,62305,15576.25,29,Male,Yes,Yes,LPG,Other,Yes,1,19416,33411,2,No,Yes,56,Unemployed,2,Yes,Rented House,239060,Yes
+H00819,Tamil Nadu,Urban,4,23800,Secondary,Employed,25030,34313,4177,14357,14408,92285,23071.25,53,Male,No,No,LPG,River,Yes,0,6167,36768,1,Yes,No,365,Unemployed,7,Yes,Rented House,353497,No
+H00820,Delhi,Rural,4,30372,Postgraduate,Unemployed,29832,14304,6296,8202,13251,71885,17971.25,59,Male,No,Yes,Other,River,No,1,6364,12045,2,No,No,307,Self-Employed,7,No,Own House,111027,Yes
+H00821,Gujarat,Rural,6,66516,Higher Secondary,Employed,13348,35695,6863,5046,15214,76166,12694.333333333334,51,Male,No,No,Electricity,Well,Yes,0,1983,37092,2,Yes,No,173,Unemployed,1,Yes,Own House,299739,No
+H00822,Tamil Nadu,Rural,7,25538,Primary,Unemployed,11782,31225,8623,13114,1525,66269,9467.0,51,Female,Yes,Yes,Electricity,Piped Water,Yes,0,14629,46626,3,Yes,No,461,Government,1,Yes,Own House,128840,No
+H00823,Karnataka,Urban,2,68918,Postgraduate,Unemployed,7882,21536,8722,11782,571,50493,25246.5,32,Male,No,Yes,Other,Other,Yes,0,16288,47817,2,No,No,237,Government,1,No,Temporary Shelter,62740,No
+H00824,Gujarat,Urban,5,19973,No Schooling,Self-Employed,24366,31831,8190,11832,6046,82265,16453.0,56,Male,Yes,No,Other,River,No,1,11273,35734,3,No,Yes,491,Self-Employed,9,No,Own House,313073,No
+H00825,Rajasthan,Rural,4,76155,Graduate,Unemployed,7798,12673,1900,10021,3185,35577,8894.25,44,Male,No,No,Wood,Well,Yes,0,7648,18730,3,Yes,Yes,165,Private,6,No,Rented House,32827,Yes
+H00826,Tamil Nadu,Rural,3,64500,Higher Secondary,Employed,11627,22917,4571,9386,9885,58386,19462.0,34,Female,Yes,No,LPG,Piped Water,No,1,7894,41136,4,No,No,83,Private,5,Yes,Rented House,26209,Yes
+H00827,Uttar Pradesh,Urban,7,41575,No Schooling,Employed,10415,28829,9308,14071,18732,81355,11622.142857142857,37,Female,Yes,No,Other,Piped Water,Yes,0,13305,25044,1,Yes,No,492,Unemployed,0,Yes,Temporary Shelter,498506,Yes
+H00828,Maharashtra,Urban,6,47261,No Schooling,Employed,26795,16372,3286,4998,11076,62527,10421.166666666666,53,Female,Yes,No,Wood,River,Yes,0,12925,23460,3,No,No,47,Private,1,Yes,Temporary Shelter,97654,Yes
+H00829,Gujarat,Urban,7,32716,Graduate,Unemployed,14466,26938,7669,6805,2522,58400,8342.857142857143,59,Female,Yes,Yes,Electricity,River,Yes,1,18698,12913,0,Yes,No,126,Private,0,Yes,Own House,371091,No
+H00830,Rajasthan,Rural,5,8236,Higher Secondary,Employed,11846,3663,1370,10451,16331,43661,8732.2,78,Male,No,Yes,Electricity,Other,Yes,2,10327,49600,0,Yes,Yes,168,Private,6,Yes,Temporary Shelter,473968,No
+H00831,West Bengal,Urban,6,20848,No Schooling,Unemployed,14720,10465,4696,13667,13440,56988,9498.0,32,Male,No,No,Electricity,Piped Water,Yes,2,18033,4701,1,Yes,Yes,353,Private,5,Yes,Rented House,73396,No
+H00832,West Bengal,Rural,5,7352,No Schooling,Employed,26840,4326,3239,12964,18182,65551,13110.2,53,Male,Yes,No,Electricity,Other,Yes,1,11411,13030,3,No,Yes,373,Private,1,No,Rented House,210033,Yes
+H00833,Uttar Pradesh,Urban,7,6932,Higher Secondary,Employed,11145,4659,1440,3186,4602,25032,3576.0,55,Female,No,Yes,Wood,Piped Water,No,1,6900,4433,1,Yes,No,442,Private,1,Yes,Temporary Shelter,407022,No
+H00834,Tamil Nadu,Rural,2,81449,Secondary,Unemployed,6524,28594,840,600,17788,54346,27173.0,65,Male,Yes,Yes,LPG,Piped Water,Yes,2,16137,5499,4,Yes,No,348,Private,1,Yes,Rented House,375398,Yes
+H00835,Delhi,Urban,5,13556,No Schooling,Employed,8559,5763,7922,3055,3526,28825,5765.0,54,Male,Yes,No,Wood,Well,Yes,2,3800,17939,0,No,No,66,Unemployed,7,Yes,Temporary Shelter,221519,No
+H00836,Tamil Nadu,Urban,6,91836,Primary,Self-Employed,9620,24121,4633,10616,7209,56199,9366.5,46,Male,No,No,LPG,River,Yes,2,2478,40304,2,No,Yes,329,Government,6,No,Rented House,418622,Yes
+H00837,Uttar Pradesh,Urban,6,10498,Higher Secondary,Unemployed,21158,11828,1159,3612,6469,44226,7371.0,45,Female,Yes,Yes,Electricity,Piped Water,No,1,9967,20295,0,Yes,Yes,339,Private,0,Yes,Own House,165432,No
+H00838,West Bengal,Urban,5,81118,No Schooling,Unemployed,24057,12221,3957,256,3120,43611,8722.2,36,Female,Yes,No,Other,Other,Yes,0,10158,27948,3,Yes,Yes,193,Government,3,No,Temporary Shelter,250140,No
+H00839,Tamil Nadu,Urban,7,55098,Graduate,Unemployed,5124,12211,3475,8222,3146,32178,4596.857142857143,35,Female,Yes,Yes,Other,River,No,1,7054,23793,1,No,No,154,Self-Employed,3,Yes,Temporary Shelter,80000,Yes
+H00840,West Bengal,Rural,8,69386,Postgraduate,Self-Employed,10671,14569,9741,2075,5365,42421,5302.625,26,Male,Yes,Yes,Other,Other,Yes,2,6059,47815,0,Yes,Yes,159,Government,6,No,Temporary Shelter,489339,No
+H00841,Gujarat,Urban,7,14569,Primary,Unemployed,13706,32358,953,4743,2789,54549,7792.714285714285,74,Male,Yes,No,LPG,River,Yes,0,9959,46829,2,No,No,183,Self-Employed,1,No,Rented House,38865,No
+H00842,Rajasthan,Urban,5,61882,Postgraduate,Employed,19737,38860,8684,4498,7870,79649,15929.8,65,Male,No,Yes,Electricity,River,No,1,12007,40954,2,No,Yes,265,Unemployed,3,No,Own House,137530,Yes
+H00843,Delhi,Urban,1,75393,Postgraduate,Employed,29898,7022,5942,3968,14354,61184,61184.0,26,Male,No,Yes,Wood,Piped Water,No,2,8433,36550,1,No,No,167,Government,0,Yes,Temporary Shelter,271295,No
+H00844,Gujarat,Rural,5,5340,No Schooling,Employed,14070,14515,1318,5952,10177,46032,9206.4,58,Female,No,Yes,Other,Well,Yes,1,6209,1954,1,Yes,No,144,Self-Employed,3,No,Rented House,185941,No
+H00845,West Bengal,Urban,2,48949,Primary,Unemployed,27465,7159,5368,5033,11843,56868,28434.0,27,Male,Yes,No,LPG,Piped Water,No,0,7115,31658,0,No,No,185,Government,0,Yes,Temporary Shelter,392903,No
+H00846,West Bengal,Rural,5,87302,Primary,Employed,22238,22691,512,12689,18324,76454,15290.8,40,Female,Yes,Yes,Other,River,No,2,13068,3085,3,Yes,No,373,Unemployed,1,No,Rented House,233542,No
+H00847,Maharashtra,Urban,5,67443,Secondary,Unemployed,10134,25904,8227,1553,1265,47083,9416.6,75,Male,Yes,No,Wood,Piped Water,Yes,1,18640,43685,4,Yes,Yes,352,Government,1,Yes,Own House,334168,Yes
+H00848,Maharashtra,Urban,2,96668,Postgraduate,Employed,2924,4044,1420,10802,13171,32361,16180.5,28,Female,Yes,Yes,Electricity,Piped Water,Yes,0,3368,19378,2,No,Yes,261,Self-Employed,9,No,Rented House,417757,Yes
+H00849,Gujarat,Rural,5,79027,Primary,Self-Employed,20554,10612,5420,5187,16658,58431,11686.2,47,Male,Yes,Yes,Wood,River,Yes,0,16128,40364,1,No,Yes,422,Private,2,No,Rented House,124001,No
+H00850,Karnataka,Urban,4,5138,Secondary,Self-Employed,28478,6636,2918,6797,4592,49421,12355.25,74,Male,Yes,Yes,Electricity,River,No,1,2827,33426,4,No,No,494,Private,7,Yes,Temporary Shelter,415019,Yes
+H00851,Gujarat,Rural,1,5358,Higher Secondary,Self-Employed,7506,12593,6975,14891,13475,55440,55440.0,44,Female,No,Yes,Electricity,Piped Water,Yes,0,15990,19380,4,No,Yes,273,Private,5,No,Rented House,43183,No
+H00852,Maharashtra,Rural,3,80250,Secondary,Self-Employed,15650,3892,2517,4511,9841,36411,12137.0,49,Female,Yes,Yes,Electricity,Piped Water,Yes,2,2487,34122,4,Yes,No,456,Unemployed,5,Yes,Temporary Shelter,175848,Yes
+H00853,West Bengal,Urban,1,90376,Graduate,Unemployed,4395,22672,8457,10994,12834,59352,59352.0,54,Male,No,No,Other,Piped Water,No,0,19987,15767,3,Yes,Yes,327,Private,8,No,Rented House,324467,No
+H00854,Uttar Pradesh,Rural,5,35654,No Schooling,Employed,26604,6812,9920,3134,16577,63047,12609.4,42,Male,Yes,No,Wood,Other,No,1,19905,18165,1,No,Yes,344,Unemployed,7,No,Own House,386122,No
+H00855,Gujarat,Urban,4,30879,Higher Secondary,Self-Employed,17310,32085,5292,222,16335,71244,17811.0,66,Male,No,Yes,Other,Piped Water,Yes,2,13347,48946,2,Yes,No,222,Private,1,Yes,Rented House,90254,Yes
+H00856,West Bengal,Urban,7,86532,Higher Secondary,Unemployed,10226,1654,7330,10594,3166,32970,4710.0,35,Female,Yes,No,Wood,Other,No,0,16277,21755,1,No,No,41,Unemployed,5,Yes,Temporary Shelter,142242,No
+H00857,Uttar Pradesh,Rural,5,60778,Graduate,Self-Employed,13781,18143,2934,1409,6468,42735,8547.0,53,Male,No,No,LPG,Well,No,0,1643,10106,0,Yes,No,3,Unemployed,0,Yes,Rented House,214038,No
+H00858,Uttar Pradesh,Rural,4,42772,Secondary,Self-Employed,7515,2798,3368,10688,8141,32510,8127.5,41,Female,No,Yes,LPG,Other,No,2,17596,6383,2,Yes,Yes,275,Government,8,No,Rented House,47284,No
+H00859,Maharashtra,Rural,2,63478,No Schooling,Unemployed,21054,38927,1938,9140,19065,90124,45062.0,50,Male,Yes,No,Wood,Piped Water,Yes,2,19,41722,1,Yes,No,283,Private,3,Yes,Own House,140332,No
+H00860,Gujarat,Rural,4,69353,Secondary,Unemployed,5365,30087,4043,1004,10334,50833,12708.25,47,Male,Yes,No,Wood,Well,Yes,0,675,45176,2,No,Yes,423,Government,3,Yes,Temporary Shelter,400852,Yes
+H00861,Tamil Nadu,Urban,2,31762,Primary,Employed,18972,12618,2281,8525,4388,46784,23392.0,76,Male,No,No,Wood,Other,Yes,2,16992,3425,0,Yes,Yes,192,Self-Employed,8,No,Own House,102491,Yes
+H00862,Delhi,Urban,8,18283,Secondary,Employed,13410,9446,6843,4616,1340,35655,4456.875,72,Male,Yes,No,Wood,Other,No,1,16445,30883,2,Yes,Yes,103,Private,2,Yes,Rented House,36108,Yes
+H00863,Maharashtra,Rural,3,68922,Higher Secondary,Self-Employed,21522,22646,2763,10829,14373,72133,24044.333333333332,44,Female,Yes,Yes,Electricity,River,Yes,0,9457,3243,4,Yes,No,246,Private,4,Yes,Own House,235553,Yes
+H00864,Maharashtra,Urban,9,44420,No Schooling,Self-Employed,11095,37591,711,8825,11346,69568,7729.777777777777,69,Female,Yes,No,Other,Well,Yes,1,1154,35905,3,Yes,Yes,299,Private,0,No,Rented House,250533,No
+H00865,Tamil Nadu,Urban,4,60568,Secondary,Employed,25047,28200,9199,5341,6399,74186,18546.5,26,Male,No,Yes,Electricity,River,No,0,9820,12517,0,No,No,22,Private,5,No,Rented House,278085,No
+H00866,Delhi,Urban,6,90090,No Schooling,Employed,22470,30571,6659,5168,1065,65933,10988.833333333334,48,Male,Yes,Yes,Other,Well,No,1,9818,31400,2,Yes,No,440,Government,2,No,Own House,200043,No
+H00867,West Bengal,Urban,5,25219,No Schooling,Unemployed,12361,23538,7527,3871,6505,53802,10760.4,55,Male,No,No,Other,Other,Yes,1,3716,26626,0,No,Yes,302,Government,0,No,Own House,421571,No
+H00868,Karnataka,Rural,1,62169,Primary,Employed,10531,21900,831,12128,9656,55046,55046.0,51,Female,No,Yes,Other,River,No,2,5242,28996,4,No,Yes,12,Unemployed,9,No,Rented House,72836,Yes
+H00869,Gujarat,Rural,9,79965,Primary,Employed,6270,23356,7360,7492,10974,55452,6161.333333333333,26,Male,Yes,No,Electricity,Piped Water,Yes,0,5022,37543,3,Yes,Yes,143,Government,5,Yes,Own House,242045,Yes
+H00870,Karnataka,Urban,1,51840,Higher Secondary,Self-Employed,24403,24023,8544,7201,9687,73858,73858.0,38,Female,No,Yes,Wood,Other,Yes,2,17826,27706,0,Yes,Yes,217,Unemployed,9,No,Own House,349863,Yes
+H00871,West Bengal,Rural,8,49695,Graduate,Employed,11906,18392,8669,12431,7726,59124,7390.5,28,Female,Yes,No,Electricity,Well,Yes,2,1653,40016,4,No,No,182,Self-Employed,1,No,Rented House,164805,No
+H00872,Rajasthan,Rural,9,89754,No Schooling,Self-Employed,18940,21698,9242,2298,9879,62057,6895.222222222223,73,Female,Yes,No,Electricity,Well,No,0,2502,7651,4,No,No,350,Government,7,No,Temporary Shelter,7444,No
+H00873,Maharashtra,Rural,9,82988,Graduate,Employed,26406,27535,6220,14711,6390,81262,9029.111111111111,37,Female,No,Yes,Other,River,No,1,19653,49358,4,No,No,241,Unemployed,1,Yes,Own House,353435,No
+H00874,Delhi,Urban,1,63342,Higher Secondary,Unemployed,13279,36450,9633,11309,13613,84284,84284.0,60,Male,No,No,LPG,River,Yes,0,16665,35536,2,Yes,No,192,Private,3,Yes,Own House,240002,No
+H00875,Maharashtra,Urban,2,23951,No Schooling,Employed,7452,34757,1227,8644,4811,56891,28445.5,59,Male,No,No,LPG,Well,Yes,0,14086,47780,1,Yes,No,464,Self-Employed,2,Yes,Temporary Shelter,88598,Yes
+H00876,Uttar Pradesh,Urban,1,6307,No Schooling,Employed,29842,13476,5475,5261,11946,66000,66000.0,68,Female,No,No,Electricity,Other,Yes,0,3403,2346,0,No,No,271,Unemployed,8,Yes,Own House,260295,Yes
+H00877,Maharashtra,Rural,2,85388,Postgraduate,Employed,21951,5711,3743,13226,9348,53979,26989.5,78,Male,No,No,Other,River,Yes,2,1235,39521,1,No,No,374,Self-Employed,1,No,Rented House,407826,Yes
+H00878,Maharashtra,Urban,8,95768,Graduate,Self-Employed,28632,7479,1148,9521,19866,66646,8330.75,79,Male,Yes,Yes,Electricity,Piped Water,No,0,13149,44001,4,No,No,164,Private,2,No,Own House,66036,No
+H00879,West Bengal,Urban,5,40428,Secondary,Unemployed,22283,32390,5595,3464,6583,70315,14063.0,32,Male,No,Yes,Electricity,Well,Yes,0,14396,7749,1,Yes,No,179,Private,6,No,Rented House,4554,Yes
+H00880,West Bengal,Rural,7,97021,Primary,Employed,8477,14161,7114,5635,13098,48485,6926.428571428572,26,Female,Yes,Yes,Wood,Piped Water,Yes,0,14430,49763,4,Yes,Yes,116,Unemployed,3,Yes,Temporary Shelter,25545,No
+H00881,West Bengal,Urban,2,80774,Secondary,Self-Employed,25884,33152,7635,8693,17440,92804,46402.0,30,Male,Yes,No,Other,Well,No,1,17169,41309,4,No,Yes,265,Unemployed,5,No,Temporary Shelter,392889,Yes
+H00882,Karnataka,Urban,8,43975,Graduate,Unemployed,19400,15635,1509,6891,19903,63338,7917.25,55,Male,No,Yes,LPG,Piped Water,Yes,1,13864,988,3,Yes,No,377,Private,2,Yes,Temporary Shelter,443355,Yes
+H00883,Uttar Pradesh,Rural,6,6140,Primary,Self-Employed,8470,31297,2050,10369,3080,55266,9211.0,78,Male,No,No,LPG,Other,Yes,1,15506,42083,3,No,No,37,Unemployed,0,Yes,Own House,324115,No
+H00884,Rajasthan,Rural,8,29842,Secondary,Self-Employed,4062,21836,9495,2963,14344,52700,6587.5,34,Male,No,No,LPG,Well,Yes,1,11509,29524,1,Yes,Yes,43,Private,5,Yes,Temporary Shelter,308203,No
+H00885,Rajasthan,Rural,1,31421,Postgraduate,Unemployed,11030,25831,7992,4205,10053,59111,59111.0,68,Male,No,No,Electricity,Other,Yes,2,3194,41659,0,No,Yes,350,Government,3,No,Own House,399987,No
+H00886,West Bengal,Urban,1,6708,Primary,Employed,28213,2007,3901,14803,9886,58810,58810.0,45,Male,No,Yes,Other,River,Yes,2,4789,11175,1,Yes,Yes,73,Unemployed,1,No,Own House,476251,Yes
+H00887,Delhi,Urban,7,8630,No Schooling,Self-Employed,22705,27331,7947,3441,15135,76559,10937.0,66,Male,Yes,Yes,Wood,Well,No,0,10638,22799,0,Yes,No,437,Self-Employed,6,No,Own House,69468,Yes
+H00888,Karnataka,Urban,8,24595,Secondary,Self-Employed,21880,11763,5924,3257,1171,43995,5499.375,34,Male,Yes,Yes,LPG,Other,No,2,5350,48072,1,Yes,Yes,368,Private,9,No,Temporary Shelter,26055,Yes
+H00889,Tamil Nadu,Rural,3,81021,Primary,Employed,3813,4908,4741,750,1277,15489,5163.0,47,Male,Yes,Yes,Other,Piped Water,No,1,533,10050,2,Yes,Yes,225,Government,4,Yes,Temporary Shelter,430418,Yes
+H00890,Delhi,Rural,5,33308,Postgraduate,Employed,13671,28573,3661,5774,3522,55201,11040.2,27,Male,No,No,LPG,Other,No,0,3663,5513,2,Yes,Yes,306,Unemployed,5,No,Own House,420916,No
+H00891,Gujarat,Urban,1,49789,Primary,Unemployed,24640,20187,4655,5611,18744,73837,73837.0,56,Female,No,Yes,Wood,Well,Yes,0,129,39405,0,Yes,Yes,307,Private,5,Yes,Temporary Shelter,265711,Yes
+H00892,Gujarat,Urban,7,60690,Primary,Unemployed,16308,12957,7978,1787,14317,53347,7621.0,44,Male,Yes,Yes,Other,Other,No,1,12563,3669,3,Yes,Yes,453,Government,8,Yes,Own House,460410,No
+H00893,Delhi,Rural,5,31086,Postgraduate,Unemployed,28027,5379,9219,10214,14760,67599,13519.8,34,Female,No,Yes,Electricity,Piped Water,No,1,19343,1342,0,No,No,347,Unemployed,1,Yes,Temporary Shelter,173908,Yes
+H00894,West Bengal,Rural,8,21859,Secondary,Employed,4313,28959,9715,6120,1574,50681,6335.125,53,Male,No,Yes,Electricity,Piped Water,No,1,1858,37197,1,No,Yes,475,Private,5,Yes,Rented House,237320,No
+H00895,Tamil Nadu,Rural,8,12684,Higher Secondary,Self-Employed,11706,17482,7117,5460,10408,52173,6521.625,65,Female,No,No,LPG,Piped Water,No,2,15735,30185,4,No,No,314,Private,8,Yes,Temporary Shelter,26627,No
+H00896,Tamil Nadu,Rural,9,96088,Secondary,Self-Employed,19615,28105,6160,11609,9975,75464,8384.888888888889,76,Female,Yes,Yes,LPG,River,No,0,12342,10587,2,Yes,Yes,12,Private,3,Yes,Temporary Shelter,169640,Yes
+H00897,Karnataka,Urban,7,6207,Graduate,Unemployed,11837,1877,9124,11888,13378,48104,6872.0,75,Male,No,Yes,Other,Well,No,1,3649,18409,4,Yes,Yes,424,Unemployed,5,Yes,Temporary Shelter,413976,Yes
+H00898,Tamil Nadu,Rural,1,51099,Postgraduate,Employed,7831,19252,1676,4609,15620,48988,48988.0,70,Female,Yes,Yes,Wood,Piped Water,No,0,10978,30871,2,Yes,Yes,11,Government,6,No,Own House,161057,No
+H00899,Gujarat,Urban,3,72496,Secondary,Self-Employed,21383,32334,8456,12671,2486,77330,25776.666666666668,58,Female,No,No,LPG,River,No,0,19481,26738,1,No,Yes,49,Private,0,No,Own House,79944,Yes
+H00900,Uttar Pradesh,Urban,8,71093,Primary,Unemployed,21824,20049,9092,5983,11325,68273,8534.125,61,Female,No,Yes,Other,Piped Water,Yes,2,19896,36263,2,No,Yes,487,Government,4,Yes,Rented House,95368,No
+H00901,West Bengal,Urban,3,34689,Postgraduate,Self-Employed,6056,18772,2733,912,9693,38166,12722.0,44,Male,Yes,Yes,Wood,Other,No,0,4860,49692,0,No,No,312,Government,3,No,Rented House,40785,Yes
+H00902,Tamil Nadu,Rural,8,53651,No Schooling,Self-Employed,2305,3637,5200,10567,17930,39639,4954.875,32,Female,No,Yes,LPG,Well,Yes,1,9412,21715,4,No,No,433,Self-Employed,9,No,Rented House,428799,Yes
+H00903,Karnataka,Rural,1,18893,Secondary,Employed,16347,8242,6406,5606,2676,39277,39277.0,31,Female,No,No,LPG,Other,No,1,8833,8139,4,No,No,248,Government,1,No,Own House,426954,Yes
+H00904,Gujarat,Rural,5,71418,Postgraduate,Employed,28299,36651,8360,8190,19222,100722,20144.4,30,Male,No,No,Other,River,No,0,14135,8298,1,No,No,118,Government,1,No,Rented House,24204,Yes
+H00905,Uttar Pradesh,Rural,4,65011,Secondary,Self-Employed,3689,34972,8026,7620,10547,64854,16213.5,35,Female,Yes,Yes,LPG,Other,No,0,723,34454,4,Yes,No,56,Government,1,Yes,Rented House,472037,Yes
+H00906,Maharashtra,Urban,5,43635,Postgraduate,Unemployed,28093,17928,6059,12464,17384,81928,16385.6,68,Female,No,Yes,Electricity,Other,Yes,2,737,3924,1,No,No,181,Government,6,No,Temporary Shelter,491727,No
+H00907,Maharashtra,Rural,8,61115,Primary,Employed,5917,29742,7232,12241,19117,74249,9281.125,42,Female,No,No,Wood,Piped Water,Yes,1,13879,24099,3,Yes,No,449,Government,3,Yes,Rented House,16643,Yes
+H00908,Uttar Pradesh,Rural,4,83405,No Schooling,Self-Employed,25464,12831,3013,7043,5108,53459,13364.75,75,Male,No,No,Wood,Other,No,1,1299,3536,0,No,Yes,263,Unemployed,5,Yes,Temporary Shelter,332705,No
+H00909,Gujarat,Urban,4,77702,No Schooling,Employed,26995,20556,8330,2633,12406,70920,17730.0,66,Female,No,No,Electricity,Piped Water,Yes,0,19864,28114,2,No,No,105,Self-Employed,6,No,Own House,37126,No
+H00910,Karnataka,Rural,3,83518,Graduate,Employed,4936,26343,7444,3501,7734,49958,16652.666666666668,53,Male,No,No,Other,Piped Water,No,0,339,40957,2,Yes,Yes,190,Private,8,No,Own House,58126,No
+H00911,Uttar Pradesh,Urban,7,77805,Postgraduate,Employed,5862,23834,8410,470,7110,45686,6526.571428571428,49,Female,Yes,No,Electricity,Well,Yes,0,152,16157,2,Yes,Yes,136,Self-Employed,1,Yes,Temporary Shelter,344568,Yes
+H00912,West Bengal,Urban,3,63954,Secondary,Self-Employed,16506,34422,6149,10186,11024,78287,26095.666666666668,45,Female,Yes,Yes,Electricity,River,Yes,1,9613,1410,3,Yes,No,187,Self-Employed,9,Yes,Rented House,124453,No
+H00913,West Bengal,Urban,3,33064,No Schooling,Unemployed,16318,24205,1596,13298,17484,72901,24300.333333333332,70,Female,No,Yes,Wood,River,Yes,0,13755,9919,0,No,Yes,119,Private,8,No,Own House,307402,No
+H00914,Maharashtra,Urban,5,84063,No Schooling,Unemployed,17300,19830,9620,10854,13911,71515,14303.0,27,Female,No,Yes,Other,River,No,2,15982,48333,4,No,Yes,241,Government,4,No,Temporary Shelter,296671,No
+H00915,Tamil Nadu,Urban,5,7454,Higher Secondary,Unemployed,28026,9412,2451,12685,9680,62254,12450.8,42,Male,Yes,Yes,LPG,Piped Water,Yes,2,19435,13557,4,Yes,No,318,Private,5,Yes,Own House,286042,No
+H00916,Karnataka,Urban,6,25878,Higher Secondary,Employed,29672,4666,9686,11786,15725,71535,11922.5,48,Female,No,No,Electricity,River,Yes,0,426,577,0,No,Yes,71,Government,5,No,Own House,243677,No
+H00917,Maharashtra,Urban,8,56098,No Schooling,Self-Employed,7649,38045,8299,1279,10573,65845,8230.625,71,Male,No,No,Electricity,Piped Water,No,2,9327,9006,0,Yes,No,242,Private,2,Yes,Rented House,473139,No
+H00918,Tamil Nadu,Urban,6,67154,Postgraduate,Employed,21645,21786,9304,11270,4983,68988,11498.0,62,Female,No,No,Other,Well,Yes,2,18756,9968,2,No,Yes,130,Unemployed,9,Yes,Own House,450128,Yes
+H00919,Tamil Nadu,Rural,1,17991,Graduate,Unemployed,27740,6515,1095,5522,6401,47273,47273.0,34,Male,No,No,Electricity,River,No,2,11521,18646,4,No,No,456,Self-Employed,6,Yes,Temporary Shelter,177507,No
+H00920,Rajasthan,Rural,8,73344,No Schooling,Unemployed,28445,27627,8375,14132,6629,85208,10651.0,51,Female,No,No,Other,Piped Water,No,2,17333,33376,0,No,Yes,268,Government,6,Yes,Rented House,3794,No
+H00921,West Bengal,Rural,8,41593,Primary,Self-Employed,20203,16198,9533,13115,18638,77687,9710.875,36,Female,No,Yes,LPG,River,Yes,2,1373,7419,4,Yes,No,392,Self-Employed,7,No,Temporary Shelter,462342,Yes
+H00922,Gujarat,Rural,9,41304,Secondary,Employed,29281,4985,4939,8995,19348,67548,7505.333333333333,31,Male,No,Yes,Other,River,No,1,7082,33249,0,No,Yes,478,Government,4,Yes,Temporary Shelter,407914,No
+H00923,Delhi,Urban,9,35386,Graduate,Unemployed,17674,30475,6472,5457,10915,70993,7888.111111111111,41,Male,No,Yes,LPG,Well,Yes,0,9893,48155,1,Yes,No,472,Private,1,Yes,Temporary Shelter,143404,Yes
+H00924,Gujarat,Rural,2,60220,Primary,Self-Employed,19726,20403,1358,13933,4982,60402,30201.0,25,Male,Yes,Yes,Other,Other,Yes,2,18866,1945,2,Yes,Yes,51,Private,2,No,Rented House,236346,Yes
+H00925,Delhi,Urban,2,74338,Graduate,Employed,7560,4681,6019,8182,10186,36628,18314.0,74,Male,Yes,Yes,Electricity,River,No,0,7593,23784,0,Yes,Yes,491,Private,8,No,Own House,9593,No
+H00926,Uttar Pradesh,Rural,3,99289,Primary,Employed,17451,27019,7885,13568,7900,73823,24607.666666666668,50,Female,No,No,LPG,Well,Yes,2,9495,29958,3,Yes,No,61,Unemployed,5,Yes,Temporary Shelter,320276,No
+H00927,West Bengal,Rural,1,26083,Secondary,Unemployed,20610,28586,9136,9977,7306,75615,75615.0,39,Male,No,No,Electricity,River,Yes,1,16754,45430,0,Yes,Yes,118,Private,7,No,Own House,488859,Yes
+H00928,Tamil Nadu,Rural,4,23354,Secondary,Unemployed,3079,38521,4817,11449,11016,68882,17220.5,75,Male,No,No,LPG,River,No,1,7837,42778,1,Yes,No,364,Private,7,No,Own House,490242,Yes
+H00929,Karnataka,Urban,4,27190,Higher Secondary,Employed,15983,37770,3954,6414,7896,72017,18004.25,57,Male,No,No,Other,River,No,2,11172,26767,3,Yes,Yes,263,Unemployed,4,Yes,Temporary Shelter,120973,Yes
+H00930,Delhi,Rural,9,11142,Postgraduate,Employed,22590,6629,1530,5206,7838,43793,4865.888888888889,61,Female,Yes,No,Other,River,Yes,2,18680,25393,3,Yes,Yes,238,Self-Employed,0,No,Own House,101633,Yes
+H00931,Gujarat,Urban,9,33398,Primary,Unemployed,24664,28710,9987,4185,10450,77996,8666.222222222223,71,Female,Yes,Yes,Other,Other,No,2,10317,24993,0,Yes,No,350,Self-Employed,5,No,Rented House,11036,No
+H00932,Tamil Nadu,Urban,9,56971,Higher Secondary,Employed,17327,31328,8406,13081,13000,83142,9238.0,55,Female,Yes,Yes,Wood,Other,No,1,10934,4729,1,No,Yes,380,Government,6,No,Rented House,356241,Yes
+H00933,Delhi,Rural,7,46862,Primary,Unemployed,14755,13278,1947,9787,12045,51812,7401.714285714285,59,Female,Yes,Yes,Wood,River,No,1,18748,5804,3,Yes,No,254,Self-Employed,8,No,Own House,210980,Yes
+H00934,Delhi,Rural,2,58410,Higher Secondary,Employed,29355,9417,3350,12080,5741,59943,29971.5,25,Male,No,No,LPG,River,No,0,5230,1876,2,No,Yes,172,Government,1,No,Own House,315308,Yes
+H00935,Rajasthan,Rural,5,24503,Secondary,Unemployed,29104,35765,8606,8991,5195,87661,17532.2,32,Female,No,No,Wood,Well,Yes,1,13645,48381,2,Yes,Yes,308,Government,1,Yes,Rented House,493612,No
+H00936,Delhi,Urban,4,53456,Graduate,Self-Employed,9235,9963,7651,8905,12030,47784,11946.0,36,Male,No,No,Other,Well,Yes,2,8954,48096,4,No,Yes,236,Self-Employed,9,No,Own House,150423,Yes
+H00937,Karnataka,Rural,8,87035,Higher Secondary,Unemployed,19197,38292,7452,6191,14812,85944,10743.0,78,Female,Yes,No,Wood,Piped Water,No,0,12254,31336,4,No,Yes,318,Self-Employed,0,Yes,Own House,226935,Yes
+H00938,West Bengal,Urban,2,13016,Primary,Unemployed,23473,26009,4555,6427,19472,79936,39968.0,43,Male,No,Yes,Wood,Other,Yes,1,17388,1344,1,No,No,94,Unemployed,4,Yes,Own House,58413,No
+H00939,Karnataka,Urban,6,7384,Primary,Self-Employed,4031,28675,5902,9458,14818,62884,10480.666666666666,49,Male,No,No,Electricity,River,No,1,7057,1433,3,No,No,336,Government,1,No,Own House,280203,No
+H00940,Maharashtra,Rural,5,67320,Postgraduate,Employed,10514,37175,9781,8033,18666,84169,16833.8,56,Male,Yes,Yes,LPG,Other,No,2,3755,3769,2,No,Yes,494,Self-Employed,2,No,Temporary Shelter,289332,Yes
+H00941,Tamil Nadu,Rural,2,20072,Secondary,Self-Employed,29545,7731,2172,3086,11824,54358,27179.0,36,Male,Yes,No,LPG,Well,Yes,0,2846,17684,2,No,Yes,56,Self-Employed,1,No,Own House,250156,Yes
+H00942,West Bengal,Urban,1,85018,Primary,Unemployed,11095,12332,5032,14445,3718,46622,46622.0,37,Male,Yes,Yes,LPG,Other,Yes,1,2964,48447,1,Yes,No,437,Unemployed,3,No,Rented House,360735,Yes
+H00943,Rajasthan,Urban,8,45510,No Schooling,Employed,28117,20177,5424,2853,4516,61087,7635.875,52,Female,Yes,No,Wood,Other,Yes,1,8878,27377,3,Yes,Yes,402,Self-Employed,2,No,Temporary Shelter,246545,No
+H00944,West Bengal,Urban,2,53933,Graduate,Self-Employed,16287,24718,6585,13297,3337,64224,32112.0,25,Male,Yes,No,Other,River,Yes,2,12648,2033,1,Yes,No,66,Private,8,No,Temporary Shelter,198924,No
+H00945,West Bengal,Rural,7,26826,Higher Secondary,Employed,7911,3911,8234,14668,16812,51536,7362.285714285715,75,Male,No,Yes,Electricity,River,No,0,2755,33614,0,Yes,Yes,45,Private,9,No,Rented House,81795,Yes
+H00946,Gujarat,Urban,9,73026,Postgraduate,Employed,13695,19799,5364,9480,7534,55872,6208.0,30,Male,No,Yes,LPG,Well,No,0,19116,41900,2,Yes,Yes,93,Government,1,No,Own House,494358,Yes
+H00947,West Bengal,Rural,9,30518,Graduate,Self-Employed,21037,16194,9816,12777,7809,67633,7514.777777777777,32,Male,Yes,No,Wood,River,Yes,0,6473,24457,1,Yes,No,137,Unemployed,6,No,Temporary Shelter,252989,Yes
+H00948,Rajasthan,Urban,8,29045,Secondary,Employed,29052,5951,1721,14911,14879,66514,8314.25,28,Female,No,Yes,Other,Well,No,0,14554,27171,1,No,Yes,368,Self-Employed,2,No,Temporary Shelter,11829,No
+H00949,Karnataka,Urban,9,55876,Postgraduate,Self-Employed,5340,29333,3360,5064,4739,47836,5315.111111111111,29,Female,No,No,Electricity,Well,Yes,2,1693,6927,0,Yes,No,92,Government,9,No,Own House,335817,Yes
+H00950,West Bengal,Rural,2,97446,Higher Secondary,Unemployed,9876,22673,8928,2714,12628,56819,28409.5,49,Male,No,No,Electricity,Piped Water,Yes,1,11084,30944,4,No,No,231,Self-Employed,7,No,Own House,286646,Yes
+H00951,Uttar Pradesh,Urban,6,95102,Higher Secondary,Employed,17896,6565,9836,4169,16356,54822,9137.0,46,Male,No,Yes,LPG,Piped Water,Yes,1,12003,49065,2,No,No,401,Private,3,Yes,Rented House,420420,No
+H00952,Tamil Nadu,Rural,4,56919,No Schooling,Unemployed,14435,23821,3753,3484,10111,55604,13901.0,52,Male,Yes,No,LPG,Piped Water,No,0,17068,25764,1,No,No,395,Self-Employed,3,No,Temporary Shelter,263409,Yes
+H00953,West Bengal,Rural,4,32103,Secondary,Unemployed,3141,26494,4282,7940,4650,46507,11626.75,63,Male,No,No,Other,Other,No,0,2919,892,2,No,No,48,Self-Employed,8,Yes,Own House,166823,No
+H00954,Tamil Nadu,Urban,5,41188,Postgraduate,Employed,27425,34941,7457,4766,11609,86198,17239.6,47,Female,No,Yes,Wood,Piped Water,Yes,0,3756,39795,4,No,No,22,Self-Employed,2,Yes,Own House,481037,No
+H00955,Uttar Pradesh,Rural,3,10845,Postgraduate,Self-Employed,26942,9624,1266,2396,1946,42174,14058.0,28,Female,No,No,Other,River,Yes,1,3283,17751,1,No,Yes,61,Private,6,No,Rented House,417531,Yes
+H00956,Uttar Pradesh,Rural,1,91698,Primary,Employed,21281,1835,3181,12575,12436,51308,51308.0,76,Male,Yes,No,LPG,River,Yes,1,4691,42610,0,Yes,No,266,Private,0,Yes,Temporary Shelter,309601,No
+H00957,Tamil Nadu,Urban,8,41674,No Schooling,Unemployed,11281,19646,8210,14931,11536,65604,8200.5,28,Male,No,No,Other,Piped Water,Yes,0,7350,39237,2,No,No,328,Unemployed,6,No,Own House,46875,No
+H00958,Delhi,Rural,5,24337,No Schooling,Unemployed,22425,12824,7982,989,6968,51188,10237.6,71,Male,Yes,No,Wood,Other,No,2,17540,47668,0,No,Yes,117,Private,9,No,Rented House,322503,Yes
+H00959,Maharashtra,Rural,3,27313,Postgraduate,Self-Employed,4038,38335,5586,3675,14521,66155,22051.666666666668,45,Male,Yes,Yes,Electricity,Well,No,1,3061,19174,4,Yes,No,439,Government,1,Yes,Temporary Shelter,499663,No
+H00960,Gujarat,Rural,7,31943,Postgraduate,Employed,29436,4815,8464,11545,4675,58935,8419.285714285714,61,Male,Yes,Yes,Electricity,Other,Yes,1,5919,7974,4,Yes,Yes,87,Self-Employed,5,No,Temporary Shelter,106334,No
+H00961,Delhi,Urban,7,82949,Graduate,Unemployed,6270,3429,3165,10056,15890,38810,5544.285714285715,65,Female,Yes,Yes,Electricity,Other,Yes,0,17676,16776,2,Yes,No,88,Private,8,Yes,Temporary Shelter,122950,Yes
+H00962,Delhi,Rural,1,5276,Graduate,Unemployed,12046,3607,4013,1509,5580,26755,26755.0,26,Female,No,No,Electricity,Well,No,2,10076,39732,4,Yes,No,54,Government,5,Yes,Temporary Shelter,436636,Yes
+H00963,Karnataka,Urban,9,56151,Graduate,Unemployed,6683,26650,995,1064,15971,51363,5707.0,31,Male,Yes,Yes,LPG,Well,Yes,0,9752,36890,3,Yes,No,152,Private,2,No,Rented House,164451,Yes
+H00964,Gujarat,Urban,2,22611,No Schooling,Self-Employed,18878,39698,6322,12255,15393,92546,46273.0,73,Female,Yes,Yes,LPG,Well,No,0,16012,18132,2,Yes,Yes,238,Self-Employed,0,Yes,Own House,252988,Yes
+H00965,Gujarat,Rural,5,16944,Primary,Unemployed,9116,33353,2572,5589,17748,68378,13675.6,40,Female,Yes,Yes,Wood,River,No,2,9175,30985,3,Yes,Yes,264,Government,3,Yes,Temporary Shelter,326246,Yes
+H00966,Delhi,Rural,5,57887,Higher Secondary,Unemployed,29758,37790,8295,3563,16509,95915,19183.0,41,Female,Yes,No,Wood,Well,Yes,2,7902,11108,4,No,No,267,Private,3,No,Temporary Shelter,363971,No
+H00967,West Bengal,Rural,8,86442,Graduate,Employed,3784,12991,9029,11916,6717,44437,5554.625,44,Male,Yes,Yes,Wood,Well,No,2,2067,44970,2,Yes,No,394,Private,7,Yes,Own House,185736,No
+H00968,Karnataka,Urban,8,54847,Primary,Employed,21894,22168,4449,12178,6172,66861,8357.625,47,Female,No,Yes,Wood,Other,No,1,1979,48210,3,No,Yes,112,Government,9,No,Temporary Shelter,354832,No
+H00969,Karnataka,Rural,7,63653,Secondary,Unemployed,5786,32099,6533,8415,2002,54835,7833.571428571428,58,Female,Yes,No,Other,Other,No,0,18120,43978,4,Yes,Yes,165,Unemployed,9,No,Temporary Shelter,202032,No
+H00970,Uttar Pradesh,Rural,7,91072,Graduate,Unemployed,23650,36919,8828,3203,1910,74510,10644.285714285714,35,Male,No,No,Wood,Piped Water,No,1,18302,5271,1,Yes,Yes,155,Government,6,No,Own House,468691,No
+H00971,Rajasthan,Rural,6,61622,Higher Secondary,Employed,11190,32416,3055,14374,4270,65305,10884.166666666666,58,Female,No,No,Electricity,Other,Yes,2,700,9689,1,No,No,7,Government,9,No,Own House,321613,Yes
+H00972,Gujarat,Rural,6,32810,Secondary,Self-Employed,7428,6580,6870,8702,10597,40177,6696.166666666667,57,Male,Yes,No,Electricity,Well,No,1,4046,18177,0,Yes,Yes,201,Government,6,Yes,Temporary Shelter,357933,Yes
+H00973,Delhi,Rural,9,82842,Secondary,Self-Employed,8681,8054,4915,13972,4501,40123,4458.111111111111,50,Female,No,No,Electricity,River,No,2,2073,6810,1,Yes,Yes,216,Government,6,No,Own House,427612,Yes
+H00974,Uttar Pradesh,Urban,6,15503,Higher Secondary,Self-Employed,8893,25090,6459,1431,1098,42971,7161.833333333333,26,Male,No,No,Other,Other,No,2,11945,20336,3,Yes,Yes,430,Private,1,Yes,Rented House,275320,Yes
+H00975,Tamil Nadu,Urban,2,89761,Graduate,Self-Employed,14661,16823,9607,8159,11476,60726,30363.0,47,Male,No,Yes,Wood,Other,Yes,0,16778,38327,1,Yes,Yes,291,Government,8,Yes,Rented House,65036,No
+H00976,Maharashtra,Rural,2,41976,No Schooling,Self-Employed,16892,38341,6493,12180,19925,93831,46915.5,65,Female,Yes,Yes,Electricity,Well,Yes,0,3048,15037,2,Yes,Yes,380,Government,5,No,Temporary Shelter,7907,Yes
+H00977,Rajasthan,Rural,5,16590,Higher Secondary,Self-Employed,11643,16339,5521,2911,6891,43305,8661.0,46,Female,Yes,No,Electricity,Other,Yes,0,19836,9854,2,Yes,Yes,49,Self-Employed,1,No,Temporary Shelter,3372,Yes
+H00978,Rajasthan,Rural,4,15886,Higher Secondary,Self-Employed,11943,4491,3407,6781,16950,43572,10893.0,58,Male,Yes,No,Electricity,Other,No,1,522,25788,2,Yes,Yes,106,Private,0,No,Own House,158644,No
+H00979,Rajasthan,Rural,2,17866,Higher Secondary,Self-Employed,12472,1706,3414,7905,15408,40905,20452.5,39,Male,Yes,Yes,Electricity,Well,Yes,0,11101,7148,1,No,No,8,Self-Employed,0,Yes,Own House,286736,No
+H00980,Karnataka,Urban,3,71624,Secondary,Employed,14992,32957,4370,13193,12090,77602,25867.333333333332,34,Female,Yes,No,LPG,Other,Yes,2,8741,22668,1,Yes,Yes,232,Private,0,No,Temporary Shelter,406318,Yes
+H00981,Tamil Nadu,Rural,7,73899,Primary,Self-Employed,23042,16728,9690,13847,16779,80086,11440.857142857143,39,Female,Yes,No,Wood,River,Yes,0,17852,32147,0,No,No,187,Unemployed,3,Yes,Temporary Shelter,108093,No
+H00982,Rajasthan,Urban,8,37792,No Schooling,Self-Employed,25466,7997,5585,621,3250,42919,5364.875,66,Female,Yes,Yes,Wood,Piped Water,No,1,12674,9583,4,No,No,455,Unemployed,3,No,Rented House,260529,No
+H00983,Tamil Nadu,Urban,6,14764,Graduate,Self-Employed,13126,39001,7046,10165,10416,79754,13292.333333333334,53,Female,No,No,Other,Other,Yes,0,17805,17645,0,No,Yes,322,Private,8,No,Own House,156714,Yes
+H00984,West Bengal,Rural,5,91156,Graduate,Unemployed,8869,39523,895,14856,7306,71449,14289.8,47,Male,No,No,LPG,River,Yes,0,285,17513,3,No,No,308,Unemployed,0,Yes,Temporary Shelter,265283,No
+H00985,Rajasthan,Urban,1,47727,Primary,Employed,25991,26163,1438,11960,6929,72481,72481.0,41,Male,Yes,Yes,Other,Other,Yes,0,19129,29013,2,No,No,337,Unemployed,2,Yes,Temporary Shelter,77179,Yes
+H00986,Maharashtra,Urban,8,83471,Higher Secondary,Employed,9669,18718,3010,1146,8623,41166,5145.75,33,Male,No,Yes,Electricity,Piped Water,No,1,11957,45317,1,No,Yes,109,Private,2,No,Own House,280787,No
+H00987,Tamil Nadu,Urban,3,13068,No Schooling,Employed,13538,22972,5136,9578,18515,69739,23246.333333333332,74,Female,Yes,Yes,Other,Well,No,2,7108,48222,4,No,No,482,Government,7,No,Own House,231626,No
+H00988,Tamil Nadu,Urban,6,12295,Graduate,Self-Employed,12065,19231,2149,2034,6952,42431,7071.833333333333,60,Female,Yes,Yes,Electricity,Piped Water,Yes,2,14990,33846,4,Yes,Yes,144,Self-Employed,1,No,Temporary Shelter,366569,No
+H00989,Maharashtra,Rural,3,46160,Postgraduate,Self-Employed,24603,13126,4190,1764,17658,61341,20447.0,33,Male,Yes,Yes,Electricity,Other,Yes,2,17829,8809,1,Yes,Yes,227,Private,5,Yes,Temporary Shelter,60117,No
+H00990,Rajasthan,Rural,7,16390,Graduate,Unemployed,22918,24595,3935,7532,15956,74936,10705.142857142857,40,Male,No,No,Wood,Piped Water,Yes,0,5837,25458,0,Yes,Yes,308,Private,3,No,Temporary Shelter,159852,Yes
+H00991,Maharashtra,Urban,7,25131,Higher Secondary,Employed,24363,13118,3701,5144,4519,50845,7263.571428571428,60,Male,Yes,No,Wood,Piped Water,No,0,15032,48628,4,No,Yes,411,Private,9,No,Own House,106485,No
+H00992,Tamil Nadu,Rural,9,99754,Postgraduate,Self-Employed,12171,4317,4679,14077,12919,48163,5351.444444444444,72,Male,Yes,No,Wood,Well,No,1,1466,11123,0,Yes,Yes,113,Self-Employed,5,Yes,Temporary Shelter,375751,Yes
+H00993,Maharashtra,Rural,5,80969,Primary,Employed,27274,16504,8905,13806,1429,67918,13583.6,75,Male,Yes,No,Wood,Other,Yes,2,9106,29951,1,No,Yes,62,Private,4,No,Temporary Shelter,213275,Yes
+H00994,Tamil Nadu,Rural,8,20038,No Schooling,Unemployed,19696,4057,3737,14577,19896,61963,7745.375,57,Male,Yes,No,Wood,Piped Water,No,0,8479,28856,0,No,Yes,398,Self-Employed,8,Yes,Temporary Shelter,60332,No
+H00995,Tamil Nadu,Rural,8,57327,Primary,Unemployed,4962,27660,4362,10339,6764,54087,6760.875,79,Female,No,Yes,LPG,Piped Water,Yes,0,10280,49389,2,Yes,No,274,Self-Employed,8,Yes,Rented House,30632,No
+H00996,West Bengal,Rural,1,98718,Primary,Unemployed,15851,38196,558,1508,8473,64586,64586.0,55,Male,Yes,No,Wood,Well,No,0,5932,11245,1,No,Yes,123,Unemployed,0,No,Rented House,169565,Yes
+H00997,Delhi,Urban,5,82064,No Schooling,Employed,21322,1402,5438,3186,10197,41545,8309.0,30,Male,No,No,Other,River,Yes,1,9996,21292,1,No,No,85,Government,2,No,Own House,179424,No
+H00998,Tamil Nadu,Rural,3,26281,No Schooling,Self-Employed,14979,9605,3471,586,11636,40277,13425.666666666666,34,Male,No,No,Electricity,Other,No,2,1178,47359,4,Yes,Yes,69,Unemployed,0,Yes,Temporary Shelter,160480,No
+H00999,Rajasthan,Rural,1,59189,Graduate,Self-Employed,28876,16761,8814,6331,19703,80485,80485.0,40,Male,Yes,No,Wood,River,Yes,1,2551,18939,4,No,Yes,46,Private,5,Yes,Temporary Shelter,483054,Yes
+H01000,Uttar Pradesh,Rural,4,53511,Graduate,Unemployed,21581,28043,9854,9553,1684,70715,17678.75,28,Male,Yes,No,LPG,River,No,2,16025,27510,4,Yes,Yes,198,Private,2,No,Own House,87157,No
