@@ -64,18 +64,18 @@ st.markdown("""
         margin-top: 2rem;
         margin-bottom: 1.5rem;
         font-weight: bold;
-        border-bottom: 2px solid #FFFFFF;
+        border-bottom: 0;
         padding-bottom: 0.5rem;
     }
     
     /* Section styling */
     .section {
         padding: 1.2rem;
-        border-radius: 0.5rem;
+        border-radius: 0;
         margin-bottom: 1.5rem;
         background-color: #1E1E1E;
         color: #FFFFFF;
-        border: 1px solid #333333;
+        border: 0;
         font-weight: bold;
     }
     
@@ -84,10 +84,10 @@ st.markdown("""
         background-color: #000000;
         color: #FFFFFF;
         padding: 1.5rem;
-        border-radius: 0.5rem;
-        border-left: 5px solid #FFFFFF;
+        border-radius: 0;
+        border-left: 0;
         margin-bottom: 1.5rem;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        box-shadow: none;
     }
     
     .highlight h3, .highlight h4 {
@@ -108,8 +108,8 @@ st.markdown("""
         font-size: 0.9rem;
         color: #FFFFFF;
         background-color: #000000;
-        border-radius: 0.5rem;
-        border-top: 1px solid #333333;
+        border-radius: 0;
+        border-top: 0;
     }
     
     /* Improve contrast for all text */
@@ -124,30 +124,30 @@ st.markdown("""
         background-color: #000000;
         color: #FFFFFF;
         padding: 1.2rem;
-        border-radius: 0.5rem;
+        border-radius: 0;
         margin-bottom: 1.5rem;
-        border: 1px solid #1565C0;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        border: 0;
+        box-shadow: none;
     }
     
     .success-card {
         background-color: #000000;
         color: #FFFFFF;
         padding: 1.2rem;
-        border-radius: 0.5rem;
+        border-radius: 0;
         margin-bottom: 1.5rem;
-        border: 1px solid #2E7D32;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        border: 0;
+        box-shadow: none;
     }
     
     .warning-card {
         background-color: #000000;
         color: #FFFFFF;
         padding: 1.2rem;
-        border-radius: 0.5rem;
+        border-radius: 0;
         margin-bottom: 1.5rem;
-        border: 1px solid #EF6C00;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        border: 0;
+        box-shadow: none;
     }
     
     /* Make sure links are visible */
@@ -179,7 +179,7 @@ st.markdown("""
     .stButton>button {
         background-color: #1E1E1E;
         color: #FFFFFF;
-        border: 1px solid #FFFFFF;
+        border: 0;
         font-weight: bold;
     }
     
@@ -236,15 +236,15 @@ def main():
         df = pd.DataFrame()
     
     # Sidebar
-    st.sidebar.markdown("<h2 style='text-align: center; color: #FFFFFF; font-weight: bold; font-size: 1.8rem; border-bottom: 2px solid #FFFFFF; padding-bottom: 0.8rem; margin-bottom: 1.5rem;'>MPCE Prediction App</h2>", unsafe_allow_html=True)
-    st.sidebar.image("https://www.india.gov.in/sites/upload_files/npi/files/spotlights/budget-2023-24-inner-banner.jpg", use_column_width=True)
+    st.sidebar.markdown("<h2 style='text-align: center; color: #FFFFFF; font-weight: bold; font-size: 1.8rem; border-bottom: 0; padding-bottom: 0.8rem; margin-bottom: 1.5rem;'>MPCE Prediction App</h2>", unsafe_allow_html=True)
+    st.sidebar.image("https://www.india.gov.in/sites/upload_files/npi/files/spotlights/budget-2023-24-inner-banner.jpg", use_container_width=True)
     
     # Add a dark background to the sidebar
     st.markdown("""
     <style>
     [data-testid="stSidebar"] {
         background-color: #000000;
-        border-right: 1px solid #333333;
+        border-right: 0;
     }
     
     [data-testid="stSidebar"] [data-testid="stRadio"] > label {
@@ -294,10 +294,10 @@ def main():
         
         with col2:
             if os.path.exists('plots/mpce_distribution.png'):
-                st.image('plots/mpce_distribution.png', caption='MPCE Distribution', use_column_width=True)
+                st.image('plots/mpce_distribution.png', caption='MPCE Distribution', use_container_width=True)
             
             if os.path.exists('plots/model_comparison.png'):
-                st.image('plots/model_comparison.png', caption='Model Performance Comparison', use_column_width=True)
+                st.image('plots/model_comparison.png', caption='Model Performance Comparison', use_container_width=True)
         
         st.markdown("<h2 class='sub-header'>How to Use This App</h2>", unsafe_allow_html=True)
         
@@ -457,7 +457,7 @@ def main():
                 
                 st.markdown(f"""
                 <div class='success-card'>
-                <h4 style="color: #FFFFFF; font-weight: bold; font-size: 1.4rem; border-bottom: 1px solid #FFFFFF; padding-bottom: 0.5rem;">Percentile Rank: {percentile}%</h4>
+                <h4 style="color: #FFFFFF; font-weight: bold; font-size: 1.4rem; border-bottom: 0; padding-bottom: 0.5rem;">Percentile Rank: {percentile}%</h4>
                 <p style="color: #FFFFFF; font-weight: bold; font-size: 1.2rem;">Your predicted MPCE is higher than approximately {percentile}% of Indian households in our dataset.</p>
                 </div>
                 """, unsafe_allow_html=True)
@@ -565,7 +565,7 @@ def main():
             
             with col1:
                 if os.path.exists('plots/mpce_distribution.png'):
-                    st.image('plots/mpce_distribution.png', caption='MPCE Distribution', use_column_width=True)
+                    st.image('plots/mpce_distribution.png', caption='MPCE Distribution', use_container_width=True)
                 else:
                     # Create the plot if it doesn't exist
                     fig, ax = plt.subplots(figsize=(10, 6))
@@ -620,7 +620,7 @@ def main():
             
             with col1:
                 if os.path.exists('plots/mpce_by_state.png'):
-                    st.image('plots/mpce_by_state.png', caption='MPCE by State', use_column_width=True)
+                    st.image('plots/mpce_by_state.png', caption='MPCE by State', use_container_width=True)
                 else:
                     # Create the plot if it doesn't exist
                     fig, ax = plt.subplots(figsize=(12, 8))
@@ -632,7 +632,7 @@ def main():
             
             with col2:
                 if os.path.exists('plots/mpce_by_rural_urban.png'):
-                    st.image('plots/mpce_by_rural_urban.png', caption='MPCE by Rural/Urban', use_column_width=True)
+                    st.image('plots/mpce_by_rural_urban.png', caption='MPCE by Rural/Urban', use_container_width=True)
                 else:
                     # Create the plot if it doesn't exist
                     fig, ax = plt.subplots(figsize=(10, 6))
@@ -693,7 +693,7 @@ def main():
             
             with col1:
                 if os.path.exists('plots/mpce_by_education.png'):
-                    st.image('plots/mpce_by_education.png', caption='MPCE by Education Level', use_column_width=True)
+                    st.image('plots/mpce_by_education.png', caption='MPCE by Education Level', use_container_width=True)
                 else:
                     # Create the plot if it doesn't exist
                     fig, ax = plt.subplots(figsize=(12, 8))
@@ -705,7 +705,7 @@ def main():
             
             with col2:
                 if os.path.exists('plots/mpce_by_employment.png'):
-                    st.image('plots/mpce_by_employment.png', caption='MPCE by Employment Status', use_column_width=True)
+                    st.image('plots/mpce_by_employment.png', caption='MPCE by Employment Status', use_container_width=True)
                 else:
                     # Create the plot if it doesn't exist
                     fig, ax = plt.subplots(figsize=(12, 8))
@@ -718,7 +718,7 @@ def main():
             st.markdown("<h4>Relationship between Income and MPCE</h4>", unsafe_allow_html=True)
             
             if os.path.exists('plots/mpce_vs_income.png'):
-                st.image('plots/mpce_vs_income.png', caption='MPCE vs Monthly Income', use_column_width=True)
+                st.image('plots/mpce_vs_income.png', caption='MPCE vs Monthly Income', use_container_width=True)
             else:
                 # Create the plot if it doesn't exist
                 fig, ax = plt.subplots(figsize=(10, 6))
@@ -1078,7 +1078,7 @@ def main():
     st.markdown("""
     <div class='footer'>
         <p style="font-weight: bold; color: #FFFFFF; font-size: 1.1rem;">MPCE Prediction App | Developed for Government of India Budget Planning and Execution</p>
-        <p style="color: #FFFFFF; font-weight: bold;">© 2023 All Rights Reserved</p>
+
     </div>
     """, unsafe_allow_html=True)
 
